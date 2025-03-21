@@ -1,0 +1,32 @@
+<!-- Banner de Destaque -->
+<div class="banner">
+  <h1>Mais de 2.000 Exercícios Disponíveis!</h1>
+  <p>Explore nossa ampla seleção de exercícios para todos os níveis e objetivos.</p>
+</div>
+
+<!-- Campo de Busca -->
+<div class="field" id="searchform">
+  <input
+    type="text"
+    [(ngModel)]="searchTerm"
+    placeholder="Buscar por músculo..."
+    (input)="filterExercises()"
+    class="search-input"
+  />
+</div>
+
+<!-- Lista de Músculos Filtrados -->
+<ul class="card-list">
+  <li class="card" *ngFor="let exercise of filteredExercises">
+    <router-outlet class="card-image" target="_blank" [routerLink]="[exercise.name]">
+      <img
+        [src]="exercise.url || 'assets/default-image.jpg'"
+        alt="{{ exercise.name }}"
+      />
+    </router-outlet>
+    <a class="card-description" target="_blank">
+      <h2>{{ exercise.name }}</h2>
+      <p>{{ exercise.description }}</p>
+    </a>
+  </li>
+</ul>

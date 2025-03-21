@@ -1,0 +1,47 @@
+<div class="header">
+    <!-- Botão Voltar -->
+    <button class="back-button" routerLink="/">Voltar</button>
+    
+    <!-- Filtro por Nível -->
+    <div class="filter-container">
+        <label for="levelFilter">Filtrar por Nível:</label>
+        <select id="levelFilter" [(ngModel)]="selectedLevel" (change)="applyFilters()">
+            <option value="">Todos</option>
+            <option value="Novato">Novato</option>
+            <option value="Iniciante">Iniciante</option>
+            <option value="Intermediário">Intermediário</option>
+            <option value="Avançado">Avançado</option>
+        </select>
+    </div>
+
+    <!-- Campo de Busca -->
+    <div class="field" id="searchform">
+        <input
+            type="text"
+            [(ngModel)]="searchTerm"
+            placeholder="Buscar por músculo..."
+            (input)="applyFilters()"
+            class="search-input"
+        />
+    </div>
+</div>
+
+<!-- Lista de Músculos Filtrados -->
+<ul class="card-list">
+    <li class="card" *ngFor="let exercise of getPaginatedExercises(); let i = index">
+        <a class="card-image" [routerLink]="['/exercise', exercise.id]">
+            <img src="../../../assets/Mock/Calves/calves.jpg" alt="{{ exercise.name }}" />
+        </a>
+        <a class="card-description" target="_blank">
+            <h3>{{ exercise.name.replace('Exercício:', '').replace('Texto:', '').trim() }}</h3>
+            <p>Movimenta o tornozelo e impulsiona o corpo.</p>
+        </a>
+    </li>
+</ul>
+
+<!-- Controles de Paginação -->
+<div class="pagination-controls">
+    <button class="pagination-button" (click)="previousPage()" [disabled]="!hasPreviousPage()">Anterior</button>
+    <span>Página {{ currentPage }} de {{ totalPages }}</span>
+    <button class="pagination-button" (click)="nextPage()" [disabled]="!hasNextPage()">Próxima</button>
+</div>

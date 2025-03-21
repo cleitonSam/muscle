@@ -1,0 +1,175 @@
+/* Container do campo de busca */
+.field {
+    position: relative;
+    width: 100%;
+    max-width: 400px; /* Largura máxima ajustável */
+    margin: 0 auto; /* Centraliza o campo de busca */
+    padding-top: 20px; /* Espaçamento superior */
+    display: flex;
+}
+
+/* Estilo do campo de entrada */
+.search-input {
+    width: 100%; /* Ocupa toda a largura disponível */
+    padding: 10px 40px 10px 15px; /* Espaçamento para o ícone */
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 25px; /* Bordas arredondadas */
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+/* Efeito ao focar no campo de busca */
+.search-input:focus {
+    border-color: #20409A; /* Cor azul ao focar */
+}
+
+/* Lazy Load Styles */
+.card-image {
+    display: block;
+    position: relative; /* Permite controle sobre o posicionamento interno */
+    min-height: 15rem; /* Altura mínima ajustada */
+    background: #fff center center no-repeat;
+    background-size: cover;
+    overflow: hidden; /* Garante que o conteúdo não transborde */
+    
+}
+
+.card-image > img {
+    display: block;
+    width: 100%; /* Imagem ocupa toda a largura do container */
+    height: 15rem; /* Altura fixa para todas as imagens */
+    object-fit: cover; /* Mantém a proporção da imagem enquanto preenche o espaço */
+   
+}
+
+/* Layout Styles */
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+.card-list {
+    display: flex; /* Flexbox para layout */
+    flex-wrap: wrap; /* Permite que os cards quebrem para a próxima linha */
+    justify-content: center; /* Centraliza os cards */
+    max-width: 85rem; /* Largura máxima do contêiner */
+    margin: 1rem auto; /* Centraliza o contêiner na tela */
+    padding: 0;
+    list-style: none;
+    cursor: pointer;
+}
+
+.card {
+    flex: 1 1 calc(25% - 2rem); /* 4 cards por linha em telas grandes */
+    max-width: calc(25% - 2rem); /* Largura máxima de 25% menos margens */
+    margin: 1rem;
+    font-size: 1rem;
+    text-decoration: none;
+    overflow: hidden;
+    box-shadow: 0 0 3rem -1rem rgba(0, 0, 0, 0.5);
+    transition: transform 0.1s ease-in-out, box-shadow 0.1s;
+   
+}
+
+.card:hover {
+    transform: translateY(-0.5rem) scale(1.0125);
+    box-shadow: 0 0.5em 3rem -1rem rgba(0, 0, 0, 0.5);
+}
+
+.card-description {
+    display: block;
+    padding: 1em 0.5em;
+    color: #515151;
+    text-decoration: none;
+}
+
+.card-description > h2 {
+    margin: 0 0 0.5em;
+}
+
+.card-description > p {
+    margin: 0;
+}
+
+/* Media Queries para Responsividade */
+
+/* Tablets e dispositivos médios (até 1024px) */
+@media (max-width: 1024px) {
+    .card {
+        flex: 1 1 calc(33.33% - 2rem); /* 3 cards por linha */
+        max-width: calc(33.33% - 2rem);
+    }
+}
+
+/* Smartphones e dispositivos pequenos (até 768px) */
+@media (max-width: 768px) {
+    .card {
+        flex: 1 1 calc(50% - 2rem); /* 2 cards por linha */
+        max-width: calc(50% - 2rem);
+    }
+
+    .search-input {
+        font-size: 14px; /* Reduz o tamanho da fonte */
+    }
+    .banner h1 {
+        font-size: 1.8rem;
+    }
+
+    .banner p {
+        font-size: 1rem;
+    }
+}
+
+/* Telas muito pequenas (até 480px) */
+@media (max-width: 480px) {
+    .card {
+        flex: 1 1 100%; /* 1 card por linha */
+        max-width: 100%;
+    }
+
+    .field {
+        max-width: 300px; /* Reduz a largura máxima do campo de busca */
+        display: flex;
+    }
+
+    .search-input {
+        font-size: 12px; /* Reduz ainda mais o tamanho da fonte */
+    }
+
+    .banner h1 {
+        font-size: 1.5rem;
+    }
+
+    .banner p {
+        font-size: 0.9rem;
+    }
+
+}
+
+
+.banner {
+    text-align: center;
+    background-color: #20409A;
+    color: #fff;
+    padding: 40px 20px;
+    border-radius: 10px;
+    margin: 20px auto; /* Centraliza e adiciona espaçamento */
+    max-width: 800px; /* Largura máxima para telas grandes */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 85px;
+    
+}
+
+.banner h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.banner p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}

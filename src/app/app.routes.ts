@@ -1,0 +1,51 @@
+import { Routes } from '@angular/router';
+import { MuscleComponent } from './components/muscle/muscle.component';
+import { AbdomenComponent } from './components/abdomen/abdomen.component';
+import { AbdomenDetailsComponent } from './components/abdomen/abdomen-details/abdomen-details.component';
+import { BicepsComponent } from './components/biceps/biceps.component';
+import { PanturrilhasComponent } from './components/panturrilhas/panturrilhas.component';
+import { PeitoComponent } from './components/peito/peito.component';
+import { OmbrosFrontaisComponent } from './components/ombros-frontais/ombros-frontais.component';
+import { AntebracosComponent } from './components/antebracos/antebracos.component';
+import { PosteriorCoxaComponent } from './components/posterior-coxa/posterior-coxa.component';
+import { MaosComponent } from './components/maos/maos.component';
+import { DorsaisComponent } from './components/dorsais/dorsais.component';
+import { InferiorCostasComponent } from './components/inferior-costas/inferior-costas.component';
+import { ObliqueComponent } from './components/oblique/oblique.component';
+import { QuadricepsComponent } from './components/quadriceps/quadriceps.component';
+import { OmbroTraseiroComponent } from './components/ombro-traseiro/ombro-traseiro.component';
+import { TrapezioMedioComponent } from './components/trapezio-medio/trapezio-medio.component';
+import { TrapezioComponent } from './components/trapezio/trapezio.component';
+import { TricepsComponent } from './components/triceps/triceps.component';
+import { GluteosComponent } from './components/gluteos/gluteos.component';
+import { AntebracosDetailsComponent } from './components/antebracos/antebracos-details/antebracos-details.component';
+import { BicepsDetailsComponent } from './components/biceps/biceps-details/biceps-details.component';
+import { DorsaisDetailsComponent } from './components/dorsais/dorsais-details/dorsais-details.component';
+
+
+
+
+export const routes: Routes = [
+    { path: '', component: MuscleComponent },
+    { path: 'Abdômen', component: AbdomenComponent },
+    { path: 'Bíceps', component: BicepsComponent },
+    { path: 'Panturrilhas', component: PanturrilhasComponent },
+    { path: 'Peito', component: PeitoComponent },
+    { path: 'Antebraços', component: AntebracosComponent },
+    { path: 'Ombros Frontais', component: OmbrosFrontaisComponent },
+    { path: 'Posterior da Coxa', component: PosteriorCoxaComponent },
+    { path: 'Maos', component: MaosComponent },
+    { path: 'Dorsais', component: DorsaisComponent },
+    { path: 'Parte Inferior Das Costas', component: InferiorCostasComponent },
+    { path: 'Oblíque', component: ObliqueComponent },
+    { path: 'Quadríceps', component: QuadricepsComponent },
+    { path: 'Ombros Traseiros', component: OmbroTraseiroComponent },
+    { path: 'Trapézios Médios', component: TrapezioMedioComponent },
+    { path: 'Trapézios', component: TrapezioComponent },
+    { path: 'Tríceps', component: TricepsComponent },
+    { path: 'Glúteos', component: GluteosComponent },
+    { path: 'exercise/:id', component: AbdomenDetailsComponent },
+    { path: 'Antebraços/:id', component: AntebracosDetailsComponent },
+    { path: 'Bíceps/:id', component: BicepsDetailsComponent },
+    { path: 'Dorsais/:id', component: DorsaisDetailsComponent }
+];

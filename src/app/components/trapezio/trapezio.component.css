@@ -1,0 +1,220 @@
+/* Botão Voltar */
+/* Botão Voltar */
+.back-button {
+    position: fixed; /* Fixa o botão na tela */
+    top: 15px; /* Distância do topo */
+    left: 15px; /* Distância da esquerda */
+    padding: 12px 18px; /* Espaçamento interno */
+    font-size: 1rem; /* Tamanho da fonte */
+    font-weight: bold; /* Negrito para maior destaque */
+    color: white; /* Cor do texto */
+    background-color: #20409A; /* Cor de fundo azul */
+    border: none; /* Remove bordas */
+    border-radius: 10px; /* Bordas arredondadas */
+    cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+    text-decoration: none; /* Remove sublinhado de links */
+    transition: all 0.3s ease-in-out; /* Transição suave para efeitos */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Sombra para dar profundidade */
+    z-index: 1000; /* Garante que o botão fique acima de outros elementos */
+}
+
+.back-button:hover {
+    background-color: #20409A; /* Mantém a cor de fundo */
+    transform: scale(1.05); /* Aumenta ligeiramente o tamanho ao passar o mouse */
+}
+
+
+/* Cabeçalho organizado */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Espaçamento entre os elementos */
+    gap: 15px; /* Espaço mínimo entre os elementos */
+    padding: 20px;
+    margin-top: 20px;
+    max-width: 1200px; /* Largura máxima para evitar overflow */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 85px;
+}
+
+/* Container de filtros */
+.filter-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.filter-container label {
+    font-size: 1rem;
+    white-space: nowrap; /* Evita que o texto quebre em várias linhas */
+}
+
+.filter-container select {
+    padding: 8px;
+    font-size: 1rem;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    transition: border-color 0.3s ease;
+    width: auto; /* Ajusta automaticamente ao tamanho do conteúdo */
+}
+
+.filter-container select:focus {
+    border-color: #20409A;
+}
+
+/* Campo de busca */
+.search-input {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 25px;
+    outline: none;
+    transition: border-color 0.3s ease;
+    width: 250px; /* Largura fixa para o campo de busca */
+}
+
+.search-input:focus {
+    border-color: #20409A;
+}
+
+/* Estilo das imagens nos cards */
+.card-image {
+    display: block;
+    min-height: 15rem;
+    background: #fff center center no-repeat;
+    background-size: cover;
+}
+
+.card-image > img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+/* Layout principal */
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+.card-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Centraliza os cards horizontalmente */
+    max-width: 85rem;
+    margin: 1rem auto;
+    padding: 0;
+    list-style: none;
+    cursor: pointer;
+}
+
+.card {
+    flex: 1 1 calc(33.33% - 2rem); /* Alteração: 33.33% para 3 cards por linha */
+    max-width: calc(33.33% - 2rem); /* Mantém o tamanho máximo consistente */
+    margin: 1rem; /* Espaçamento entre os cards */
+    font-size: 1rem;
+    text-decoration: none;
+    overflow: hidden;
+    box-shadow: 0 0 3rem -1rem rgba(0, 0, 0, 0.5);
+    transition: transform 0.1s ease-in-out, box-shadow 0.1s;
+}
+
+.card:hover {
+    transform: translateY(-0.5rem) scale(1.0125);
+    box-shadow: 0 0.5em 3rem -1rem rgba(0, 0, 0, 0.5);
+}
+
+.card-description {
+    display: block;
+    padding: 1em 0.5em;
+    color: #515151;
+    text-decoration: none;
+}
+
+.card-description > h2 {
+    margin: 0 0 0.5em;
+}
+
+.card-description > p {
+    margin: 0;
+}
+
+/* Responsividade */
+@media (max-width: 1024px) {
+    .card {
+        flex: 1 1 calc(50% - 2rem); /* 2 cards por linha em telas médias */
+        max-width: calc(50% - 2rem);
+    }
+}
+
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column; /* Empilha os elementos em telas pequenas */
+        align-items: center;
+    }
+    .card {
+        flex: 1 1 calc(100% - 2rem); /* 1 card por linha em telas pequenas */
+        max-width: calc(100% - 2rem);
+    }
+
+    .search-input {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .header {
+        flex-direction: column; /* Empilha os elementos em telas pequenas */
+        align-items: center;
+    }
+
+    .filter-container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .search-input {
+        width: 100%; /* Ocupa toda a largura disponível */
+        font-size: 12px;
+    }
+}
+
+/* Estilo dos botões de paginação */
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+
+.pagination-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #20409A;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.pagination-button:hover {
+    background-color: #20409A;
+}
+
+.pagination-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.pagination-controls span {
+    font-size: 1rem;
+    color: #515151;
+}

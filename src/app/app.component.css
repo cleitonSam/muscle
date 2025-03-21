@@ -1,0 +1,31 @@
+/* Estilo Geral */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    padding-top: 80px; /* Adiciona espaço equivalente à altura da navbar */
+}
+
+/* Barra de Navegação */
+.navbar {
+    position: fixed; /* Fixa a barra na parte superior da página */
+    top: 0;
+    left: 0;
+    width: 100%; /* Ocupa toda a largura da tela */
+    background-color: #fff; /* Fundo branco (ou outra cor) */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    z-index: 1000; /* Garante que a navbar fique acima de outros elementos */
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.logo-container {
+    display: inline-block;
+    margin-bottom: 0; /* Remove margem desnecessária */
+}
+
+/* Logo */
+.logo {
+    width: 40px; /* Tamanho do logo */
+    height: auto; /* Mantém a proporção */
+    cursor: pointer; /* Altera o cursor ao passar sobre o logo */
+}
