@@ -31,6 +31,7 @@ import { PanturrilhasDetailsComponent } from './components/panturrilhas/panturri
 import { OmbrosFrontaisDetailsComponent } from './components/ombros-frontais/ombros-frontais-details/ombros-frontais-details.component';
 import { PosteriorCoxaDetailsComponent } from './components/posterior-coxa/posterior-coxa-details/posterior-coxa-details.component';
 import { QuadricepsDetailsComponent } from './components/quadriceps/quadriceps-details/quadriceps-details.component';
+import { TrapezioDetailsComponent } from './components/trapezio/trapezio-details/trapezio-details.component';
 
 
 
@@ -68,6 +69,6 @@ export const routes: Routes = [
     { path: 'Peito/:id', component: PeitoDetailsComponent },
     { path: 'Posterior da Coxa/:id', component: PosteriorCoxaDetailsComponent },
     { path: 'Quadríceps/:id', component: QuadricepsDetailsComponent },
-    { path: 'Trapézios/:id', component: PeitoDetailsComponent }
+    { path: 'Trapézios/:id', component: TrapezioDetailsComponent }
 
 ];
