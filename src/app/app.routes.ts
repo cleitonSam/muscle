@@ -33,6 +33,7 @@ import { PosteriorCoxaDetailsComponent } from './components/posterior-coxa/poste
 import { QuadricepsDetailsComponent } from './components/quadriceps/quadriceps-details/quadriceps-details.component';
 import { TrapezioDetailsComponent } from './components/trapezio/trapezio-details/trapezio-details.component';
 import { TrapezioMedioDetailsComponent } from './components/trapezio-medio/trapezio-medio-details/trapezio-medio-details.component';
+import { TricepsDetailsComponent } from './components/triceps/triceps-details/triceps-details.component';
 
 
 
@@ -71,6 +72,7 @@ export const routes: Routes = [
     { path: 'Posterior da Coxa/:id', component: PosteriorCoxaDetailsComponent },
     { path: 'Quadríceps/:id', component: QuadricepsDetailsComponent },
     { path: 'Trapézios/:id', component: TrapezioDetailsComponent },
-    { path: 'Trapézios Médios/:id', component: TrapezioMedioDetailsComponent }
+    { path: 'Trapézios Médios/:id', component: TrapezioMedioDetailsComponent },
+    { path: 'Tríceps/:id', component: TricepsDetailsComponent }
 
 ];
