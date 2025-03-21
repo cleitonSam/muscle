@@ -1,47 +1,54 @@
-<div class="header">
+<!-- Loader -->
+<div *ngIf="isLoading" class="loader-container">
+    <div class="spinner"></div>
+  </div>
+  
+  <!-- Header com Botão Voltar, Filtro por Nível e Campo de Busca -->
+  <div class="header">
     <!-- Botão Voltar -->
     <button class="back-button" routerLink="/">Voltar</button>
     
     <!-- Filtro por Nível -->
     <div class="filter-container">
-        <label for="levelFilter">Filtrar por Nível:</label>
-        <select id="levelFilter" [(ngModel)]="selectedLevel" (change)="applyFilters()">
-            <option value="">Todos</option>
-            <option value="Novato">Novato</option>
-            <option value="Iniciante">Iniciante</option>
-            <option value="Intermediário">Intermediário</option>
-            <option value="Avançado">Avançado</option>
-        </select>
+      <label for="levelFilter">Filtrar por Nível:</label>
+      <select id="levelFilter" [(ngModel)]="selectedLevel" (change)="applyFilters()" *ngIf="!isLoading">
+        <option value="">Todos</option>
+        <option value="Novato">Novato</option>
+        <option value="Iniciante">Iniciante</option>
+        <option value="Intermediário">Intermediário</option>
+        <option value="Avançado">Avançado</option>
+      </select>
     </div>
-
+  
     <!-- Campo de Busca -->
     <div class="field" id="searchform">
-        <input
-            type="text"
-            [(ngModel)]="searchTerm"
-            placeholder="Buscar por músculo..."
-            (input)="applyFilters()"
-            class="search-input"
-        />
+      <input
+        type="text"
+        [(ngModel)]="searchTerm"
+        placeholder="Buscar por músculo..."
+        (input)="applyFilters()"
+        class="search-input"
+        *ngIf="!isLoading"
+      />
     </div>
-</div>
-
-<!-- Lista de Músculos Filtrados -->
-<ul class="card-list">
+  </div>
+  
+  <!-- Lista de Músculos Filtrados -->
+  <ul class="card-list" *ngIf="!isLoading">
     <li class="card" *ngFor="let exercise of getPaginatedExercises(); let i = index">
-        <a class="card-image" [routerLink]="['/Trapézios Médios', exercise.id]">
-            <img src="../../../assets/Mock/TrapsMiddle/traps-middle.jpg" alt="{{ exercise.name }}" />
-        </a>
-        <a class="card-description" target="_blank">
-            <h3>{{ exercise.name.replace('Exercício:', '').replace('Texto:', '').trim() }}</h3>
-            <p>Ajuda na elevação das escápulas.</p>
-        </a>
+      <a class="card-image" [routerLink]="['/Trapézios Médios', exercise.id]">
+        <img src="../../../assets/Mock/TrapsMiddle/traps-middle.jpg" alt="{{ exercise.name }}" />
+      </a>
+      <a class="card-description" target="_blank">
+        <h3>{{ exercise.name.replace('Exercício:', '').replace('Texto:', '').trim() }}</h3>
+        <p>Responsável pela estabilização do tronco.</p>
+      </a>
     </li>
-</ul>
-
-<!-- Controles de Paginação -->
-<div class="pagination-controls">
+  </ul>
+  
+  <!-- Controles de Paginação -->
+  <div class="pagination-controls" *ngIf="!isLoading">
     <button class="pagination-button" (click)="previousPage()" [disabled]="!hasPreviousPage()">Anterior</button>
     <span>Página {{ currentPage }} de {{ totalPages }}</span>
     <button class="pagination-button" (click)="nextPage()" [disabled]="!hasNextPage()">Próxima</button>
-</div>
+  </div>
