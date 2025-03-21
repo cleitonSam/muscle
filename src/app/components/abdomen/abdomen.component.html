@@ -36,7 +36,7 @@
   <!-- Lista de Músculos Filtrados -->
   <ul class="card-list" *ngIf="!isLoading">
     <li class="card" *ngFor="let exercise of getPaginatedExercises(); let i = index">
-      <a class="card-image" [routerLink]="['/exercise', exercise.id]">
+      <a class="card-image" [routerLink]="['/Abdômen', exercise.id]">
         <img src="../../../assets/abdominal.jpg" alt="{{ exercise.name }}" />
       </a>
       <a class="card-description" target="_blank">

@@ -57,7 +57,7 @@ export const routes: Routes = [
     { path: 'Trapézios', component: TrapezioComponent },
     { path: 'Tríceps', component: TricepsComponent },
     { path: 'Glúteos', component: GluteosComponent },
-    { path: 'exercise/:id', component: AbdomenDetailsComponent },
+    { path: 'Abdômen/:id', component: AbdomenDetailsComponent },
     { path: 'Antebraços/:id', component: AntebracosDetailsComponent },
     { path: 'Bíceps/:id', component: BicepsDetailsComponent },
     { path: 'Dorsais/:id', component: DorsaisDetailsComponent },
