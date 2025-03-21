@@ -37,7 +37,7 @@
   <ul class="card-list" *ngIf="!isLoading">
     <li class="card" *ngFor="let exercise of getPaginatedExercises(); let i = index">
       <a class="card-image" [routerLink]="['/Oblíque', exercise.id]">
-        <img src="../../../assets/abdominal.jpg" alt="{{ exercise.name }}" />
+        <img src="../../../assets/Mock/Obliques/oblique.jpg" alt="{{ exercise.name }}" />
       </a>
       <a class="card-description" target="_blank">
         <h3>{{ exercise.name.replace('Exercício:', '').replace('Texto:', '').trim() }}</h3>

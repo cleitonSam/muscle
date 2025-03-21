@@ -20,14 +20,23 @@ exercises: any[] = [];
   selectedLevel: string = ''; // Armazena o nível selecionado
   currentPage: number = 1; // Página atual
   itemsPerPage: number = 10; // Número de itens por página
+  isLoading: boolean = true; // Estado de carregamento
 
   constructor(private peitoService: PeitoService) {}
 
   ngOnInit(): void {
-    this.peitoService.getExercises().subscribe((data) => {
-      this.exercises = data;
-      this.applyFilters(); // Aplica os filtros iniciais
-    });
+    this.isLoading = true; // Inicia o carregamento
+    this.peitoService.getExercises().subscribe(
+      (data) => {
+        this.exercises = data;
+        this.applyFilters(); // Aplica os filtros iniciais
+        this.isLoading = false; // Finaliza o carregamento
+      },
+      (error) => {
+        console.error('Erro ao carregar exercícios:', error);
+        this.isLoading = false; // Finaliza o carregamento em caso de erro
+      }
+    );
   }
 
   // Função para normalizar texto: remove acentos e caracteres especiais
