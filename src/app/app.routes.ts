@@ -21,6 +21,11 @@ import { GluteosComponent } from './components/gluteos/gluteos.component';
 import { AntebracosDetailsComponent } from './components/antebracos/antebracos-details/antebracos-details.component';
 import { BicepsDetailsComponent } from './components/biceps/biceps-details/biceps-details.component';
 import { DorsaisDetailsComponent } from './components/dorsais/dorsais-details/dorsais-details.component';
+import { GluteosDetailsComponent } from './components/gluteos/gluteos-details/gluteos-details.component';
+import { InferiorCostasDetailsComponent } from './components/inferior-costas/inferior-costas-details/inferior-costas-details.component';
+import { MaosDetailsComponent } from './components/maos/maos-details/maos-details.component';
+import { ObliqueDetailsComponent } from './components/oblique/oblique-details/oblique-details.component';
+import { OmbroTraseiroDetailsComponent } from './components/ombro-traseiro/ombro-traseiro-details/ombro-traseiro-details.component';
 
 
 
@@ -47,5 +52,10 @@ export const routes: Routes = [
     { path: 'exercise/:id', component: AbdomenDetailsComponent },
     { path: 'Antebraços/:id', component: AntebracosDetailsComponent },
     { path: 'Bíceps/:id', component: BicepsDetailsComponent },
-    { path: 'Dorsais/:id', component: DorsaisDetailsComponent }
+    { path: 'Dorsais/:id', component: DorsaisDetailsComponent },
+    { path: 'Glúteos/:id', component: GluteosDetailsComponent },
+    { path: 'Parte Inferior Das Costas/:id', component: InferiorCostasDetailsComponent },
+    { path: 'Maos/:id', component: MaosDetailsComponent },
+    { path: 'Oblíque/:id', component: ObliqueDetailsComponent },
+    { path: 'Ombros Traseiros/:id', component: OmbroTraseiroDetailsComponent }
 ];

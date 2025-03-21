@@ -1,1 +1,101 @@
-<p>ombro-traseiro-details works!</p>
+
+<button class="back-button" routerLink="/Ombros Traseiros">Voltar</button>
+<div *ngIf="exercise; else notFound" class="exercise-card">
+   
+    <!-- Nome do Exercício -->
+    <h1>{{ cleanExerciseName(exercise.name) }}</h1>
+  
+    <!-- Nível e Tipo de Execução -->
+    <div class="exercise-info">
+      <p><strong>Nível:</strong> {{ exercise.level }}</p>
+      <p><strong>Tipo de Execução:</strong> {{ exercise.execution_type }}</p>
+    </div>
+  
+    <!-- Vídeos Demonstrativos -->
+    <div class="videos-section" *ngIf="exercise.videos.length > 0">
+      <h2>Vídeos Demonstrativos</h2>
+      <div class="video-list">
+        <video
+        *ngFor="let video of exercise.videos"
+        controls
+        autoplay
+        muted
+        playsinline
+        width="340"
+        height="260"
+      >
+        <source [src]="video" type="video/mp4">
+        Seu navegador não suporta o elemento de vídeo.
+      </video>
+      </div>
+    </div>
+  
+    <!-- Dicas -->
+    <div class="tips-section" *ngIf="exercise.tips.length > 0">
+      <h2>Dicas</h2>
+      <ul>
+        <li *ngFor="let tip of exercise.tips">{{ tip }}</li>
+      </ul>
+    </div>
+  
+    <!-- O Que É -->
+    <div class="what-is-section" *ngIf="exercise.what_is.length > 0">
+      <h2>O Que É?</h2>
+      <ul>
+        <li *ngFor="let item of exercise.what_is">{{ item }}</li>
+      </ul>
+    </div>
+  
+    <!-- Como Executar -->
+    <div class="execution-section" *ngIf="exercise.how_to_execute.length > 0">
+      <h2>Como Executar</h2>
+      <ol>
+        <li *ngFor="let step of exercise.how_to_execute">{{ step }}</li>
+      </ol>
+    </div>
+  
+    <!-- Por Que Fazer -->
+    <div class="why-do-it-section" *ngIf="exercise.why_do_it.length > 0">
+      <h2>Por Que Fazer?</h2>
+      <ul>
+        <li *ngFor="let reason of exercise.why_do_it">{{ reason }}</li>
+      </ul>
+    </div>
+  
+    <!-- Precauções -->
+    <div class="precautions-section" *ngIf="exercise.precautions.length > 0">
+      <h2>Precauções</h2>
+      <ul>
+        <li *ngFor="let precaution of exercise.precautions">{{ precaution }}</li>
+      </ul>
+    </div>
+  
+    <!-- Restrições -->
+    <div class="restrictions-section" *ngIf="exercise.restrictions.length > 0">
+      <h2>Restrições</h2>
+      <ul>
+        <li *ngFor="let restriction of exercise.restrictions">{{ restriction }}</li>
+      </ul>
+    </div>
+  
+    <!-- Substituições -->
+    <div class="substitutions-section" *ngIf="exercise.substitutions.length > 0">
+      <h2>Substituições</h2>
+      <ul>
+        <li *ngFor="let substitution of exercise.substitutions">{{ substitution }}</li>
+      </ul>
+    </div>
+  
+    <!-- Músculos Relacionados -->
+    <div class="related-muscles-section" *ngIf="exercise.related_muscles.length > 0">
+      <h2>Músculos Relacionados</h2>
+      <ul>
+        <li *ngFor="let muscle of exercise.related_muscles">{{ muscle }}</li>
+      </ul>
+    </div>
+  </div>
+  
+  <!-- Mensagem de Erro -->
+  <ng-template #notFound>
+    <p class="not-found">Exercício não encontrado.</p>
+  </ng-template>
