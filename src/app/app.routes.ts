@@ -26,6 +26,9 @@ import { InferiorCostasDetailsComponent } from './components/inferior-costas/inf
 import { MaosDetailsComponent } from './components/maos/maos-details/maos-details.component';
 import { ObliqueDetailsComponent } from './components/oblique/oblique-details/oblique-details.component';
 import { OmbroTraseiroDetailsComponent } from './components/ombro-traseiro/ombro-traseiro-details/ombro-traseiro-details.component';
+import { PeitoDetailsComponent } from './components/peito/peito-details/peito-details.component';
+import { PanturrilhasDetailsComponent } from './components/panturrilhas/panturrilhas-details/panturrilhas-details.component';
+import { OmbrosFrontaisDetailsComponent } from './components/ombros-frontais/ombros-frontais-details/ombros-frontais-details.component';
 
 
 
@@ -57,5 +60,8 @@ export const routes: Routes = [
     { path: 'Parte Inferior Das Costas/:id', component: InferiorCostasDetailsComponent },
     { path: 'Maos/:id', component: MaosDetailsComponent },
     { path: 'Oblíque/:id', component: ObliqueDetailsComponent },
-    { path: 'Ombros Traseiros/:id', component: OmbroTraseiroDetailsComponent }
+    { path: 'Ombros Traseiros/:id', component: OmbroTraseiroDetailsComponent },
+    { path: 'Ombros Frontais/:id', component: OmbrosFrontaisDetailsComponent },
+    { path: 'Panturrilhas/:id', component: PanturrilhasDetailsComponent },
+    { path: 'Peito/:id', component: PeitoDetailsComponent }
 ];
