@@ -17,14 +17,23 @@ export class MuscleComponent implements OnInit {
   exercises: any[] = [];
   filteredExercises: any[] = [];
   searchTerm: string = '';
+  isLoading: boolean = true; // Estado de carregamento
 
   constructor(private muscleService: MuscleService) {}
 
   ngOnInit(): void {
-    this.muscleService.getExercises().subscribe(data => {
-      this.exercises = data;
-      this.filteredExercises = data;
-    });
+    this.isLoading = true; // Inicia o carregamento
+    this.muscleService.getExercises().subscribe(
+      (data) => {
+        this.exercises = data;
+        this.filteredExercises = data;
+        this.isLoading = false; // Finaliza o carregamento
+      },
+      (error) => {
+        console.error('Erro ao carregar exercícios:', error);
+        this.isLoading = false; // Finaliza o carregamento em caso de erro
+      }
+    );
   }
 
   // Função para normalizar texto: remove acentos e caracteres especiais

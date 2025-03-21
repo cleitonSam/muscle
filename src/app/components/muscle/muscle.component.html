@@ -1,3 +1,8 @@
+<!-- Loader -->
+<div *ngIf="isLoading" class="loader-container">
+  <div class="spinner"></div>
+</div>
+
 <!-- Banner de Destaque -->
 <div class="banner">
   <h1>Mais de 2.000 Exercícios Disponíveis!</h1>
@@ -16,7 +21,7 @@
 </div>
 
 <!-- Lista de Músculos Filtrados -->
-<ul class="card-list">
+<ul class="card-list" *ngIf="!isLoading">
   <li class="card" *ngFor="let exercise of filteredExercises">
     <router-outlet class="card-image" target="_blank" [routerLink]="[exercise.name]">
       <img
