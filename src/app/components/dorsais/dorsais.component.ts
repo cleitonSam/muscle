@@ -20,15 +20,25 @@ exercises: any[] = [];
   selectedLevel: string = ''; // Armazena o nível selecionado
   currentPage: number = 1; // Página atual
   itemsPerPage: number = 10; // Número de itens por página
+  isLoading: boolean = true; // Estado de carregamento
 
   constructor(private dorsaisService: DorsaisService) {}
 
   ngOnInit(): void {
-    this.dorsaisService.getExercises().subscribe((data) => {
-      this.exercises = data;
-      this.applyFilters(); // Aplica os filtros iniciais
-    });
+    this.isLoading = true; // Inicia o carregamento
+    this.dorsaisService.getExercises().subscribe(
+      (data) => {
+        this.exercises = data;
+        this.applyFilters(); // Aplica os filtros iniciais
+        this.isLoading = false; // Finaliza o carregamento
+      },
+      (error) => {
+        console.error('Erro ao carregar exercícios:', error);
+        this.isLoading = false; // Finaliza o carregamento em caso de erro
+      }
+    );
   }
+
 
   // Função para normalizar texto: remove acentos e caracteres especiais
   normalizeText(text: string): string {
