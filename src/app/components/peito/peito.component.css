@@ -42,40 +42,43 @@
 .filter-container {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 15px;
+    background: #f8f8f8;
+    padding: 12px 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+    justify-content: space-between;
 }
 
 .filter-container label {
     font-size: 1rem;
-    white-space: nowrap; /* Evita que o texto quebre em várias linhas */
+    font-weight: bold;
+    color: #333;
 }
 
-.filter-container select {
-    padding: 8px;
+.filter-container select,
+.search-input {
+    padding: 10px;
     font-size: 1rem;
     border: 2px solid #ccc;
     border-radius: 5px;
     outline: none;
     transition: border-color 0.3s ease;
-    width: auto; /* Ajusta automaticamente ao tamanho do conteúdo */
 }
 
-.filter-container select:focus {
-    border-color: #20409A;
+.filter-container select {
+    flex: 1;
+    max-width: 150px;
 }
 
-/* Campo de busca */
 .search-input {
-    padding: 10px 15px;
-    font-size: 16px;
-    border: 2px solid #ccc;
-    border-radius: 25px;
-    outline: none;
-    transition: border-color 0.3s ease;
-    width: 250px; /* Largura fixa para o campo de busca */
+    flex: 2;
+    width: 100%;
+    max-width: 300px;
 }
-
-.search-input:focus {
+.search-input:focus, .filter-container select:focus {
     border-color: #20409A;
 }
 
@@ -175,12 +178,14 @@ html, body {
 
     .filter-container {
         flex-direction: column;
-        align-items: flex-start;
+        align-items: stretch;
+        gap: 10px;
+        padding: 15px;
     }
-
-    .search-input {
-        width: 100%; /* Ocupa toda a largura disponível */
-        font-size: 12px;
+    .filter-container select, 
+    .search-input, input {
+        width: 100%;
+        max-width: 100%;
     }
 }
 
