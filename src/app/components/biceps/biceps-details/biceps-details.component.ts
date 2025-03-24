@@ -184,7 +184,7 @@ export class BicepsDetailsComponent {
          this.showModal = true;
          setTimeout(() => {
            this.showModal = false;
-           this.router.navigate(['/Antebraços']);
+           this.router.navigate(['/Bíceps']);
          }, 2000);
        },
        error: (err) => {
