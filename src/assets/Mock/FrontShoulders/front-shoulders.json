@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Exercício: Elevação Lateral Única de Braço Baixo com Cabo",
+        "name": " Elevação Lateral Única de Braço Baixo com Cabo",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -50,7 +50,7 @@
     },
     {
         "id": "2",
-        "name": "Exercício: Supino Sentado com Halteres Overhead",
+        "name": " Supino Sentado com Halteres Overhead",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -101,7 +101,7 @@
     },
     {
         "id": "3",
-        "name": "Exercício: Supino Inclinado com Halteres",
+        "name": " Supino Inclinado com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -151,7 +151,7 @@
     },
     {
         "id": "4",
-        "name": "Exercício: Supino com Barra Acima da Cabeça",
+        "name": " Supino com Barra Acima da Cabeça",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -202,7 +202,7 @@
     },
     {
         "id": "5",
-        "name": "Exercício: Remada Alta com Barra",
+        "name": " Remada Alta com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -257,7 +257,7 @@
     },
     {
         "id": "6",
-        "name": "Exercício: Aberturas Inclinadas com Halteres para Peito",
+        "name": " Aberturas Inclinadas com Halteres para Peito",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -313,7 +313,7 @@
     },
     {
         "id": "7",
-        "name": "Exercício: Supino Inclinado com Barra",
+        "name": " Supino Inclinado com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -362,7 +362,7 @@
     },
     {
         "id": "8",
-        "name": "Exercício: Elevação Frontal com Halteres",
+        "name": " Elevação Frontal com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -410,7 +410,7 @@
     },
     {
         "id": "9",
-        "name": "Exercício: Variação Um do Alongamento dos Ombros",
+        "name": " Variação Um do Alongamento dos Ombros",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -457,7 +457,7 @@
     },
     {
         "id": "10",
-        "name": "Exercício: Elevação de Pressão Pike",
+        "name": " Elevação de Pressão Pike",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -509,7 +509,7 @@
     },
     {
         "id": "11",
-        "name": "Exercício: Peitoral na Polia",
+        "name": " Peitoral na Polia",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -564,7 +564,7 @@
     },
     {
         "id": "12",
-        "name": "Exercício: Variação Três do Alongamento dos Ombros",
+        "name": " Variação Três do Alongamento dos Ombros",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -610,7 +610,7 @@
     },
     {
         "id": "13",
-        "name": "Exercício: Elevação Lateral com Halteres",
+        "name": " Elevação Lateral com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -654,7 +654,7 @@
     },
     {
         "id": "14",
-        "name": "Exercício: Elevação Lateral Completa com Halteres",
+        "name": " Elevação Lateral Completa com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -702,7 +702,7 @@
     },
     {
         "id": "15",
-        "name": "Exercício: Supino com Cabo em Posição Elevada",
+        "name": " Supino com Cabo em Posição Elevada",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -751,7 +751,7 @@
     },
     {
         "id": "16",
-        "name": "Exercício: Texto: Máquina de Pressão Acima da Cabeça com Pegada por Cima",
+        "name": "  Máquina de Pressão Acima da Cabeça com Pegada por Cima",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -803,7 +803,7 @@
     },
     {
         "id": "17",
-        "name": "Exercício: Remada Vertical com Kettlebell",
+        "name": " Remada Vertical com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -860,7 +860,7 @@
     },
     {
         "id": "18",
-        "name": "Exercício: Levantamento de Braço Único com Faixa Elástica Acima da Cabeça",
+        "name": " Levantamento de Braço Único com Faixa Elástica Acima da Cabeça",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -916,7 +916,7 @@
     },
     {
         "id": "19",
-        "name": "Exercício: Elevação Frontal Inclinada com Halteres",
+        "name": " Elevação Frontal Inclinada com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -963,7 +963,7 @@
     },
     {
         "id": "20",
-        "name": "Exercício: Texto: Máquina de Levantamento de Pesos Neutro Acima da Cabeça",
+        "name": "  Máquina de Levantamento de Pesos Neutro Acima da Cabeça",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -1013,7 +1013,7 @@
     },
     {
         "id": "21",
-        "name": "Exercício: Levantamento Frontal com Barra",
+        "name": " Levantamento Frontal com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -1058,7 +1058,7 @@
     },
     {
         "id": "22",
-        "name": "Exercício: Remada Vertical com Cabo",
+        "name": " Remada Vertical com Cabo",
         "level": "Avançado",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1104,7 +1104,7 @@
     },
     {
         "id": "23",
-        "name": "Exercício: Elevação Lateral com Faixa Elástica",
+        "name": " Elevação Lateral com Faixa Elástica",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -1154,7 +1154,7 @@
     },
     {
         "id": "24",
-        "name": "Exercício: Elevação Frontal com Faixa Elástica",
+        "name": " Elevação Frontal com Faixa Elástica",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -1202,7 +1202,7 @@
     },
     {
         "id": "25",
-        "name": "Exercício: Variação Dois do Alongamento de Ombros",
+        "name": " Variação Dois do Alongamento de Ombros",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1252,7 +1252,7 @@
     },
     {
         "id": "26",
-        "name": "Exercício: Elevação Lateral de Alavanca Longa com Kettlebell",
+        "name": " Elevação Lateral de Alavanca Longa com Kettlebell",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1302,7 +1302,7 @@
     },
     {
         "id": "27",
-        "name": "Exercício: Elevação Frontal com Kettlebell",
+        "name": " Elevação Frontal com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1356,7 +1356,7 @@
     },
     {
         "id": "28",
-        "name": "Exercício: Supino com Halteres em Posição Neutra",
+        "name": " Supino com Halteres em Posição Neutra",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -1408,7 +1408,7 @@
     },
     {
         "id": "29",
-        "name": "Exercício: Supino Inclinado com Halteres em Posição Neutra",
+        "name": " Supino Inclinado com Halteres em Posição Neutra",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -1458,7 +1458,7 @@
     },
     {
         "id": "30",
-        "name": "Exercício: Elevação Lateral com Halteres no estilo Bayesiano",
+        "name": " Elevação Lateral com Halteres no estilo Bayesiano",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -1507,7 +1507,7 @@
     },
     {
         "id": "31",
-        "name": "Exercício: Supino Sentado com Halteres na Posição Neutra",
+        "name": " Supino Sentado com Halteres na Posição Neutra",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -1555,7 +1555,7 @@
     },
     {
         "id": "32",
-        "name": "Exercício: Supino com Halteres Acima da Cabeça",
+        "name": " Supino com Halteres Acima da Cabeça",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -1605,7 +1605,7 @@
     },
     {
         "id": "33",
-        "name": "Exercício: Supino com Halteres no Estilo Arnold Sentado",
+        "name": " Supino com Halteres no Estilo Arnold Sentado",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -1660,7 +1660,7 @@
     },
     {
         "id": "34",
-        "name": "Exercício: Supino Arnold com Halteres",
+        "name": " Supino Arnold com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -1715,7 +1715,7 @@
     },
     {
         "id": "35",
-        "name": "Exercício: Supino com Halteres na Posição Neutra",
+        "name": " Supino com Halteres na Posição Neutra",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -1765,7 +1765,7 @@
     },
     {
         "id": "36",
-        "name": "Exercício: Agachamento com Prato ao Alcance",
+        "name": " Agachamento com Prato ao Alcance",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1822,7 +1822,7 @@
     },
     {
         "id": "37",
-        "name": "Exercício: Levantamento de Halteres",
+        "name": " Levantamento de Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -1880,7 +1880,7 @@
     },
     {
         "id": "38",
-        "name": "Exercício: Levantamento e Pressão de Placa",
+        "name": " Levantamento e Pressão de Placa",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1934,7 +1934,7 @@
     },
     {
         "id": "39",
-        "name": "Exercício: Desenvolvimento com Halteres",
+        "name": " Desenvolvimento com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -1987,7 +1987,7 @@
     },
     {
         "id": "40",
-        "name": "Exercício: Rosca com Placa para Desenvolvimento de Ombro para Extensão de Tríceps",
+        "name": " Rosca com Placa para Desenvolvimento de Ombro para Extensão de Tríceps",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2041,7 +2041,7 @@
     },
     {
         "id": "41",
-        "name": "Exercício: Rosca de Prato para Pressão Acima da Cabeça",
+        "name": " Rosca de Prato para Pressão Acima da Cabeça",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2091,7 +2091,7 @@
     },
     {
         "id": "42",
-        "name": "Exercício: Agachamento com Prato e Alcance Sustentado",
+        "name": " Agachamento com Prato e Alcance Sustentado",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2144,7 +2144,7 @@
     },
     {
         "id": "43",
-        "name": "Exercício: Elevação Frontal de Prato",
+        "name": " Elevação Frontal de Prato",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2194,7 +2194,7 @@
     },
     {
         "id": "44",
-        "name": "Exercício: Desenvolvimento com Elástico",
+        "name": " Desenvolvimento com Elástico",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -2245,7 +2245,7 @@
     },
     {
         "id": "45",
-        "name": "Exercício: Elevação Lateral Média com Elástico",
+        "name": " Elevação Lateral Média com Elástico",
         "level": "Iniciante",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -2289,7 +2289,7 @@
     },
     {
         "id": "46",
-        "name": "Exercício: Halo de Prato",
+        "name": " Halo de Prato",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2343,7 +2343,7 @@
     },
     {
         "id": "47",
-        "name": "Exercício: Elevação Lateral Baixa com Faixa",
+        "name": " Elevação Lateral Baixa com Faixa",
         "level": "Intermediário",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -2391,7 +2391,7 @@
     },
     {
         "id": "48",
-        "name": "Exercício: Desenvolvimento com Placa Acima da Cabeça até Extensão de Tríceps",
+        "name": " Desenvolvimento com Placa Acima da Cabeça até Extensão de Tríceps",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2444,7 +2444,7 @@
     },
     {
         "id": "49",
-        "name": "Exercício: Elevação Lateral com Placa",
+        "name": " Elevação Lateral com Placa",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2494,7 +2494,7 @@
     },
     {
         "id": "50",
-        "name": "Exercício: Elevação Lateral com Prato Cheio",
+        "name": " Elevação Lateral com Prato Cheio",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2543,7 +2543,7 @@
     },
     {
         "id": "51",
-        "name": "Exercício: Levantamento de Prato Acima da Cabeça",
+        "name": " Levantamento de Prato Acima da Cabeça",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2592,7 +2592,7 @@
     },
     {
         "id": "52",
-        "name": "Exercício: Alongamento com Prato",
+        "name": " Alongamento com Prato",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2639,7 +2639,7 @@
     },
     {
         "id": "53",
-        "name": "Exercício: Elevação Lateral Deitado",
+        "name": " Elevação Lateral Deitado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2691,7 +2691,7 @@
     },
     {
         "id": "54",
-        "name": "Exercício: Agachamento com Levantamento de Peso",
+        "name": " Agachamento com Levantamento de Peso",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2746,7 +2746,7 @@
     },
     {
         "id": "55",
-        "name": "Exercício: Remada Vertical com Halteres",
+        "name": " Remada Vertical com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -2802,7 +2802,7 @@
     },
     {
         "id": "56",
-        "name": "Exercício: Elevação em Y no TRX",
+        "name": " Elevação em Y no TRX",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2846,7 +2846,7 @@
     },
     {
         "id": "57",
-        "name": "Exercício: Flexão TRX",
+        "name": " Flexão TRX",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2896,7 +2896,7 @@
     },
     {
         "id": "58",
-        "name": "Exercício: Landmine Meio Ajoelhado com Pressão de Braço Único Acima da Cabeça",
+        "name": " Landmine Meio Ajoelhado com Pressão de Braço Único Acima da Cabeça",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2945,7 +2945,7 @@
     },
     {
         "id": "59",
-        "name": "Exercício: TRX Elevação I",
+        "name": " TRX Elevação I",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2995,7 +2995,7 @@
     },
     {
         "id": "60",
-        "name": "Exercício: Prancha com Barra fixa na Landmine",
+        "name": " Prancha com Barra fixa na Landmine",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -3047,7 +3047,7 @@
     },
     {
         "id": "61",
-        "name": "Exercício: Pressão Aérea de Joelhos com Minaterrestre",
+        "name": " Pressão Aérea de Joelhos com Minaterrestre",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3098,7 +3098,7 @@
     },
     {
         "id": "62",
-        "name": "Exercício: Desenvolvimento em Pé com a Barra Olímpica",
+        "name": " Desenvolvimento em Pé com a Barra Olímpica",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -3146,7 +3146,7 @@
     },
     {
         "id": "63",
-        "name": "Exercício: Elevação Lateral com Landmine",
+        "name": " Elevação Lateral com Landmine",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3199,7 +3199,7 @@
     },
     {
         "id": "64",
-        "name": "Exercício: Supino Sentado com Pressão Acima da Cabeça no Landmine",
+        "name": " Supino Sentado com Pressão Acima da Cabeça no Landmine",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3247,7 +3247,7 @@
     },
     {
         "id": "65",
-        "name": "Exercício: Kettlebell Balanço Completo",
+        "name": " Kettlebell Balanço Completo",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -3300,7 +3300,7 @@
     },
     {
         "id": "66",
-        "name": "Exercício: Push Press com Kettlebell",
+        "name": " Push Press com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -3352,7 +3352,7 @@
     },
     {
         "id": "67",
-        "name": "Exercício: Elevação Lateral Sentado",
+        "name": " Elevação Lateral Sentado",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3400,7 +3400,7 @@
     },
     {
         "id": "68",
-        "name": "Exercício: Supino Sentado com Pressão Acima da Cabeça na Máquina Smith",
+        "name": " Supino Sentado com Pressão Acima da Cabeça na Máquina Smith",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -3451,7 +3451,7 @@
     },
     {
         "id": "69",
-        "name": "Exercício: Remada Vertical com Kettlebell",
+        "name": " Remada Vertical com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -3503,7 +3503,7 @@
     },
     {
         "id": "70",
-        "name": "Exercício: Supino na Máquina Smith",
+        "name": " Supino na Máquina Smith",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -3549,7 +3549,7 @@
     },
     {
         "id": "71",
-        "name": "Exercício: Supino Inclinado na Máquina Smith",
+        "name": " Supino Inclinado na Máquina Smith",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -3588,7 +3588,7 @@
     },
     {
         "id": "72",
-        "name": "Exercício: Supino Inclinado com Cabo",
+        "name": " Supino Inclinado com Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -3610,7 +3610,7 @@
     },
     {
         "id": "73",
-        "name": "Exercício: Elevação Lateral Bilateral Baixa com Cabo",
+        "name": " Elevação Lateral Bilateral Baixa com Cabo",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -3658,7 +3658,7 @@
     },
     {
         "id": "74",
-        "name": "Exercício: Supino no Cabo",
+        "name": " Supino no Cabo",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -3704,7 +3704,7 @@
     },
     {
         "id": "75",
-        "name": "Exercício: Remada Vertical na Smith Machine",
+        "name": " Remada Vertical na Smith Machine",
         "level": "Intermediário",
         "execution_type": "Máquina (Smith)",
         "videos": [
@@ -3753,7 +3753,7 @@
     },
     {
         "id": "76",
-        "name": "Exercício: Elevação Frontal com Barra no Cabo",
+        "name": " Elevação Frontal com Barra no Cabo",
         "level": "Novato",
         "execution_type": "Barra",
         "videos": [
@@ -3797,7 +3797,7 @@
     },
     {
         "id": "77",
-        "name": "Exercício: Remada Alta com Corda de Cabo",
+        "name": " Remada Alta com Corda de Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -3845,7 +3845,7 @@
     },
     {
         "id": "78",
-        "name": "Exercício: Elevação Frontal com Corda no Cabo",
+        "name": " Elevação Frontal com Corda no Cabo",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -3893,7 +3893,7 @@
     },
     {
         "id": "79",
-        "name": "Exercício: Elevação Lateral Inferior com Cabo de Corda usando um único braço",
+        "name": " Elevação Lateral Inferior com Cabo de Corda usando um único braço",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -3943,7 +3943,7 @@
     },
     {
         "id": "80",
-        "name": "Exercício: Supino Inclinado com Barra em Ângulo Elevado",
+        "name": " Supino Inclinado com Barra em Ângulo Elevado",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -3997,7 +3997,7 @@
     },
     {
         "id": "81",
-        "name": "Exercício: Supino Inclinado com Halteres em Altura Elevada",
+        "name": " Supino Inclinado com Halteres em Altura Elevada",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -4054,7 +4054,7 @@
     },
     {
         "id": "82",
-        "name": "Exercício: Elevação Lateral de Braço Dobrado com Halteres",
+        "name": " Elevação Lateral de Braço Dobrado com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -4101,7 +4101,7 @@
     },
     {
         "id": "83",
-        "name": "Exercício: Elevação Lateral Bayesian com Halteres em Pé",
+        "name": " Elevação Lateral Bayesian com Halteres em Pé",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -4151,7 +4151,7 @@
     },
     {
         "id": "84",
-        "name": "Exercício: Supino Inclinado com Kettlebell",
+        "name": " Supino Inclinado com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -4202,7 +4202,7 @@
     },
     {
         "id": "85",
-        "name": "Exercício: Supino Inclinado com Kettlebell",
+        "name": " Supino Inclinado com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -4252,7 +4252,7 @@
     },
     {
         "id": "86",
-        "name": "Exercício: Remada Vertical com Kettlebell Individual",
+        "name": " Remada Vertical com Kettlebell Individual",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -4307,7 +4307,7 @@
     },
     {
         "id": "87",
-        "name": "Exercício: Agachamento com Kettlebell e Levantamento Acima da Cabeça Sentado",
+        "name": " Agachamento com Kettlebell e Levantamento Acima da Cabeça Sentado",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -4358,7 +4358,7 @@
     },
     {
         "id": "88",
-        "name": "Exercício: Desenvolvimento Bradford com barra",
+        "name": " Desenvolvimento Bradford com barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -4410,7 +4410,7 @@
     },
     {
         "id": "89",
-        "name": "Exercício: Rotação Interna com Halteres",
+        "name": " Rotação Interna com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -4458,7 +4458,7 @@
     },
     {
         "id": "90",
-        "name": "Exercício: Flexão em Pé com Anel",
+        "name": " Flexão em Pé com Anel",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4507,7 +4507,7 @@
     },
     {
         "id": "91",
-        "name": "Exercício: Elevação Frontal Completa com Barra",
+        "name": " Elevação Frontal Completa com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -4557,7 +4557,7 @@
     },
     {
         "id": "92",
-        "name": "Exercício: Levantamento de Barra com Arremesso",
+        "name": " Levantamento de Barra com Arremesso",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -4611,7 +4611,7 @@
     },
     {
         "id": "93",
-        "name": "Exercício: Elevação Lateral na Máquina em Pé",
+        "name": " Elevação Lateral na Máquina em Pé",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -4659,7 +4659,7 @@
     },
     {
         "id": "94",
-        "name": "Exercício: Arranco de Barra",
+        "name": " Arranco de Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -4712,7 +4712,7 @@
     },
     {
         "id": "95",
-        "name": "Exercício: Arranco com Barra",
+        "name": " Arranco com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -4767,7 +4767,7 @@
     },
     {
         "id": "96",
-        "name": "Exercício: Polichinelos com Movimentos Laterais de Cardio",
+        "name": " Polichinelos com Movimentos Laterais de Cardio",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4818,7 +4818,7 @@
     },
     {
         "id": "97",
-        "name": "Exercício: Cardio Saída em Polichinelos",
+        "name": " Cardio Saída em Polichinelos",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4873,7 +4873,7 @@
     },
     {
         "id": "98",
-        "name": "Exercício: Elevação Lateral Inclinada com Halteres Deitado",
+        "name": " Elevação Lateral Inclinada com Halteres Deitado",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -4924,7 +4924,7 @@
     },
     {
         "id": "99",
-        "name": "Exercício: Elevação Lateral com Kettlebell de Um Braço Só",
+        "name": " Elevação Lateral com Kettlebell de Um Braço Só",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -4970,7 +4970,7 @@
     },
     {
         "id": "100",
-        "name": "Exercício: Supino Declinado Neutro com Halteres",
+        "name": " Supino Declinado Neutro com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -5021,7 +5021,7 @@
     },
     {
         "id": "101",
-        "name": "Exercício: Supino Alternado Arnold com Halteres",
+        "name": " Supino Alternado Arnold com Halteres",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -5068,7 +5068,7 @@
     },
     {
         "id": "102",
-        "name": "Exercício: Barbell Z Press",
+        "name": " Barbell Z Press",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5121,7 +5121,7 @@
     },
     {
         "id": "103",
-        "name": "Exercício: Desenvolvimento Alternado com Halteres",
+        "name": " Desenvolvimento Alternado com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -5177,7 +5177,7 @@
     },
     {
         "id": "104",
-        "name": "Exercício: Supino Alternado com Halteres em Posição Neutra",
+        "name": " Supino Alternado com Halteres em Posição Neutra",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -5227,7 +5227,7 @@
     },
     {
         "id": "105",
-        "name": "Exercício: Supino com Haltere de Braço Único em Posição Neutra",
+        "name": " Supino com Haltere de Braço Único em Posição Neutra",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -5278,7 +5278,7 @@
     },
     {
         "id": "106",
-        "name": "Exercício: Supino com Haltere de Um Braço Acima da Cabeça",
+        "name": " Supino com Haltere de Um Braço Acima da Cabeça",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -5333,7 +5333,7 @@
     },
     {
         "id": "107",
-        "name": "Exercício: Arnold Press com Haltere em um Único Braço",
+        "name": " Arnold Press com Haltere em um Único Braço",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -5390,7 +5390,7 @@
     },
     {
         "id": "108",
-        "name": "Exercício: Motorista de Carro de Placa",
+        "name": " Motorista de Carro de Placa",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5439,7 +5439,7 @@
     },
     {
         "id": "109",
-        "name": "Exercício: Agachamento com Halteres acima da Cabeça",
+        "name": " Agachamento com Halteres acima da Cabeça",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -5495,7 +5495,7 @@
     },
     {
         "id": "110",
-        "name": "Exercício: Remada Vertical com Haltere em um Braço Só",
+        "name": " Remada Vertical com Haltere em um Braço Só",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -5551,7 +5551,7 @@
     },
     {
         "id": "111",
-        "name": "Exercício: Parada de Cabeça",
+        "name": " Parada de Cabeça",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5609,7 +5609,7 @@
     },
     {
         "id": "112",
-        "name": "Exercício: Oração Invertida",
+        "name": " Oração Invertida",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5665,7 +5665,7 @@
     },
     {
         "id": "113",
-        "name": "Exercício: Queda para Frente com Pernas Abertas",
+        "name": " Queda para Frente com Pernas Abertas",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5722,7 +5722,7 @@
     },
     {
         "id": "114",
-        "name": "Exercício: Halo com Bola Medicinal",
+        "name": " Halo com Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5775,7 +5775,7 @@
     },
     {
         "id": "115",
-        "name": "Exercício: Agachamento e Arremesso com Bola Medicinal",
+        "name": " Agachamento e Arremesso com Bola Medicinal",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5824,7 +5824,7 @@
     },
     {
         "id": "116",
-        "name": "Exercício: Agachamento com Alcance da Bola Medicinal",
+        "name": " Agachamento com Alcance da Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5874,7 +5874,7 @@
     },
     {
         "id": "117",
-        "name": "Exercício: Arremesso de Bola Medicinal para Si Mesmo",
+        "name": " Arremesso de Bola Medicinal para Si Mesmo",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5929,7 +5929,7 @@
     },
     {
         "id": "118",
-        "name": "Exercício: Agachamento Reverso com Bola Medicinal Acima da Cabeça",
+        "name": " Agachamento Reverso com Bola Medicinal Acima da Cabeça",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5984,7 +5984,7 @@
     },
     {
         "id": "119",
-        "name": "Exercício: Agachamento com Impulso de Bola Medicinal",
+        "name": " Agachamento com Impulso de Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -6033,7 +6033,7 @@
     },
     {
         "id": "120",
-        "name": "Exercício: Avanço com Landmine e Desenvolvimento Acima da Cabeça",
+        "name": " Avanço com Landmine e Desenvolvimento Acima da Cabeça",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6090,7 +6090,7 @@
     },
     {
         "id": "121",
-        "name": "Exercício: Supino Alternado com Braço Único na Barra Terrestre",
+        "name": " Supino Alternado com Braço Único na Barra Terrestre",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -6138,7 +6138,7 @@
     },
     {
         "id": "122",
-        "name": "Exercício: Bola Medicinal Wall Ball",
+        "name": " Bola Medicinal Wall Ball",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -6191,7 +6191,7 @@
     },
     {
         "id": "123",
-        "name": "Exercício: Landmine ajoelhado com pressão alternada sobre a cabeça",
+        "name": " Landmine ajoelhado com pressão alternada sobre a cabeça",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6241,7 +6241,7 @@
     },
     {
         "id": "124",
-        "name": "Exercício: Supino Alternado Sentado com Barra Terrestre",
+        "name": " Supino Alternado Sentado com Barra Terrestre",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -6263,7 +6263,7 @@
     },
     {
         "id": "125",
-        "name": "Exercício: Desenvolvimento de Ombro Com Halteres Único Braço com Apoio na Landmine",
+        "name": " Desenvolvimento de Ombro Com Halteres Único Braço com Apoio na Landmine",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -6316,7 +6316,7 @@
     },
     {
         "id": "126",
-        "name": "Exercício: Landmine Sentado com Pressão de Braço Único Acima da Cabeça",
+        "name": " Landmine Sentado com Pressão de Braço Único Acima da Cabeça",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6365,7 +6365,7 @@
     },
     {
         "id": "127",
-        "name": "Exercício: Levantamento Rotacional com Pressão no Landmine",
+        "name": " Levantamento Rotacional com Pressão no Landmine",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6414,7 +6414,7 @@
     },
     {
         "id": "128",
-        "name": "Exercício: Landmine com Pressão de Braço Único",
+        "name": " Landmine com Pressão de Braço Único",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6468,7 +6468,7 @@
     },
     {
         "id": "129",
-        "name": "Exercício: Supino com Braço Estendido Alternado na Barra Fixa",
+        "name": " Supino com Braço Estendido Alternado na Barra Fixa",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -6519,7 +6519,7 @@
     },
     {
         "id": "130",
-        "name": "Exercício: Landmine Split Jerk",
+        "name": " Landmine Split Jerk",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6559,7 +6559,7 @@
     },
     {
         "id": "131",
-        "name": "Exercício: Arrancada com Barra Olímpica Angular",
+        "name": " Arrancada com Barra Olímpica Angular",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -6611,7 +6611,7 @@
     },
     {
         "id": "132",
-        "name": "Exercício: Elevação Frontal com Bola Bosu",
+        "name": " Elevação Frontal com Bola Bosu",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -6660,7 +6660,7 @@
     },
     {
         "id": "133",
-        "name": "Exercício: Arnold Press Vitruviano",
+        "name": " Arnold Press Vitruviano",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6711,7 +6711,7 @@
     },
     {
         "id": "134",
-        "name": "Exercício: Flexão de Pico com Bola Bosu",
+        "name": " Flexão de Pico com Bola Bosu",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -6762,7 +6762,7 @@
     },
     {
         "id": "135",
-        "name": "Exercício: Thruster de Landmine",
+        "name": " Thruster de Landmine",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6811,7 +6811,7 @@
     },
     {
         "id": "136",
-        "name": "Exercício: Levantamento de Kettlebell (Duplo)",
+        "name": " Levantamento de Kettlebell (Duplo)",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -6863,7 +6863,7 @@
     },
     {
         "id": "137",
-        "name": "Exercício: Supino Militar Vitruviano",
+        "name": " Supino Militar Vitruviano",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6884,7 +6884,7 @@
     },
     {
         "id": "138",
-        "name": "Exercício: Levantamento e Pressão com Kettlebell",
+        "name": " Levantamento e Pressão com Kettlebell",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -6934,7 +6934,7 @@
     },
     {
         "id": "139",
-        "name": "Exercício: Elevação Lateral Vitruviana",
+        "name": " Elevação Lateral Vitruviana",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6987,7 +6987,7 @@
     },
     {
         "id": "140",
-        "name": "Exercício: Balanceio até a Remada Vertical",
+        "name": " Balanceio até a Remada Vertical",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7032,7 +7032,7 @@
     },
     {
         "id": "141",
-        "name": "Exercício: Arranque com Kettlebell de Um Braço Só",
+        "name": " Arranque com Kettlebell de Um Braço Só",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -7087,7 +7087,7 @@
     },
     {
         "id": "142",
-        "name": "Exercício: Supino Unilateral com Cabo",
+        "name": " Supino Unilateral com Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -7109,7 +7109,7 @@
     },
     {
         "id": "143",
-        "name": "Exercício: Levantamento e Pressão com Kettlebell de Um Braço Só",
+        "name": " Levantamento e Pressão com Kettlebell de Um Braço Só",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -7160,7 +7160,7 @@
     },
     {
         "id": "144",
-        "name": "Exercício: Elevação Lateral Média com Corda de Cabo",
+        "name": " Elevação Lateral Média com Corda de Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -7208,7 +7208,7 @@
     },
     {
         "id": "145",
-        "name": "Exercício: Supino Inclinado com Cabo e um Braço",
+        "name": " Supino Inclinado com Cabo e um Braço",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -7259,7 +7259,7 @@
     },
     {
         "id": "146",
-        "name": "Exercício: Círculo para Trás com o Braço",
+        "name": " Círculo para Trás com o Braço",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7309,7 +7309,7 @@
     },
     {
         "id": "147",
-        "name": "Exercício: Supino com a Barra Atrás do Pescoço Sentado",
+        "name": " Supino com a Barra Atrás do Pescoço Sentado",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -7359,7 +7359,7 @@
     },
     {
         "id": "148",
-        "name": "Exercício: Círculo para Frente com o Braço",
+        "name": " Círculo para Frente com o Braço",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7409,7 +7409,7 @@
     },
     {
         "id": "149",
-        "name": "Exercício: Bicicleta de Ataque Cardio",
+        "name": " Bicicleta de Ataque Cardio",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7465,7 +7465,7 @@
     },
     {
         "id": "150",
-        "name": "Exercício: Jack Press com Faixa de Resistência para Cardio",
+        "name": " Jack Press com Faixa de Resistência para Cardio",
         "level": "Iniciante",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -7519,7 +7519,7 @@
     },
     {
         "id": "151",
-        "name": "Exercício: Agachamento com Barra Acima da Cabeça",
+        "name": " Agachamento com Barra Acima da Cabeça",
         "level": "Iniciante",
         "execution_type": "Barra",
         "videos": [
@@ -7571,7 +7571,7 @@
     },
     {
         "id": "152",
-        "name": "Exercício: Rotação Alternada de Poste",
+        "name": " Rotação Alternada de Poste",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7624,7 +7624,7 @@
     },
     {
         "id": "153",
-        "name": "Exercício: Cardio Polichinelos Cruzados",
+        "name": " Cardio Polichinelos Cruzados",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7678,7 +7678,7 @@
     },
     {
         "id": "154",
-        "name": "Exercício: Rotação na Barra",
+        "name": " Rotação na Barra",
         "level": "Iniciante",
         "execution_type": "Barra",
         "videos": [
@@ -7730,7 +7730,7 @@
     },
     {
         "id": "155",
-        "name": "Exercício: Saltos de Polichinelo de Cardio",
+        "name": " Saltos de Polichinelo de Cardio",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7780,7 +7780,7 @@
     },
     {
         "id": "156",
-        "name": "Exercício: Desenvolvimento de Braço Único com Kettlebell na Posição Invertida",
+        "name": " Desenvolvimento de Braço Único com Kettlebell na Posição Invertida",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -7836,7 +7836,7 @@
     },
     {
         "id": "157",
-        "name": "Exercício: Supino de Kettlebell de Cabeça para Baixo",
+        "name": " Supino de Kettlebell de Cabeça para Baixo",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -7883,7 +7883,7 @@
     },
     {
         "id": "158",
-        "name": "Exercício: Desenvolvimento Suspenso com Peso Corporal",
+        "name": " Desenvolvimento Suspenso com Peso Corporal",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7936,7 +7936,7 @@
     },
     {
         "id": "159",
-        "name": "Exercício: Texto: Alongamento de Rotação Externa do Ombro e Latíssimo do Dorso 2 Ajoelhado com Bastão",
+        "name": "  Alongamento de Rotação Externa do Ombro e Latíssimo do Dorso 2 Ajoelhado com Bastão",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7987,7 +7987,7 @@
     },
     {
         "id": "160",
-        "name": "Exercício: Texto: Estabilidade do Core 5 Elevação Cruzada de Membros em Tuck de Cotovelo Joelho na Posição de Flexão",
+        "name": "  Estabilidade do Core 5 Elevação Cruzada de Membros em Tuck de Cotovelo Joelho na Posição de Flexão",
         "level": "Avançado",
         "execution_type": "Cotovelo",
         "videos": [
@@ -8040,7 +8040,7 @@
     },
     {
         "id": "161",
-        "name": "Exercício: Texto: Alongamento de Rotação Externa dos Ombros e Latíssimos do Dorso 3 com Bastão ajoelhado",
+        "name": "  Alongamento de Rotação Externa dos Ombros e Latíssimos do Dorso 3 com Bastão ajoelhado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8089,7 +8089,7 @@
     },
     {
         "id": "162",
-        "name": "Exercício: Texto: Estabilidade do Core Regressão Elevação Cruzada dos Membros Posição de Flexão",
+        "name": "  Estabilidade do Core Regressão Elevação Cruzada dos Membros Posição de Flexão",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8141,7 +8141,7 @@
     },
     {
         "id": "163",
-        "name": "Exercício: Texto: Estabilidade do Core 4 Levantamento Cruzado de Membros em Posição de Flexão",
+        "name": "  Estabilidade do Core 4 Levantamento Cruzado de Membros em Posição de Flexão",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8190,7 +8190,7 @@
     },
     {
         "id": "164",
-        "name": "Exercício: Texto: Alongamento de Rotação Externa de Ombros e Costas 1 Ajoelhado com Bastão",
+        "name": "  Alongamento de Rotação Externa de Ombros e Costas 1 Ajoelhado com Bastão",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8236,7 +8236,7 @@
     },
     {
         "id": "165",
-        "name": "Exercício: Texto: Estabilidade do Core 1 Elevação Cruzada de Membros em Posição de 4 Pontos",
+        "name": "  Estabilidade do Core 1 Elevação Cruzada de Membros em Posição de 4 Pontos",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8283,7 +8283,7 @@
     },
     {
         "id": "166",
-        "name": "Exercício: Texto: Estabilidade do Core 2 Toque Oposto no Ombro na Posição de 4 Pontos",
+        "name": "  Estabilidade do Core 2 Toque Oposto no Ombro na Posição de 4 Pontos",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8335,7 +8335,7 @@
     },
     {
         "id": "167",
-        "name": "Exercício: Eu sou propenso",
+        "name": " Eu sou propenso",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8384,7 +8384,7 @@
     },
     {
         "id": "168",
-        "name": "Exercício: Anjos de Parede",
+        "name": " Anjos de Parede",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8439,7 +8439,7 @@
     },
     {
         "id": "169",
-        "name": "Exercício: Elevação em Y com Elástico para Ombros",
+        "name": " Elevação em Y com Elástico para Ombros",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -8462,7 +8462,7 @@
     },
     {
         "id": "170",
-        "name": "Exercício: Exercício de Serviço com Halteres",
+        "name": " Exercício de Serviço com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -8509,7 +8509,7 @@
     },
     {
         "id": "171",
-        "name": "Exercício: Abertura de Quadril",
+        "name": " Abertura de Quadril",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8563,7 +8563,7 @@
     },
     {
         "id": "172",
-        "name": "Exercício: Desenvolvimento Cubano com Halteres",
+        "name": " Desenvolvimento Cubano com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -8611,7 +8611,7 @@
     },
     {
         "id": "173",
-        "name": "Exercício: Elevação Frontal Completa com Halteres",
+        "name": " Elevação Frontal Completa com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -8658,7 +8658,7 @@
     },
     {
         "id": "174",
-        "name": "Exercício: Press de Ombros com Halteres em Meio-Ajoelhamento",
+        "name": " Press de Ombros com Halteres em Meio-Ajoelhamento",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -8705,7 +8705,7 @@
     },
     {
         "id": "175",
-        "name": "Exercício: Elevação Frontal Completa Sentada com Barra",
+        "name": " Elevação Frontal Completa Sentada com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -8753,7 +8753,7 @@
     },
     {
         "id": "176",
-        "name": "Exercício: Desenvolvimento em Y com Halteres Sentado",
+        "name": " Desenvolvimento em Y com Halteres Sentado",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -8803,7 +8803,7 @@
     },
     {
         "id": "177",
-        "name": "Exercício: Elevação Lateral com Halteres em Seis Movimentos",
+        "name": " Elevação Lateral com Halteres em Seis Movimentos",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -8846,7 +8846,7 @@
     },
     {
         "id": "178",
-        "name": "Exercício: Rosca com halteres em um joelho e com um braço estendido acima da cabeça",
+        "name": " Rosca com halteres em um joelho e com um braço estendido acima da cabeça",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -8896,7 +8896,7 @@
     },
     {
         "id": "179",
-        "name": "Exercício: Rosca Arnold com Halter Sentado com Um Braço",
+        "name": " Rosca Arnold com Halter Sentado com Um Braço",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8947,7 +8947,7 @@
     },
     {
         "id": "180",
-        "name": "Exercício: Remada Vertical com Elástico",
+        "name": " Remada Vertical com Elástico",
         "level": "Avançado",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -8997,7 +8997,7 @@
     },
     {
         "id": "181",
-        "name": "Exercício: Desenvolvimento em Y com halteres",
+        "name": " Desenvolvimento em Y com halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -9047,7 +9047,7 @@
     },
     {
         "id": "182",
-        "name": "Exercício: Rotação Interna com Cabo",
+        "name": " Rotação Interna com Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -9096,7 +9096,7 @@
     },
     {
         "id": "183",
-        "name": "Exercício: Kettlebell Agachado com Press Acima da Cabeça",
+        "name": " Kettlebell Agachado com Press Acima da Cabeça",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [

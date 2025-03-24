@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Exercício: Torção Russa com Halteres",
+        "name": " Torção Russa com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -57,7 +57,7 @@
     },
     {
         "id": "2",
-        "name": "Exercício: Abdominal com Barra",
+        "name": " Abdominal com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -112,7 +112,7 @@
     },
     {
         "id": "3",
-        "name": "Exercício: Elevação de Pernas Deitado",
+        "name": " Elevação de Pernas Deitado",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -163,7 +163,7 @@
     },
     {
         "id": "4",
-        "name": "Exercício: Prancha de Mão",
+        "name": " Prancha de Mão",
         "level": "Novato",
         "execution_type": "Mão",
         "videos": [
@@ -210,7 +210,7 @@
     },
     {
         "id": "5",
-        "name": "Exercício: Prancha com Alavanca Longa",
+        "name": " Prancha com Alavanca Longa",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -267,7 +267,7 @@
     },
     {
         "id": "6",
-        "name": "Exercício: Moinho de Kettlebell",
+        "name": " Moinho de Kettlebell",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -321,7 +321,7 @@
     },
     {
         "id": "7",
-        "name": "Exercício: Elevações de Joelho na Barra",
+        "name": " Elevações de Joelho na Barra",
         "level": "Iniciante",
         "execution_type": "Barra",
         "videos": [
@@ -372,7 +372,7 @@
     },
     {
         "id": "8",
-        "name": "Exercício: Abdominais",
+        "name": " Abdominais",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -420,7 +420,7 @@
     },
     {
         "id": "9",
-        "name": "Exercício: Crunch Ajoelhado com Barra de Remada no Cabo",
+        "name": " Crunch Ajoelhado com Barra de Remada no Cabo",
         "level": "Iniciante",
         "execution_type": "Barra",
         "videos": [
@@ -470,7 +470,7 @@
     },
     {
         "id": "10",
-        "name": "Exercício: Variação Dois do Alongamento Abdominal",
+        "name": " Variação Dois do Alongamento Abdominal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -523,7 +523,7 @@
     },
     {
         "id": "11",
-        "name": "Exercício: Variação Um do Alongamento Abdominal",
+        "name": " Variação Um do Alongamento Abdominal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -573,7 +573,7 @@
     },
     {
         "id": "12",
-        "name": "Exercício: Posição Oca",
+        "name": " Posição Oca",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -629,7 +629,7 @@
     },
     {
         "id": "13",
-        "name": "Exercício: Deslizamentos na Máquina",
+        "name": " Deslizamentos na Máquina",
         "level": "Intermediário",
         "execution_type": "Máquina",
         "videos": [
@@ -682,7 +682,7 @@
     },
     {
         "id": "14",
-        "name": "Exercício: Deslizamentos com Barra",
+        "name": " Deslizamentos com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -733,7 +733,7 @@
     },
     {
         "id": "15",
-        "name": "Exercício: Variação Três do Alongamento Abdominal",
+        "name": " Variação Três do Alongamento Abdominal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -782,7 +782,7 @@
     },
     {
         "id": "16",
-        "name": "Exercício: Variação Quatro do Alongamento dos Abdominais",
+        "name": " Variação Quatro do Alongamento dos Abdominais",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -833,7 +833,7 @@
     },
     {
         "id": "17",
-        "name": "Exercício: Abdominal com Faixa Elástica",
+        "name": " Abdominal com Faixa Elástica",
         "level": "Intermediário",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -885,7 +885,7 @@
     },
     {
         "id": "18",
-        "name": "Exercício: Abdominal com Haltere",
+        "name": " Abdominal com Haltere",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -937,7 +937,7 @@
     },
     {
         "id": "19",
-        "name": "Exercício: Abdominal com Kettlebell",
+        "name": " Abdominal com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -987,7 +987,7 @@
     },
     {
         "id": "20",
-        "name": "Exercício: Torção Russa com Kettlebell",
+        "name": " Torção Russa com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1045,7 +1045,7 @@
     },
     {
         "id": "21",
-        "name": "Exercício: Prancha com Puxada de Haltere",
+        "name": " Prancha com Puxada de Haltere",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -1099,7 +1099,7 @@
     },
     {
         "id": "22",
-        "name": "Exercício: Prancha Antebraço",
+        "name": " Prancha Antebraço",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1148,7 +1148,7 @@
     },
     {
         "id": "23",
-        "name": "Exercício: Agachamento Frontal Olímpico com Barra",
+        "name": " Agachamento Frontal Olímpico com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -1205,7 +1205,7 @@
     },
     {
         "id": "24",
-        "name": "Exercício: Abdominal em Pé com Cabo",
+        "name": " Abdominal em Pé com Cabo",
         "level": "Avançado",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1259,7 +1259,7 @@
     },
     {
         "id": "25",
-        "name": "Exercício: Abdominal com Prato",
+        "name": " Abdominal com Prato",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1315,7 +1315,7 @@
     },
     {
         "id": "26",
-        "name": "Exercício: Prancha com peso no antebraço",
+        "name": " Prancha com peso no antebraço",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1372,7 +1372,7 @@
     },
     {
         "id": "27",
-        "name": "Exercício: Prancha com Halteres",
+        "name": " Prancha com Halteres",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -1424,7 +1424,7 @@
     },
     {
         "id": "28",
-        "name": "Exercício: Escalador de Montanhas",
+        "name": " Escalador de Montanhas",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1474,7 +1474,7 @@
     },
     {
         "id": "29",
-        "name": "Exercício: Prancha IYTW",
+        "name": " Prancha IYTW",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1530,7 +1530,7 @@
     },
     {
         "id": "30",
-        "name": "Exercício: Prancha Oca",
+        "name": " Prancha Oca",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1585,7 +1585,7 @@
     },
     {
         "id": "31",
-        "name": "Exercício: Prancha com Peso nas Mãos",
+        "name": " Prancha com Peso nas Mãos",
         "level": "Intermediário",
         "execution_type": "Mão",
         "videos": [
@@ -1639,7 +1639,7 @@
     },
     {
         "id": "32",
-        "name": "Exercício: Abdominal com Haltere",
+        "name": " Abdominal com Haltere",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -1687,7 +1687,7 @@
     },
     {
         "id": "33",
-        "name": "Exercício: TRX Abdominal Estendido",
+        "name": " TRX Abdominal Estendido",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1739,7 +1739,7 @@
     },
     {
         "id": "34",
-        "name": "Exercício: Prancha de Mão TRX",
+        "name": " Prancha de Mão TRX",
         "level": "Intermediário",
         "execution_type": "Mão",
         "videos": [
@@ -1798,7 +1798,7 @@
     },
     {
         "id": "35",
-        "name": "Exercício: Prancha de Antebraço TRX",
+        "name": " Prancha de Antebraço TRX",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1854,7 +1854,7 @@
     },
     {
         "id": "36",
-        "name": "Exercício: TRX Abdominal de Joelhos",
+        "name": " TRX Abdominal de Joelhos",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1905,7 +1905,7 @@
     },
     {
         "id": "37",
-        "name": "Exercício: Pico TRX",
+        "name": " Pico TRX",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1952,7 +1952,7 @@
     },
     {
         "id": "38",
-        "name": "Exercício: Torção Russa com Peso Corporal",
+        "name": " Torção Russa com Peso Corporal",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2005,7 +2005,7 @@
     },
     {
         "id": "39",
-        "name": "Exercício: Escalador de Montanha TRX",
+        "name": " Escalador de Montanha TRX",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2056,7 +2056,7 @@
     },
     {
         "id": "40",
-        "name": "Exercício: TRX Flexão de Joelhos",
+        "name": " TRX Flexão de Joelhos",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2106,7 +2106,7 @@
     },
     {
         "id": "41",
-        "name": "Exercício: Torção Russa com Prato",
+        "name": " Torção Russa com Prato",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2161,7 +2161,7 @@
     },
     {
         "id": "42",
-        "name": "Exercício: Prancha com Barra fixa na Landmine",
+        "name": " Prancha com Barra fixa na Landmine",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -2213,7 +2213,7 @@
     },
     {
         "id": "43",
-        "name": "Exercício: Rotação com Haltere em Meio-Ajoelhado",
+        "name": " Rotação com Haltere em Meio-Ajoelhado",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -2267,7 +2267,7 @@
     },
     {
         "id": "44",
-        "name": "Exercício: Levantamento de Prato Acima da Cabeça",
+        "name": " Levantamento de Prato Acima da Cabeça",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2321,7 +2321,7 @@
     },
     {
         "id": "45",
-        "name": "Exercício: Abdominal na Máquina Smith",
+        "name": " Abdominal na Máquina Smith",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -2374,7 +2374,7 @@
     },
     {
         "id": "46",
-        "name": "Exercício: Abdominal Bicicleta",
+        "name": " Abdominal Bicicleta",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2428,7 +2428,7 @@
     },
     {
         "id": "47",
-        "name": "Exercício: Abdominal",
+        "name": " Abdominal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2482,7 +2482,7 @@
     },
     {
         "id": "48",
-        "name": "Exercício: Prancha de Antebraço com Alavanca Longa",
+        "name": " Prancha de Antebraço com Alavanca Longa",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2536,7 +2536,7 @@
     },
     {
         "id": "49",
-        "name": "Exercício: Crunch de Joelhos com Corda no Cabo",
+        "name": " Crunch de Joelhos com Corda no Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -2586,7 +2586,7 @@
     },
     {
         "id": "50",
-        "name": "Exercício: Crunch Oblíquo Ajoelhado com Corda de Cabo",
+        "name": " Crunch Oblíquo Ajoelhado com Corda de Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -2642,7 +2642,7 @@
     },
     {
         "id": "51",
-        "name": "Exercício: Prancha de Joelho com Peso Corporal Subindo e Descendo",
+        "name": " Prancha de Joelho com Peso Corporal Subindo e Descendo",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2690,7 +2690,7 @@
     },
     {
         "id": "52",
-        "name": "Exercício: Prancha Corporal de Subida e Descida",
+        "name": " Prancha Corporal de Subida e Descida",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2740,7 +2740,7 @@
     },
     {
         "id": "53",
-        "name": "Exercício: Abdominal Invertido com Elevação de Quadril na Máquina Smith",
+        "name": " Abdominal Invertido com Elevação de Quadril na Máquina Smith",
         "level": "Intermediário",
         "execution_type": "Máquina",
         "videos": [
@@ -2794,7 +2794,7 @@
     },
     {
         "id": "54",
-        "name": "Exercício: Mão Inferior do Moinho com Kettlebell",
+        "name": " Mão Inferior do Moinho com Kettlebell",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2846,7 +2846,7 @@
     },
     {
         "id": "55",
-        "name": "Exercício: Abdominal Suspenso na Smith Machine",
+        "name": " Abdominal Suspenso na Smith Machine",
         "level": "Iniciante",
         "execution_type": "Máquina (Smith)",
         "videos": [
@@ -2892,7 +2892,7 @@
     },
     {
         "id": "56",
-        "name": "Exercício: Pike de Remador",
+        "name": " Pike de Remador",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2941,7 +2941,7 @@
     },
     {
         "id": "57",
-        "name": "Exercício: Agachamento Frontal com Kettlebell",
+        "name": " Agachamento Frontal com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2997,7 +2997,7 @@
     },
     {
         "id": "58",
-        "name": "Exercício: Agachamento Frontal Avançado com Kettlebell Duplo",
+        "name": " Agachamento Frontal Avançado com Kettlebell Duplo",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -3055,7 +3055,7 @@
     },
     {
         "id": "59",
-        "name": "Exercício: Supino Reto com Barra em Decúbito Dorsal",
+        "name": " Supino Reto com Barra em Decúbito Dorsal",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -3104,7 +3104,7 @@
     },
     {
         "id": "60",
-        "name": "Exercício: Avanço Reverso com Kettlebell na Frente (Duplo)",
+        "name": " Avanço Reverso com Kettlebell na Frente (Duplo)",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -3156,7 +3156,7 @@
     },
     {
         "id": "61",
-        "name": "Exercício: Elevação de Pernas Dobradas",
+        "name": " Elevação de Pernas Dobradas",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3208,7 +3208,7 @@
     },
     {
         "id": "62",
-        "name": "Exercício: Elevação Alternada de Perna Dobrada",
+        "name": " Elevação Alternada de Perna Dobrada",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3261,7 +3261,7 @@
     },
     {
         "id": "63",
-        "name": "Exercício: Elevação Alternada de Pernas",
+        "name": " Elevação Alternada de Pernas",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3312,7 +3312,7 @@
     },
     {
         "id": "64",
-        "name": "Exercício: Flexão de Joelhos em Suspensão Corporal",
+        "name": " Flexão de Joelhos em Suspensão Corporal",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3360,7 +3360,7 @@
     },
     {
         "id": "65",
-        "name": "Exercício: Dragonflag Excêntrico",
+        "name": " Dragonflag Excêntrico",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3417,7 +3417,7 @@
     },
     {
         "id": "66",
-        "name": "Exercício: Abdominal Sapinho",
+        "name": " Abdominal Sapinho",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3469,7 +3469,7 @@
     },
     {
         "id": "67",
-        "name": "Exercício: Flexão em L na Barra Fixa",
+        "name": " Flexão em L na Barra Fixa",
         "level": "Iniciante",
         "execution_type": "Barra",
         "videos": [
@@ -3512,7 +3512,7 @@
     },
     {
         "id": "68",
-        "name": "Exercício: Abdominal Sapo",
+        "name": " Abdominal Sapo",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3563,7 +3563,7 @@
     },
     {
         "id": "69",
-        "name": "Exercício: Salto Alternado com Escalador de Montanha",
+        "name": " Salto Alternado com Escalador de Montanha",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3614,7 +3614,7 @@
     },
     {
         "id": "70",
-        "name": "Exercício: Montanhista em Ritmo Lento",
+        "name": " Montanhista em Ritmo Lento",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3668,7 +3668,7 @@
     },
     {
         "id": "71",
-        "name": "Exercício: Montanhista Saltador",
+        "name": " Montanhista Saltador",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3723,7 +3723,7 @@
     },
     {
         "id": "72",
-        "name": "Exercício: Alcance e Capture",
+        "name": " Alcance e Capture",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3774,7 +3774,7 @@
     },
     {
         "id": "73",
-        "name": "Exercício: Chute Tesoura",
+        "name": " Chute Tesoura",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3813,7 +3813,7 @@
     },
     {
         "id": "74",
-        "name": "Exercício: Rolo de Abdominal em Pé com Anel",
+        "name": " Rolo de Abdominal em Pé com Anel",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3862,7 +3862,7 @@
     },
     {
         "id": "75",
-        "name": "Exercício: Chute Tesoura Lateral",
+        "name": " Chute Tesoura Lateral",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3912,7 +3912,7 @@
     },
     {
         "id": "76",
-        "name": "Exercício: Escalador de Slalom",
+        "name": " Escalador de Slalom",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3964,7 +3964,7 @@
     },
     {
         "id": "77",
-        "name": "Exercício: Elevação de Pernas Invertida",
+        "name": " Elevação de Pernas Invertida",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4015,7 +4015,7 @@
     },
     {
         "id": "78",
-        "name": "Exercício: Prancha com Altos e Baixos Ponderados",
+        "name": " Prancha com Altos e Baixos Ponderados",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4072,7 +4072,7 @@
     },
     {
         "id": "79",
-        "name": "Exercício: Elevação de Braço em Prancha com Peso Corporal",
+        "name": " Elevação de Braço em Prancha com Peso Corporal",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4125,7 +4125,7 @@
     },
     {
         "id": "80",
-        "name": "Exercício: Abdominal na Máquina",
+        "name": " Abdominal na Máquina",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -4180,7 +4180,7 @@
     },
     {
         "id": "81",
-        "name": "Exercício: Supino com Barra estilo Larsen",
+        "name": " Supino com Barra estilo Larsen",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -4229,7 +4229,7 @@
     },
     {
         "id": "82",
-        "name": "Exercício: Máquina para Abdominais com Placas",
+        "name": " Máquina para Abdominais com Placas",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -4277,7 +4277,7 @@
     },
     {
         "id": "83",
-        "name": "Exercício: Remada Renegada com Halteres",
+        "name": " Remada Renegada com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -4330,7 +4330,7 @@
     },
     {
         "id": "84",
-        "name": "Exercício: Abdominal com Haltere Estilo Mala",
+        "name": " Abdominal com Haltere Estilo Mala",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -4381,7 +4381,7 @@
     },
     {
         "id": "85",
-        "name": "Exercício: Flexão com Remada Renegada",
+        "name": " Flexão com Remada Renegada",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4434,7 +4434,7 @@
     },
     {
         "id": "86",
-        "name": "Exercício: Burpee",
+        "name": " Burpee",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4494,7 +4494,7 @@
     },
     {
         "id": "87",
-        "name": "Exercício: Postura da Roda Urdhva Dhanurasana",
+        "name": " Postura da Roda Urdhva Dhanurasana",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4545,7 +4545,7 @@
     },
     {
         "id": "88",
-        "name": "Exercício: Prancha com Bola Medicinal",
+        "name": " Prancha com Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -4596,7 +4596,7 @@
     },
     {
         "id": "89",
-        "name": "Exercício: Prancha Oca com Bola Medicinal",
+        "name": " Prancha Oca com Bola Medicinal",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -4649,7 +4649,7 @@
     },
     {
         "id": "90",
-        "name": "Exercício: Halo com Bola Medicinal",
+        "name": " Halo com Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -4700,7 +4700,7 @@
     },
     {
         "id": "91",
-        "name": "Exercício: Prancha com Extensão de Glúteo na Bola Bosu",
+        "name": " Prancha com Extensão de Glúteo na Bola Bosu",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -4752,7 +4752,7 @@
     },
     {
         "id": "92",
-        "name": "Exercício: Arremesso de Bola Medicinal em Dupla com Abdominal",
+        "name": " Arremesso de Bola Medicinal em Dupla com Abdominal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -4809,7 +4809,7 @@
     },
     {
         "id": "93",
-        "name": "Exercício: Toque de Dedo do Pé",
+        "name": " Toque de Dedo do Pé",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4861,7 +4861,7 @@
     },
     {
         "id": "94",
-        "name": "Exercício: Abdominal Sentado com Landmine",
+        "name": " Abdominal Sentado com Landmine",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4918,7 +4918,7 @@
     },
     {
         "id": "95",
-        "name": "Exercício: Prancha de Antebraço com Bola Bosu",
+        "name": " Prancha de Antebraço com Bola Bosu",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -4973,7 +4973,7 @@
     },
     {
         "id": "96",
-        "name": "Exercício: Arremesso de Bola Medicinal",
+        "name": " Arremesso de Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5018,7 +5018,7 @@
     },
     {
         "id": "97",
-        "name": "Exercício: Prancha de Mão com Bola Bosu",
+        "name": " Prancha de Mão com Bola Bosu",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5068,7 +5068,7 @@
     },
     {
         "id": "98",
-        "name": "Exercício: Abdominal com Bola Bosu",
+        "name": " Abdominal com Bola Bosu",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5123,7 +5123,7 @@
     },
     {
         "id": "99",
-        "name": "Exercício: Toque de Dedo do Pé",
+        "name": " Toque de Dedo do Pé",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5174,7 +5174,7 @@
     },
     {
         "id": "100",
-        "name": "Exercício: Bola Bosu de um lado para o outro",
+        "name": " Bola Bosu de um lado para o outro",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5216,7 +5216,7 @@
     },
     {
         "id": "101",
-        "name": "Exercício: Abdominal Vitruviano",
+        "name": " Abdominal Vitruviano",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5265,7 +5265,7 @@
     },
     {
         "id": "102",
-        "name": "Exercício: Flexão de Passada na Bola Bosu",
+        "name": " Flexão de Passada na Bola Bosu",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5318,7 +5318,7 @@
     },
     {
         "id": "103",
-        "name": "Exercício: Cachorro Pássaro",
+        "name": " Cachorro Pássaro",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5364,7 +5364,7 @@
     },
     {
         "id": "104",
-        "name": "Exercício: Postura da Cobra",
+        "name": " Postura da Cobra",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5415,7 +5415,7 @@
     },
     {
         "id": "105",
-        "name": "Exercício: Inseto Morto",
+        "name": " Inseto Morto",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5465,7 +5465,7 @@
     },
     {
         "id": "106",
-        "name": "Exercício: Agachamento com Afundo e Crossover com Kettlebell à Frente (Duplo)",
+        "name": " Agachamento com Afundo e Crossover com Kettlebell à Frente (Duplo)",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -5521,7 +5521,7 @@
     },
     {
         "id": "107",
-        "name": "Exercício: Abdominal Invertido",
+        "name": " Abdominal Invertido",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5575,7 +5575,7 @@
     },
     {
         "id": "108",
-        "name": "Exercício: Kettlebell em Isometria de Alça",
+        "name": " Kettlebell em Isometria de Alça",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -5627,7 +5627,7 @@
     },
     {
         "id": "109",
-        "name": "Exercício: Abdominal com Remada",
+        "name": " Abdominal com Remada",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5678,7 +5678,7 @@
     },
     {
         "id": "110",
-        "name": "Exercício: Avanço Lateral com Kettlebell na Frente (Duplo)",
+        "name": " Avanço Lateral com Kettlebell na Frente (Duplo)",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -5735,7 +5735,7 @@
     },
     {
         "id": "111",
-        "name": "Exercício: Agachamento Lateral com Halteres com um Braço na Frente",
+        "name": " Agachamento Lateral com Halteres com um Braço na Frente",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -5790,7 +5790,7 @@
     },
     {
         "id": "112",
-        "name": "Exercício: Avanço com Kettlebell na Frente",
+        "name": " Avanço com Kettlebell na Frente",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -5841,7 +5841,7 @@
     },
     {
         "id": "113",
-        "name": "Exercício: Avanço Frontal com Kettlebell em Uma Mão",
+        "name": " Avanço Frontal com Kettlebell em Uma Mão",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -5897,7 +5897,7 @@
     },
     {
         "id": "114",
-        "name": "Exercício: Cardio para Frente e para Trás",
+        "name": " Cardio para Frente e para Trás",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5949,7 +5949,7 @@
     },
     {
         "id": "115",
-        "name": "Exercício: Avanço com Kettlebell de Braço Único na Frente",
+        "name": " Avanço com Kettlebell de Braço Único na Frente",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -5995,7 +5995,7 @@
     },
     {
         "id": "116",
-        "name": "Exercício: Tesoura Cardio para Frente",
+        "name": " Tesoura Cardio para Frente",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6045,7 +6045,7 @@
     },
     {
         "id": "117",
-        "name": "Exercício: Texto: Estabilidade do Core 2 Toque Oposto no Ombro na Posição de 4 Pontos",
+        "name": "  Estabilidade do Core 2 Toque Oposto no Ombro na Posição de 4 Pontos",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6094,7 +6094,7 @@
     },
     {
         "id": "118",
-        "name": "Exercício: Texto: Estabilidade do Core 5 Elevação Cruzada de Membros em Tuck de Cotovelo Joelho na Posição de Flexão",
+        "name": "  Estabilidade do Core 5 Elevação Cruzada de Membros em Tuck de Cotovelo Joelho na Posição de Flexão",
         "level": "Avançado",
         "execution_type": "Cotovelo",
         "videos": [
@@ -6137,7 +6137,7 @@
     },
     {
         "id": "119",
-        "name": "Exercício: Texto: Estabilidade do Core 1 Elevação Cruzada de Membros em Posição de 4 Pontos",
+        "name": "  Estabilidade do Core 1 Elevação Cruzada de Membros em Posição de 4 Pontos",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6185,7 +6185,7 @@
     },
     {
         "id": "120",
-        "name": "Exercício: Texto: Estabilidade do Core 4 Levantamento Cruzado de Membros em Posição de Flexão",
+        "name": "  Estabilidade do Core 4 Levantamento Cruzado de Membros em Posição de Flexão",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6236,7 +6236,7 @@
     },
     {
         "id": "121",
-        "name": "Exercício: Texto: Dead Bugs Cruzado Lateral",
+        "name": "  Dead Bugs Cruzado Lateral",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6285,7 +6285,7 @@
     },
     {
         "id": "122",
-        "name": "Exercício: Texto: Estabilidade do Core Regressão Elevação Cruzada dos Membros Posição de Flexão",
+        "name": "  Estabilidade do Core Regressão Elevação Cruzada dos Membros Posição de Flexão",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6334,7 +6334,7 @@
     },
     {
         "id": "123",
-        "name": "Exercício: Texto: Dead Bugs do Mesmo Lado",
+        "name": "  Dead Bugs do Mesmo Lado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6374,7 +6374,7 @@
     },
     {
         "id": "124",
-        "name": "Exercício: Abaixamento de Pernas",
+        "name": " Abaixamento de Pernas",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6422,7 +6422,7 @@
     },
     {
         "id": "125",
-        "name": "Exercício: Toque Alternado no Calcanhar",
+        "name": " Toque Alternado no Calcanhar",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6478,7 +6478,7 @@
     },
     {
         "id": "126",
-        "name": "Exercício: Ergômetro de Esqui Cardio",
+        "name": " Ergômetro de Esqui Cardio",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6534,7 +6534,7 @@
     },
     {
         "id": "127",
-        "name": "Exercício: Prancha Serra",
+        "name": " Prancha Serra",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6583,7 +6583,7 @@
     },
     {
         "id": "128",
-        "name": "Exercício: Prancha com Escalada de Montanha no Cotovelo",
+        "name": " Prancha com Escalada de Montanha no Cotovelo",
         "level": "Iniciante",
         "execution_type": "Cotovelo",
         "videos": [
@@ -6632,7 +6632,7 @@
     },
     {
         "id": "129",
-        "name": "Exercício: Prancha com Abertura de Pernas",
+        "name": " Prancha com Abertura de Pernas",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6684,7 +6684,7 @@
     },
     {
         "id": "130",
-        "name": "Exercício: Ativação do Serrátil com Prancha Ativa no Bosu",
+        "name": " Ativação do Serrátil com Prancha Ativa no Bosu",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6736,7 +6736,7 @@
     },
     {
         "id": "131",
-        "name": "Exercício: Elevação em L Sentado",
+        "name": " Elevação em L Sentado",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6787,7 +6787,7 @@
     },
     {
         "id": "132",
-        "name": "Exercício: Ativação do Serrátil com Prancha Ativa",
+        "name": " Ativação do Serrátil com Prancha Ativa",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6830,7 +6830,7 @@
     },
     {
         "id": "133",
-        "name": "Exercício: Exercício de Inseto Morto com Bola Medicinal",
+        "name": " Exercício de Inseto Morto com Bola Medicinal",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [

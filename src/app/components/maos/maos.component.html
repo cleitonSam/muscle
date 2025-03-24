@@ -1,8 +1,5 @@
-<!-- Loader -->
-<div *ngIf="isLoading" class="loader-container">
-    <div class="spinner"></div>
-  </div>
-  
+<app-loading [isLoading]="isLoading"></app-loading>
+
   <!-- Header com Botão Voltar, Filtro por Nível e Campo de Busca -->
   <div class="header">
     <!-- Botão Voltar -->
@@ -40,7 +37,7 @@
         <img src="../../../assets/abdominal.jpg" alt="{{ exercise.name }}" />
       </a>
       <a class="card-description" target="_blank">
-        <h3>{{ exercise.name.replace('Exercício:', '').replace('Texto:', '').trim() }}</h3>
+        <h3>{{exercise.name}}</h3>
         <p>Responsável pela estabilização do tronco.</p>
       </a>
     </li>

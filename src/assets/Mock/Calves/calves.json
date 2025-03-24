@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Exercício: Variação Um do Alongamento de Panturrilhas",
+        "name": " Variação Um do Alongamento de Panturrilhas",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -48,7 +48,7 @@
     },
     {
         "id": "2",
-        "name": "Exercício: Elevação de Panturrilha em Máquina na Posição em Pé",
+        "name": " Elevação de Panturrilha em Máquina na Posição em Pé",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -99,7 +99,7 @@
     },
     {
         "id": "3",
-        "name": "Exercício: Elevação de Panturrilha Sentado na Máquina",
+        "name": " Elevação de Panturrilha Sentado na Máquina",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -145,7 +145,7 @@
     },
     {
         "id": "4",
-        "name": "Exercício: Elevação de Panturrilha com Barra",
+        "name": " Elevação de Panturrilha com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -194,7 +194,7 @@
     },
     {
         "id": "5",
-        "name": "Exercício: Elevação de Panturrilha",
+        "name": " Elevação de Panturrilha",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -243,7 +243,7 @@
     },
     {
         "id": "6",
-        "name": "Exercício: Variação Três do Alongamento de Panturrilhas",
+        "name": " Variação Três do Alongamento de Panturrilhas",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -286,7 +286,7 @@
     },
     {
         "id": "7",
-        "name": "Exercício: Elevação de Panturrilha Sentado com Kettlebell",
+        "name": " Elevação de Panturrilha Sentado com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -335,7 +335,7 @@
     },
     {
         "id": "8",
-        "name": "Exercício: Variação Dois do Alongamento de Panturrilhas",
+        "name": " Variação Dois do Alongamento de Panturrilhas",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -381,7 +381,7 @@
     },
     {
         "id": "9",
-        "name": "Exercício: Elevação de Panturrilha com Faixa",
+        "name": " Elevação de Panturrilha com Faixa",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -425,7 +425,7 @@
     },
     {
         "id": "10",
-        "name": "Exercício: Elevação de Panturrilha com Halteres",
+        "name": " Elevação de Panturrilha com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -470,7 +470,7 @@
     },
     {
         "id": "11",
-        "name": "Exercício: Elevação de Panturrilha Caminhando",
+        "name": " Elevação de Panturrilha Caminhando",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -520,7 +520,7 @@
     },
     {
         "id": "12",
-        "name": "Exercício: Elevação de Panturrilha no Cabo",
+        "name": " Elevação de Panturrilha no Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -569,7 +569,7 @@
     },
     {
         "id": "13",
-        "name": "Exercício: Texto: Máquina de Prensa Horizontal para Pernas e Elevação de Panturrilha",
+        "name": "  Máquina de Prensa Horizontal para Pernas e Elevação de Panturrilha",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -612,7 +612,7 @@
     },
     {
         "id": "14",
-        "name": "Exercício: Elevação de Panturrilha com Kettlebell em uma Perna Só",
+        "name": " Elevação de Panturrilha com Kettlebell em uma Perna Só",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -661,7 +661,7 @@
     },
     {
         "id": "15",
-        "name": "Exercício: Elevação de Panturrilha com Kettlebell",
+        "name": " Elevação de Panturrilha com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -707,7 +707,7 @@
     },
     {
         "id": "16",
-        "name": "Exercício: Texto: Máquina de Prensa Horizontal para Pernas e Salto de Panturrilha",
+        "name": "  Máquina de Prensa Horizontal para Pernas e Salto de Panturrilha",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -755,7 +755,7 @@
     },
     {
         "id": "17",
-        "name": "Exercício: Elevação de Panturrilha Sentado com Barra",
+        "name": " Elevação de Panturrilha Sentado com Barra",
         "level": "Iniciante",
         "execution_type": "Barra",
         "videos": [
@@ -803,7 +803,7 @@
     },
     {
         "id": "18",
-        "name": "Exercício: Elevação de Panturrilha com Barra e Dedos para Cima",
+        "name": " Elevação de Panturrilha com Barra e Dedos para Cima",
         "level": "Iniciante",
         "execution_type": "Barra",
         "videos": [
@@ -852,7 +852,7 @@
     },
     {
         "id": "19",
-        "name": "Exercício: Caminhada na Ponta dos Pés",
+        "name": " Caminhada na Ponta dos Pés",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -902,7 +902,7 @@
     },
     {
         "id": "20",
-        "name": "Exercício: Salto com Barra para Panturrilhas",
+        "name": " Salto com Barra para Panturrilhas",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -953,7 +953,7 @@
     },
     {
         "id": "21",
-        "name": "Exercício: Elevação Dupla de Panturrilha Sentado com Kettlebell",
+        "name": " Elevação Dupla de Panturrilha Sentado com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1003,7 +1003,7 @@
     },
     {
         "id": "22",
-        "name": "Exercício: Elevação de Panturrilha Sentado com Halteres",
+        "name": " Elevação de Panturrilha Sentado com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -1048,7 +1048,7 @@
     },
     {
         "id": "23",
-        "name": "Exercício: Elevação de Panturrilha na Smith Machine",
+        "name": " Elevação de Panturrilha na Smith Machine",
         "level": "Novato",
         "execution_type": "Máquina (Smith)",
         "videos": [
@@ -1097,7 +1097,7 @@
     },
     {
         "id": "24",
-        "name": "Exercício: Elevação de Panturrilha TRX",
+        "name": " Elevação de Panturrilha TRX",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1142,7 +1142,7 @@
     },
     {
         "id": "25",
-        "name": "Exercício: Máquina de Elevação de Panturrilha a 45 Graus",
+        "name": " Máquina de Elevação de Panturrilha a 45 Graus",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -1192,7 +1192,7 @@
     },
     {
         "id": "26",
-        "name": "Exercício: Pular Corda",
+        "name": " Pular Corda",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1246,7 +1246,7 @@
     },
     {
         "id": "27",
-        "name": "Exercício: Elevação de Panturrilha com Peso Corporal",
+        "name": " Elevação de Panturrilha com Peso Corporal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1290,7 +1290,7 @@
     },
     {
         "id": "28",
-        "name": "Exercício: Smith Machine Elevação de Panturrilha Sentado",
+        "name": " Smith Machine Elevação de Panturrilha Sentado",
         "level": "Novato",
         "execution_type": "Máquina (Smith)",
         "videos": [
@@ -1340,7 +1340,7 @@
     },
     {
         "id": "29",
-        "name": "Exercício: Elevação de Panturrilha com Cabo",
+        "name": " Elevação de Panturrilha com Cabo",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1388,7 +1388,7 @@
     },
     {
         "id": "30",
-        "name": "Exercício: Máquina de Elevação de Panturrilha com Carga de Placas",
+        "name": " Máquina de Elevação de Panturrilha com Carga de Placas",
         "level": "Intermediário",
         "execution_type": "Máquina",
         "videos": [
@@ -1438,7 +1438,7 @@
     },
     {
         "id": "31",
-        "name": "Exercício: Elevação de Panturrilha na Máquina estilo Burro",
+        "name": " Elevação de Panturrilha na Máquina estilo Burro",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -1485,7 +1485,7 @@
     },
     {
         "id": "32",
-        "name": "Exercício: Elevação de Panturrilha com Halter em uma Perna",
+        "name": " Elevação de Panturrilha com Halter em uma Perna",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1539,7 +1539,7 @@
     },
     {
         "id": "33",
-        "name": "Exercício: Cachorro Olhando para Baixo do Dedo do Pé ao Calcanhar",
+        "name": " Cachorro Olhando para Baixo do Dedo do Pé ao Calcanhar",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1591,7 +1591,7 @@
     },
     {
         "id": "34",
-        "name": "Exercício: Pratique seu Cachorro Olhando para Baixo",
+        "name": " Pratique seu Cachorro Olhando para Baixo",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1647,7 +1647,7 @@
     },
     {
         "id": "35",
-        "name": "Exercício: Blocos de Panturrilha na Postura da Pirâmide",
+        "name": " Blocos de Panturrilha na Postura da Pirâmide",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1697,7 +1697,7 @@
     },
     {
         "id": "36",
-        "name": "Exercício: Elevação de Panturrilha com uma Perna com Peso Corporal",
+        "name": " Elevação de Panturrilha com uma Perna com Peso Corporal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1750,7 +1750,7 @@
     },
     {
         "id": "37",
-        "name": "Exercício: Elevação de Panturrilha em Pé Vitruviano",
+        "name": " Elevação de Panturrilha em Pé Vitruviano",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1797,7 +1797,7 @@
     },
     {
         "id": "38",
-        "name": "Exercício: Elevação de Panturrilha com Landmine",
+        "name": " Elevação de Panturrilha com Landmine",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1847,7 +1847,7 @@
     },
     {
         "id": "39",
-        "name": "Exercício: Elevação de Panturrilha Sentado Vitruvian",
+        "name": " Elevação de Panturrilha Sentado Vitruvian",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1896,7 +1896,7 @@
     },
     {
         "id": "40",
-        "name": "Exercício: Elevação de Panturrilha com Bola Bosu",
+        "name": " Elevação de Panturrilha com Bola Bosu",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -1950,7 +1950,7 @@
     },
     {
         "id": "41",
-        "name": "Exercício: Elevação de Panturrilha na Barra com Cabo",
+        "name": " Elevação de Panturrilha na Barra com Cabo",
         "level": "Novato",
         "execution_type": "Barra",
         "videos": [
@@ -1999,7 +1999,7 @@
     },
     {
         "id": "42",
-        "name": "Exercício: Elevação de Panturrilha com Kettlebell em um Braço Só",
+        "name": " Elevação de Panturrilha com Kettlebell em um Braço Só",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2047,7 +2047,7 @@
     },
     {
         "id": "43",
-        "name": "Exercício: Elevação de Panturrilha com Kettlebell Goblet",
+        "name": " Elevação de Panturrilha com Kettlebell Goblet",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2092,7 +2092,7 @@
     },
     {
         "id": "44",
-        "name": "Exercício: Elevação de Panturrilha com Kettlebell de Braço e Perna Única",
+        "name": " Elevação de Panturrilha com Kettlebell de Braço e Perna Única",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2144,7 +2144,7 @@
     },
     {
         "id": "45",
-        "name": "Exercício: Corrida na Esteira",
+        "name": " Corrida na Esteira",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2197,7 +2197,7 @@
     },
     {
         "id": "46",
-        "name": "Exercício: Cardio Box Pés Rápidos",
+        "name": " Cardio Box Pés Rápidos",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2252,7 +2252,7 @@
     },
     {
         "id": "47",
-        "name": "Exercício: Sprint na Esteira",
+        "name": " Sprint na Esteira",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2309,7 +2309,7 @@
     },
     {
         "id": "48",
-        "name": "Exercício: Caminhada na Esteira",
+        "name": " Caminhada na Esteira",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2367,7 +2367,7 @@
     },
     {
         "id": "49",
-        "name": "Exercício: Salto Diamante Cardio",
+        "name": " Salto Diamante Cardio",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2420,7 +2420,7 @@
     },
     {
         "id": "50",
-        "name": "Exercício: Cardio Polichinelos Cruzados",
+        "name": " Cardio Polichinelos Cruzados",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2473,7 +2473,7 @@
     },
     {
         "id": "51",
-        "name": "Exercício: Sprint Cardio em Figura Oito",
+        "name": " Sprint Cardio em Figura Oito",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2525,7 +2525,7 @@
     },
     {
         "id": "52",
-        "name": "Exercício: Isométrico de Panturrilha no Degrau",
+        "name": " Isométrico de Panturrilha no Degrau",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2574,7 +2574,7 @@
     },
     {
         "id": "53",
-        "name": "Exercício: Cardio Entrada-Saída-Volta Shuffle",
+        "name": " Cardio Entrada-Saída-Volta Shuffle",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2630,7 +2630,7 @@
     },
     {
         "id": "54",
-        "name": "Exercício: Elevação de Panturrilha 1B Bilateral no Chão",
+        "name": " Elevação de Panturrilha 1B Bilateral no Chão",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2682,7 +2682,7 @@
     },
     {
         "id": "55",
-        "name": "Exercício: Elevação de Panturrilha 1E Bilateral Isométrica no Chão",
+        "name": " Elevação de Panturrilha 1E Bilateral Isométrica no Chão",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2733,7 +2733,7 @@
     },
     {
         "id": "56",
-        "name": "Exercício: Elevação de Panturrilha 1C Bilateral Excêntrica da Caixa",
+        "name": " Elevação de Panturrilha 1C Bilateral Excêntrica da Caixa",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2784,7 +2784,7 @@
     },
     {
         "id": "57",
-        "name": "Exercício: Elevação de Panturrilha Bilateral 1D a Partir da Caixa",
+        "name": " Elevação de Panturrilha Bilateral 1D a Partir da Caixa",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2835,7 +2835,7 @@
     },
     {
         "id": "58",
-        "name": "Exercício: Elevação de Panturrilha 2B Unilateral no Chão",
+        "name": " Elevação de Panturrilha 2B Unilateral no Chão",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2885,7 +2885,7 @@
     },
     {
         "id": "59",
-        "name": "Exercício: Elevação de Panturrilha 2C Excêntrica Unilateral a partir da Caixa",
+        "name": " Elevação de Panturrilha 2C Excêntrica Unilateral a partir da Caixa",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2936,7 +2936,7 @@
     },
     {
         "id": "60",
-        "name": "Exercício: Elevação de Panturrilha Unilateral 2D do Caixote",
+        "name": " Elevação de Panturrilha Unilateral 2D do Caixote",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2986,7 +2986,7 @@
     },
     {
         "id": "61",
-        "name": "Exercício: Elevação de Panturrilha 2A Excêntrico Unilateral no Chão",
+        "name": " Elevação de Panturrilha 2A Excêntrico Unilateral no Chão",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3035,7 +3035,7 @@
     },
     {
         "id": "62",
-        "name": "Exercício: Elevação de Panturrilha 3B com Ênfase no Sóleo Unilateral",
+        "name": " Elevação de Panturrilha 3B com Ênfase no Sóleo Unilateral",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3059,7 +3059,7 @@
     },
     {
         "id": "63",
-        "name": "Exercício: Elevação de Panturrilha 3A Viés do Sóleo Bilateral",
+        "name": " Elevação de Panturrilha 3A Viés do Sóleo Bilateral",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3082,7 +3082,7 @@
     },
     {
         "id": "64",
-        "name": "Exercício: Elevação Isométrica Unilateral da Panturrilha",
+        "name": " Elevação Isométrica Unilateral da Panturrilha",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3131,7 +3131,7 @@
     },
     {
         "id": "65",
-        "name": "Exercício: Alongamento de Panturrilhas em Caixa Bilateral",
+        "name": " Alongamento de Panturrilhas em Caixa Bilateral",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3179,7 +3179,7 @@
     },
     {
         "id": "66",
-        "name": "Exercício: Alongamento Unilateral do Gastrocnêmio na Parede",
+        "name": " Alongamento Unilateral do Gastrocnêmio na Parede",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3230,7 +3230,7 @@
     },
     {
         "id": "67",
-        "name": "Exercício: Alongamento Bilateral do Gastrocnêmio na Caixa",
+        "name": " Alongamento Bilateral do Gastrocnêmio na Caixa",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3283,7 +3283,7 @@
     },
     {
         "id": "68",
-        "name": "Exercício: Alongamento do Gastrocnêmio na Posição de Flexão",
+        "name": " Alongamento do Gastrocnêmio na Posição de Flexão",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3337,7 +3337,7 @@
     },
     {
         "id": "69",
-        "name": "Exercício: Alongamento Unilateral do Gastrocnêmio na Caixa",
+        "name": " Alongamento Unilateral do Gastrocnêmio na Caixa",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3384,7 +3384,7 @@
     },
     {
         "id": "70",
-        "name": "Exercício: Cardio Lateral com Pés Rápidos",
+        "name": " Cardio Lateral com Pés Rápidos",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3431,7 +3431,7 @@
     },
     {
         "id": "71",
-        "name": "Exercício: Cardio com Três Passos Heismans",
+        "name": " Cardio com Três Passos Heismans",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3484,7 +3484,7 @@
     },
     {
         "id": "72",
-        "name": "Exercício: Flexões Plantares Sentado",
+        "name": " Flexões Plantares Sentado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3535,7 +3535,7 @@
     },
     {
         "id": "73",
-        "name": "Exercício: Toques de Joelho no Cardio",
+        "name": " Toques de Joelho no Cardio",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3588,7 +3588,7 @@
     },
     {
         "id": "74",
-        "name": "Exercício: Cardio Pés Rápidos",
+        "name": " Cardio Pés Rápidos",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3635,7 +3635,7 @@
     },
     {
         "id": "75",
-        "name": "Exercício: Salto Longo Cardio",
+        "name": " Salto Longo Cardio",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3685,7 +3685,7 @@
     },
     {
         "id": "76",
-        "name": "Exercício: Cardio Salto Longo com Recuo Rápido",
+        "name": " Cardio Salto Longo com Recuo Rápido",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3736,7 +3736,7 @@
     },
     {
         "id": "77",
-        "name": "Exercício: Cardio com Deslocamento Lateral",
+        "name": " Cardio com Deslocamento Lateral",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3786,7 +3786,7 @@
     },
     {
         "id": "78",
-        "name": "Exercício: Polichinelos com Movimentos Laterais de Cardio",
+        "name": " Polichinelos com Movimentos Laterais de Cardio",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3840,7 +3840,7 @@
     },
     {
         "id": "79",
-        "name": "Exercício: Cardio Salto Lateral com Uma Perna Só",
+        "name": " Cardio Salto Lateral com Uma Perna Só",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3892,7 +3892,7 @@
     },
     {
         "id": "80",
-        "name": "Exercício: Corrida de Sprint com Variação de Ritmo",
+        "name": " Corrida de Sprint com Variação de Ritmo",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3945,7 +3945,7 @@
     },
     {
         "id": "81",
-        "name": "Exercício: Cardio Pulando para Frente com uma Perna Só",
+        "name": " Cardio Pulando para Frente com uma Perna Só",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3997,7 +3997,7 @@
     },
     {
         "id": "82",
-        "name": "Exercício: Círculo com o Tornozelo",
+        "name": " Círculo com o Tornozelo",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4048,7 +4048,7 @@
     },
     {
         "id": "83",
-        "name": "Exercício: Cardio Skater para Burpee em uma Perna Só",
+        "name": " Cardio Skater para Burpee em uma Perna Só",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4106,7 +4106,7 @@
     },
     {
         "id": "84",
-        "name": "Exercício: Alongamento do Sóleo",
+        "name": " Alongamento do Sóleo",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4157,7 +4157,7 @@
     },
     {
         "id": "85",
-        "name": "Exercício: Cardio Corrida Estática",
+        "name": " Cardio Corrida Estática",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [

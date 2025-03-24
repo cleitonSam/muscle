@@ -29,6 +29,6 @@ exercise: any;
 
   // Função para limpar o nome do exercício
 cleanExerciseName(name: string): string {
-  return name.replace('Exercício:', '').replace('Texto:', '').trim();
+  return name.replace('', '').replace('', '').trim();
 }
 }

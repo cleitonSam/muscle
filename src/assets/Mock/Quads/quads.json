@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Exercício: Agachamento Goblet com Halteres",
+        "name": " Agachamento Goblet com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -54,7 +54,7 @@
     },
     {
         "id": "2",
-        "name": "Exercício: Agachamento com Barra",
+        "name": " Agachamento com Barra",
         "level": "Iniciante",
         "execution_type": "Barra",
         "videos": [
@@ -110,7 +110,7 @@
     },
     {
         "id": "3",
-        "name": "Exercício: Agachamento com Barra",
+        "name": " Agachamento com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -167,7 +167,7 @@
     },
     {
         "id": "4",
-        "name": "Exercício: Extensão de Pernas na Máquina",
+        "name": " Extensão de Pernas na Máquina",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -222,7 +222,7 @@
     },
     {
         "id": "5",
-        "name": "Exercício: Leg Press na Máquina",
+        "name": " Leg Press na Máquina",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -274,7 +274,7 @@
     },
     {
         "id": "6",
-        "name": "Exercício: Agachamento com Peso Corporal",
+        "name": " Agachamento com Peso Corporal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -325,7 +325,7 @@
     },
     {
         "id": "7",
-        "name": "Exercício: Agachamento Curtsy com Barra",
+        "name": " Agachamento Curtsy com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -374,7 +374,7 @@
     },
     {
         "id": "8",
-        "name": "Exercício: Avanço Frontal",
+        "name": " Avanço Frontal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -425,7 +425,7 @@
     },
     {
         "id": "9",
-        "name": "Exercício: Variação Um do Alongamento de Quadríceps",
+        "name": " Variação Um do Alongamento de Quadríceps",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -471,7 +471,7 @@
     },
     {
         "id": "10",
-        "name": "Exercício: Levantamento com Kettlebell",
+        "name": " Levantamento com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -525,7 +525,7 @@
     },
     {
         "id": "11",
-        "name": "Exercício: Variação Dois do Alongamento de Quadríceps",
+        "name": " Variação Dois do Alongamento de Quadríceps",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -575,7 +575,7 @@
     },
     {
         "id": "12",
-        "name": "Exercício: Agachamento Búlgaro com Halteres",
+        "name": " Agachamento Búlgaro com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -627,7 +627,7 @@
     },
     {
         "id": "13",
-        "name": "Exercício: Agachamento Frontal com Barra para Musculação",
+        "name": " Agachamento Frontal com Barra para Musculação",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -679,7 +679,7 @@
     },
     {
         "id": "14",
-        "name": "Exercício: Variação Três do Alongamento de Quadríceps",
+        "name": " Variação Três do Alongamento de Quadríceps",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -721,7 +721,7 @@
     },
     {
         "id": "15",
-        "name": "Exercício: Variação Quatro do Alongamento de Quadríceps",
+        "name": " Variação Quatro do Alongamento de Quadríceps",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -773,7 +773,7 @@
     },
     {
         "id": "16",
-        "name": "Exercício: Texto: Agachamento na Máquina Hack",
+        "name": "  Agachamento na Máquina Hack",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -813,7 +813,7 @@
     },
     {
         "id": "17",
-        "name": "Exercício: Agachamento Goblet com Cabo",
+        "name": " Agachamento Goblet com Cabo",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -868,7 +868,7 @@
     },
     {
         "id": "18",
-        "name": "Exercício: Ponte de Glúteos com Halteres",
+        "name": " Ponte de Glúteos com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -915,7 +915,7 @@
     },
     {
         "id": "19",
-        "name": "Exercício: Avanço para Frente com Kettlebell em um Único Braço",
+        "name": " Avanço para Frente com Kettlebell em um Único Braço",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -971,7 +971,7 @@
     },
     {
         "id": "20",
-        "name": "Exercício: Agachamento com Barra Alta",
+        "name": " Agachamento com Barra Alta",
         "level": "Iniciante",
         "execution_type": "Barra",
         "videos": [
@@ -1031,7 +1031,7 @@
     },
     {
         "id": "21",
-        "name": "Exercício: Levantamento Terra Sumô com Barra",
+        "name": " Levantamento Terra Sumô com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -1082,7 +1082,7 @@
     },
     {
         "id": "22",
-        "name": "Exercício: Agachamento com Barra em Posição Baixa",
+        "name": " Agachamento com Barra em Posição Baixa",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -1134,7 +1134,7 @@
     },
     {
         "id": "23",
-        "name": "Exercício: Agachamento com Faixa Elástica",
+        "name": " Agachamento com Faixa Elástica",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -1190,7 +1190,7 @@
     },
     {
         "id": "24",
-        "name": "Exercício: Leg Press Horizontal Máquina",
+        "name": " Leg Press Horizontal Máquina",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -1246,7 +1246,7 @@
     },
     {
         "id": "25",
-        "name": "Exercício: Avanço Lateral com Kettlebell (Único)",
+        "name": " Avanço Lateral com Kettlebell (Único)",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1297,7 +1297,7 @@
     },
     {
         "id": "26",
-        "name": "Exercício: Agachamento Reverso com Kettlebell em um Braço Só",
+        "name": " Agachamento Reverso com Kettlebell em um Braço Só",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1352,7 +1352,7 @@
     },
     {
         "id": "27",
-        "name": "Exercício: Agachamento Goblet com Kettlebell",
+        "name": " Agachamento Goblet com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1408,7 +1408,7 @@
     },
     {
         "id": "28",
-        "name": "Exercício: Agachamento Búlgaro com Barra",
+        "name": " Agachamento Búlgaro com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -1461,7 +1461,7 @@
     },
     {
         "id": "29",
-        "name": "Exercício: Leg Press com Faixa Elástica",
+        "name": " Leg Press com Faixa Elástica",
         "level": "Avançado",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -1515,7 +1515,7 @@
     },
     {
         "id": "30",
-        "name": "Exercício: Agachamento Goblet com Kettlebell e Calcanhares Erguidos",
+        "name": " Agachamento Goblet com Kettlebell e Calcanhares Erguidos",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1568,7 +1568,7 @@
     },
     {
         "id": "31",
-        "name": "Exercício: Agachamento Dividido com Cabo",
+        "name": " Agachamento Dividido com Cabo",
         "level": "Avançado",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1625,7 +1625,7 @@
     },
     {
         "id": "32",
-        "name": "Exercício: Agachamento Frontal Olímpico com Barra",
+        "name": " Agachamento Frontal Olímpico com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -1676,7 +1676,7 @@
     },
     {
         "id": "33",
-        "name": "Exercício: Agachamento Búlgaro com Halter tipo Goblet",
+        "name": " Agachamento Búlgaro com Halter tipo Goblet",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1728,7 +1728,7 @@
     },
     {
         "id": "34",
-        "name": "Exercício: Agachamento Búlgaro com Perna Dividida",
+        "name": " Agachamento Búlgaro com Perna Dividida",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1783,7 +1783,7 @@
     },
     {
         "id": "35",
-        "name": "Exercício: Agachamento Espanhol com Faixa",
+        "name": " Agachamento Espanhol com Faixa",
         "level": "Avançado",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -1838,7 +1838,7 @@
     },
     {
         "id": "36",
-        "name": "Exercício: Extensão de Perna em Pé com Cabo",
+        "name": " Extensão de Perna em Pé com Cabo",
         "level": "Avançado",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1893,7 +1893,7 @@
     },
     {
         "id": "37",
-        "name": "Exercício: Avanço com Barra",
+        "name": " Avanço com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -1951,7 +1951,7 @@
     },
     {
         "id": "38",
-        "name": "Exercício: Agachamentos com Salto",
+        "name": " Agachamentos com Salto",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2001,7 +2001,7 @@
     },
     {
         "id": "39",
-        "name": "Exercício: Levantamento Terra Coan com Barra",
+        "name": " Levantamento Terra Coan com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -2024,7 +2024,7 @@
     },
     {
         "id": "40",
-        "name": "Exercício: Afundo Lateral",
+        "name": " Afundo Lateral",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2075,7 +2075,7 @@
     },
     {
         "id": "41",
-        "name": "Exercício: Agachamento com Barra e Calcanhares Elevados",
+        "name": " Agachamento com Barra e Calcanhares Elevados",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -2134,7 +2134,7 @@
     },
     {
         "id": "42",
-        "name": "Exercício: Agachamento Lateral com Barra",
+        "name": " Agachamento Lateral com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -2187,7 +2187,7 @@
     },
     {
         "id": "43",
-        "name": "Exercício: Agachamento Frontal com Barra e Calcanhares Elevados",
+        "name": " Agachamento Frontal com Barra e Calcanhares Elevados",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -2240,7 +2240,7 @@
     },
     {
         "id": "44",
-        "name": "Exercício: Avanço com Barra Frontal",
+        "name": " Avanço com Barra Frontal",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -2290,7 +2290,7 @@
     },
     {
         "id": "45",
-        "name": "Exercício: Agachamento com Barra Parado na Caixa",
+        "name": " Agachamento com Barra Parado na Caixa",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -2348,7 +2348,7 @@
     },
     {
         "id": "46",
-        "name": "Exercício: Agachamento com Barra e Pausa",
+        "name": " Agachamento com Barra e Pausa",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -2404,7 +2404,7 @@
     },
     {
         "id": "47",
-        "name": "Exercício: Agachamento Reverso com Barra",
+        "name": " Agachamento Reverso com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -2459,7 +2459,7 @@
     },
     {
         "id": "48",
-        "name": "Exercício: Levantamento Lateral com Barra",
+        "name": " Levantamento Lateral com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -2510,7 +2510,7 @@
     },
     {
         "id": "49",
-        "name": "Exercício: Agachamento Dividido com Barra",
+        "name": " Agachamento Dividido com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -2562,7 +2562,7 @@
     },
     {
         "id": "50",
-        "name": "Exercício: Agachamento Búlgaro Assistido",
+        "name": " Agachamento Búlgaro Assistido",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2616,7 +2616,7 @@
     },
     {
         "id": "51",
-        "name": "Exercício: Equilíbrio no Step com Barra",
+        "name": " Equilíbrio no Step com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -2667,7 +2667,7 @@
     },
     {
         "id": "52",
-        "name": "Exercício: Agachamento com Barra e Pausa",
+        "name": " Agachamento com Barra e Pausa",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -2725,7 +2725,7 @@
     },
     {
         "id": "53",
-        "name": "Exercício: Avanço Reverso com Peso Corporal",
+        "name": " Avanço Reverso com Peso Corporal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2777,7 +2777,7 @@
     },
     {
         "id": "54",
-        "name": "Exercício: Avanço com Reverência",
+        "name": " Avanço com Reverência",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2830,7 +2830,7 @@
     },
     {
         "id": "55",
-        "name": "Exercício: Avanço Frontal",
+        "name": " Avanço Frontal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2881,7 +2881,7 @@
     },
     {
         "id": "56",
-        "name": "Exercício: Agachamento com Calcanhares Elevados",
+        "name": " Agachamento com Calcanhares Elevados",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2935,7 +2935,7 @@
     },
     {
         "id": "57",
-        "name": "Exercício: Agachamento Búlgaro com Halter tipo Goblet",
+        "name": " Agachamento Búlgaro com Halter tipo Goblet",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2991,7 +2991,7 @@
     },
     {
         "id": "58",
-        "name": "Exercício: Agachamento Dividido",
+        "name": " Agachamento Dividido",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3047,7 +3047,7 @@
     },
     {
         "id": "59",
-        "name": "Exercício: Avanço Frontal com Halteres",
+        "name": " Avanço Frontal com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -3092,7 +3092,7 @@
     },
     {
         "id": "60",
-        "name": "Exercício: Avanço Frontal com Halter no Formato de Cálice",
+        "name": " Avanço Frontal com Halter no Formato de Cálice",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3148,7 +3148,7 @@
     },
     {
         "id": "61",
-        "name": "Exercício: Avanço Reverso com Halteres",
+        "name": " Avanço Reverso com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -3200,7 +3200,7 @@
     },
     {
         "id": "62",
-        "name": "Exercício: Agachamento Dividido com Halteres",
+        "name": " Agachamento Dividido com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -3248,7 +3248,7 @@
     },
     {
         "id": "63",
-        "name": "Exercício: Avanço Reverso com Halteres no Estilo Cálice",
+        "name": " Avanço Reverso com Halteres no Estilo Cálice",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -3305,7 +3305,7 @@
     },
     {
         "id": "64",
-        "name": "Exercício: Agachamento Goblet com Halteres em Afundo",
+        "name": " Agachamento Goblet com Halteres em Afundo",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -3356,7 +3356,7 @@
     },
     {
         "id": "65",
-        "name": "Exercício: Agachamento com Halteres à Frente",
+        "name": " Agachamento com Halteres à Frente",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -3404,7 +3404,7 @@
     },
     {
         "id": "66",
-        "name": "Exercício: Agachamento Goblet Estreito com Halteres e Calcanhares Elevados",
+        "name": " Agachamento Goblet Estreito com Halteres e Calcanhares Elevados",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -3460,7 +3460,7 @@
     },
     {
         "id": "67",
-        "name": "Exercício: Agachamento Goblet com Halteres e Calcanhares Elevados",
+        "name": " Agachamento Goblet com Halteres e Calcanhares Elevados",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -3515,7 +3515,7 @@
     },
     {
         "id": "68",
-        "name": "Exercício: Agachamento com Parada e Halteres na Frente",
+        "name": " Agachamento com Parada e Halteres na Frente",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -3571,7 +3571,7 @@
     },
     {
         "id": "69",
-        "name": "Exercício: Agachamento Sumô com Halteres",
+        "name": " Agachamento Sumô com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -3629,7 +3629,7 @@
     },
     {
         "id": "70",
-        "name": "Exercício: Agachamento com Prato ao Alcance",
+        "name": " Agachamento com Prato ao Alcance",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3684,7 +3684,7 @@
     },
     {
         "id": "71",
-        "name": "Exercício: Levantamento de Halteres",
+        "name": " Levantamento de Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -3734,7 +3734,7 @@
     },
     {
         "id": "72",
-        "name": "Exercício: Agachamento com Placa",
+        "name": " Agachamento com Placa",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3789,7 +3789,7 @@
     },
     {
         "id": "73",
-        "name": "Exercício: Agachamento Curtsy com Prato",
+        "name": " Agachamento Curtsy com Prato",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3842,7 +3842,7 @@
     },
     {
         "id": "74",
-        "name": "Exercício: Avanço Reverso com Torção e Prato",
+        "name": " Avanço Reverso com Torção e Prato",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3896,7 +3896,7 @@
     },
     {
         "id": "75",
-        "name": "Exercício: Avanço com Prato à Frente",
+        "name": " Avanço com Prato à Frente",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3951,7 +3951,7 @@
     },
     {
         "id": "76",
-        "name": "Exercício: Afundo Lateral com Prato",
+        "name": " Afundo Lateral com Prato",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4002,7 +4002,7 @@
     },
     {
         "id": "77",
-        "name": "Exercício: Avanço com Deficit de Placa",
+        "name": " Avanço com Deficit de Placa",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4051,7 +4051,7 @@
     },
     {
         "id": "78",
-        "name": "Exercício: Agachamento com Prato Acima da Cabeça",
+        "name": " Agachamento com Prato Acima da Cabeça",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4108,7 +4108,7 @@
     },
     {
         "id": "79",
-        "name": "Exercício: Avanço Reverso com Prato",
+        "name": " Avanço Reverso com Prato",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4159,7 +4159,7 @@
     },
     {
         "id": "80",
-        "name": "Exercício: Extensão de Perna com Faixa Elástica",
+        "name": " Extensão de Perna com Faixa Elástica",
         "level": "Iniciante",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -4210,7 +4210,7 @@
     },
     {
         "id": "81",
-        "name": "Exercício: TRX Afundo com Reverência",
+        "name": " TRX Afundo com Reverência",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4263,7 +4263,7 @@
     },
     {
         "id": "82",
-        "name": "Exercício: Avanço Caminhando com Prato Erguido Acima da Cabeça",
+        "name": " Avanço Caminhando com Prato Erguido Acima da Cabeça",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4317,7 +4317,7 @@
     },
     {
         "id": "83",
-        "name": "Exercício: Agachamento com Levantamento de Peso",
+        "name": " Agachamento com Levantamento de Peso",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4369,7 +4369,7 @@
     },
     {
         "id": "84",
-        "name": "Exercício: Agachamento com Salto no TRX",
+        "name": " Agachamento com Salto no TRX",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4425,7 +4425,7 @@
     },
     {
         "id": "85",
-        "name": "Exercício: TRX Afundo Reverso",
+        "name": " TRX Afundo Reverso",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4474,7 +4474,7 @@
     },
     {
         "id": "86",
-        "name": "Exercício: Agachamento dividido TRX",
+        "name": " Agachamento dividido TRX",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4524,7 +4524,7 @@
     },
     {
         "id": "87",
-        "name": "Exercício: Agachamento TRX",
+        "name": " Agachamento TRX",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4574,7 +4574,7 @@
     },
     {
         "id": "88",
-        "name": "Exercício: TRX Afundo Lateral",
+        "name": " TRX Afundo Lateral",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4630,7 +4630,7 @@
     },
     {
         "id": "89",
-        "name": "Exercício: Agachamento Curtsy com Barra Terrestre",
+        "name": " Agachamento Curtsy com Barra Terrestre",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -4682,7 +4682,7 @@
     },
     {
         "id": "90",
-        "name": "Exercício: Agachamento com Prato e Alcance Sustentado",
+        "name": " Agachamento com Prato e Alcance Sustentado",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4738,7 +4738,7 @@
     },
     {
         "id": "91",
-        "name": "Exercício: Agachamento Lateral com Landmine",
+        "name": " Agachamento Lateral com Landmine",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4797,7 +4797,7 @@
     },
     {
         "id": "92",
-        "name": "Exercício: Aguachamento com Placa e Rosca Isométrica",
+        "name": " Aguachamento com Placa e Rosca Isométrica",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4855,7 +4855,7 @@
     },
     {
         "id": "93",
-        "name": "Exercício: Máquina de Agachamento Sissy",
+        "name": " Máquina de Agachamento Sissy",
         "level": "Intermediário",
         "execution_type": "Máquina",
         "videos": [
@@ -4904,7 +4904,7 @@
     },
     {
         "id": "94",
-        "name": "Exercício: Agachamento Sissy com Halteres na Máquina",
+        "name": " Agachamento Sissy com Halteres na Máquina",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -4953,7 +4953,7 @@
     },
     {
         "id": "95",
-        "name": "Exercício: Avanço com Barra Olímpica",
+        "name": " Avanço com Barra Olímpica",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -5005,7 +5005,7 @@
     },
     {
         "id": "96",
-        "name": "Exercício: Agachamento no Landmine",
+        "name": " Agachamento no Landmine",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5056,7 +5056,7 @@
     },
     {
         "id": "97",
-        "name": "Exercício: Agachamento com Perna Alternada na Máquina Smith",
+        "name": " Agachamento com Perna Alternada na Máquina Smith",
         "level": "Intermediário",
         "execution_type": "Máquina",
         "videos": [
@@ -5112,7 +5112,7 @@
     },
     {
         "id": "98",
-        "name": "Exercício: Agachamento Sissy na Máquina Smith",
+        "name": " Agachamento Sissy na Máquina Smith",
         "level": "Avançado",
         "execution_type": "Máquina",
         "videos": [
@@ -5166,7 +5166,7 @@
     },
     {
         "id": "99",
-        "name": "Exercício: Agachamento na Máquina Smith",
+        "name": " Agachamento na Máquina Smith",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -5218,7 +5218,7 @@
     },
     {
         "id": "100",
-        "name": "Exercício: Avanço Frontal com Kettlebell (Duplo)",
+        "name": " Avanço Frontal com Kettlebell (Duplo)",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -5270,7 +5270,7 @@
     },
     {
         "id": "101",
-        "name": "Exercício: Agachamento Reverso com Kettlebell",
+        "name": " Agachamento Reverso com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -5318,7 +5318,7 @@
     },
     {
         "id": "102",
-        "name": "Exercício: Agachamento Frontal Avançado com Kettlebell Duplo",
+        "name": " Agachamento Frontal Avançado com Kettlebell Duplo",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -5371,7 +5371,7 @@
     },
     {
         "id": "103",
-        "name": "Exercício: Agachamento Frontal com Kettlebell",
+        "name": " Agachamento Frontal com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -5419,7 +5419,7 @@
     },
     {
         "id": "104",
-        "name": "Exercício: Avanço Reverso com Kettlebell na Frente (Duplo)",
+        "name": " Avanço Reverso com Kettlebell na Frente (Duplo)",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -5470,7 +5470,7 @@
     },
     {
         "id": "105",
-        "name": "Exercício: Agachamento Goblet com Halteres e Step Up",
+        "name": " Agachamento Goblet com Halteres e Step Up",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -5529,7 +5529,7 @@
     },
     {
         "id": "106",
-        "name": "Exercício: Levantamento Terra Sumô com Kettlebell",
+        "name": " Levantamento Terra Sumô com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -5578,7 +5578,7 @@
     },
     {
         "id": "107",
-        "name": "Exercício: Agachamento Frontal com Barra e Alças",
+        "name": " Agachamento Frontal com Barra e Alças",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -5632,7 +5632,7 @@
     },
     {
         "id": "108",
-        "name": "Exercício: Step Up com Halteres na Frente",
+        "name": " Step Up com Halteres na Frente",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -5689,7 +5689,7 @@
     },
     {
         "id": "109",
-        "name": "Exercício: Agachamento Pulsante com Peso Corporal",
+        "name": " Agachamento Pulsante com Peso Corporal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5736,7 +5736,7 @@
     },
     {
         "id": "110",
-        "name": "Exercício: Avanço Lateral com Halteres",
+        "name": " Avanço Lateral com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -5782,7 +5782,7 @@
     },
     {
         "id": "111",
-        "name": "Exercício: Agachamento Pop com Peso Corporal",
+        "name": " Agachamento Pop com Peso Corporal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5835,7 +5835,7 @@
     },
     {
         "id": "112",
-        "name": "Exercício: Levantamento de Halteres com Step",
+        "name": " Levantamento de Halteres com Step",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -5892,7 +5892,7 @@
     },
     {
         "id": "113",
-        "name": "Exercício: Leg Press na Máquina Smith",
+        "name": " Leg Press na Máquina Smith",
         "level": "Intermediário",
         "execution_type": "Máquina",
         "videos": [
@@ -5942,7 +5942,7 @@
     },
     {
         "id": "114",
-        "name": "Exercício: Agachamento Duplo com Kettlebell",
+        "name": " Agachamento Duplo com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -5998,7 +5998,7 @@
     },
     {
         "id": "115",
-        "name": "Exercício: Equilíbrio com Step Up com Kettlebell de um Braço Só",
+        "name": " Equilíbrio com Step Up com Kettlebell de um Braço Só",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -6052,7 +6052,7 @@
     },
     {
         "id": "116",
-        "name": "Exercício: Agachamento com Postura Estreita na Máquina Smith",
+        "name": " Agachamento com Postura Estreita na Máquina Smith",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -6104,7 +6104,7 @@
     },
     {
         "id": "117",
-        "name": "Exercício: Avanço Reverso na Máquina Smith",
+        "name": " Avanço Reverso na Máquina Smith",
         "level": "Intermediário",
         "execution_type": "Máquina",
         "videos": [
@@ -6158,7 +6158,7 @@
     },
     {
         "id": "118",
-        "name": "Exercício: Elevação de Joelho com Peso Corporal",
+        "name": " Elevação de Joelho com Peso Corporal",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6213,7 +6213,7 @@
     },
     {
         "id": "119",
-        "name": "Exercício: Afundo Caminhando",
+        "name": " Afundo Caminhando",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6265,7 +6265,7 @@
     },
     {
         "id": "120",
-        "name": "Exercício: Avanço Alternado com Peso Corporal",
+        "name": " Avanço Alternado com Peso Corporal",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6316,7 +6316,7 @@
     },
     {
         "id": "121",
-        "name": "Exercício: Agachamento com Apoio de Peso Corporal",
+        "name": " Agachamento com Apoio de Peso Corporal",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6362,7 +6362,7 @@
     },
     {
         "id": "122",
-        "name": "Exercício: Agachamento com Barra em Apoio Lateral",
+        "name": " Agachamento com Barra em Apoio Lateral",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -6418,7 +6418,7 @@
     },
     {
         "id": "123",
-        "name": "Exercício: Agachamento com Apoio de Kettlebell",
+        "name": " Agachamento com Apoio de Kettlebell",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -6470,7 +6470,7 @@
     },
     {
         "id": "124",
-        "name": "Exercício: Agachamento com Apoio de Halteres",
+        "name": " Agachamento com Apoio de Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -6520,7 +6520,7 @@
     },
     {
         "id": "125",
-        "name": "Exercício: Agachamento com Halteres no Caixote",
+        "name": " Agachamento com Halteres no Caixote",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -6571,7 +6571,7 @@
     },
     {
         "id": "126",
-        "name": "Exercício: Bicicleta ergométrica",
+        "name": " Bicicleta ergométrica",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6624,7 +6624,7 @@
     },
     {
         "id": "127",
-        "name": "Exercício: Afundo Alternado com Halteres",
+        "name": " Afundo Alternado com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -6673,7 +6673,7 @@
     },
     {
         "id": "128",
-        "name": "Exercício: Afundo Lateral Alternado com Halteres",
+        "name": " Afundo Lateral Alternado com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -6720,7 +6720,7 @@
     },
     {
         "id": "129",
-        "name": "Exercício: Afundo Reverso Alternado com Halteres",
+        "name": " Afundo Reverso Alternado com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -6771,7 +6771,7 @@
     },
     {
         "id": "130",
-        "name": "Exercício: Afundo com Passagem de Kettlebell Alternado",
+        "name": " Afundo com Passagem de Kettlebell Alternado",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -6825,7 +6825,7 @@
     },
     {
         "id": "131",
-        "name": "Exercício: Agachamento Búlgaro Assistido com Halteres",
+        "name": " Agachamento Búlgaro Assistido com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -6878,7 +6878,7 @@
     },
     {
         "id": "132",
-        "name": "Exercício: Afundo Alternado com Agachamento Goblet com Halteres",
+        "name": " Afundo Alternado com Agachamento Goblet com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -6935,7 +6935,7 @@
     },
     {
         "id": "133",
-        "name": "Exercício: Agachamento com Balanço de Kettlebell",
+        "name": " Agachamento com Balanço de Kettlebell",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -6988,7 +6988,7 @@
     },
     {
         "id": "134",
-        "name": "Exercício: Agachamento Búlgaro Assistido com Kettlebell",
+        "name": " Agachamento Búlgaro Assistido com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -7045,7 +7045,7 @@
     },
     {
         "id": "135",
-        "name": "Exercício: Afundo Lateral Alternado com Kettlebell",
+        "name": " Afundo Lateral Alternado com Kettlebell",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -7094,7 +7094,7 @@
     },
     {
         "id": "136",
-        "name": "Exercício: Afundo Alternado com Kettlebell",
+        "name": " Afundo Alternado com Kettlebell",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -7150,7 +7150,7 @@
     },
     {
         "id": "137",
-        "name": "Exercício: Prensa de Pernas Vertical",
+        "name": " Prensa de Pernas Vertical",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7207,7 +7207,7 @@
     },
     {
         "id": "138",
-        "name": "Exercício: Agachamento Hack Horizontal",
+        "name": " Agachamento Hack Horizontal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7259,7 +7259,7 @@
     },
     {
         "id": "139",
-        "name": "Exercício: Agachamento com Máquina Pêndulo",
+        "name": " Agachamento com Máquina Pêndulo",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -7309,7 +7309,7 @@
     },
     {
         "id": "140",
-        "name": "Exercício: Agachamento com Cinto na Máquina",
+        "name": " Agachamento com Cinto na Máquina",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -7361,7 +7361,7 @@
     },
     {
         "id": "141",
-        "name": "Exercício: Agachamento com Cinto no Cabo",
+        "name": " Agachamento com Cinto no Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -7415,7 +7415,7 @@
     },
     {
         "id": "142",
-        "name": "Exercício: Máquina de Leg Press Unilateral",
+        "name": " Máquina de Leg Press Unilateral",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -7472,7 +7472,7 @@
     },
     {
         "id": "143",
-        "name": "Exercício: Agachamento com Cinto e Cabo",
+        "name": " Agachamento com Cinto e Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -7528,7 +7528,7 @@
     },
     {
         "id": "144",
-        "name": "Exercício: Elíptico",
+        "name": " Elíptico",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7585,7 +7585,7 @@
     },
     {
         "id": "145",
-        "name": "Exercício: Avanço com Barra à Frente em Deficit",
+        "name": " Avanço com Barra à Frente em Deficit",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -7642,7 +7642,7 @@
     },
     {
         "id": "146",
-        "name": "Exercício: Agachamento com Barra",
+        "name": " Agachamento com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -7696,7 +7696,7 @@
     },
     {
         "id": "147",
-        "name": "Exercício: Afundo Reverso com Deficit e Halteres no Estilo Goblet",
+        "name": " Afundo Reverso com Deficit e Halteres no Estilo Goblet",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -7748,7 +7748,7 @@
     },
     {
         "id": "148",
-        "name": "Exercício: Afundo Reverso com Deficit e Halteres",
+        "name": " Afundo Reverso com Deficit e Halteres",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -7803,7 +7803,7 @@
     },
     {
         "id": "149",
-        "name": "Exercício: Agachamento com Halteres",
+        "name": " Agachamento com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -7857,7 +7857,7 @@
     },
     {
         "id": "150",
-        "name": "Exercício: Afundo Reverso com Kettlebell em Deficit",
+        "name": " Afundo Reverso com Kettlebell em Deficit",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -7913,7 +7913,7 @@
     },
     {
         "id": "151",
-        "name": "Exercício: Afundo Inverso com Déficit Corporal",
+        "name": " Afundo Inverso com Déficit Corporal",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7968,7 +7968,7 @@
     },
     {
         "id": "152",
-        "name": "Exercício: Agachamento com Peso Corporal",
+        "name": " Agachamento com Peso Corporal",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8020,7 +8020,7 @@
     },
     {
         "id": "153",
-        "name": "Exercício: Levantamento Terra Invertido com Barra",
+        "name": " Levantamento Terra Invertido com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -8075,7 +8075,7 @@
     },
     {
         "id": "154",
-        "name": "Exercício: Avanço Reverso com Peso Corporal",
+        "name": " Avanço Reverso com Peso Corporal",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8130,7 +8130,7 @@
     },
     {
         "id": "155",
-        "name": "Exercício: Agachamento Zercher com Barra",
+        "name": " Agachamento Zercher com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -8179,7 +8179,7 @@
     },
     {
         "id": "156",
-        "name": "Exercício: Agachamento com Kettlebell",
+        "name": " Agachamento com Kettlebell",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -8231,7 +8231,7 @@
     },
     {
         "id": "157",
-        "name": "Exercício: Agachamento Lateral com Alcance de Halteres",
+        "name": " Agachamento Lateral com Alcance de Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -8281,7 +8281,7 @@
     },
     {
         "id": "158",
-        "name": "Exercício: Agachamento Lateral",
+        "name": " Agachamento Lateral",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8329,7 +8329,7 @@
     },
     {
         "id": "159",
-        "name": "Exercício: Agachamento Curtsy com Haltere tipo Goblet",
+        "name": " Agachamento Curtsy com Haltere tipo Goblet",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -8387,7 +8387,7 @@
     },
     {
         "id": "160",
-        "name": "Exercício: Avanço Lateral com Halteres no Estilo Goblet",
+        "name": " Avanço Lateral com Halteres no Estilo Goblet",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -8442,7 +8442,7 @@
     },
     {
         "id": "161",
-        "name": "Exercício: Agachamento Offset com Halteres",
+        "name": " Agachamento Offset com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -8495,7 +8495,7 @@
     },
     {
         "id": "162",
-        "name": "Exercício: Agachamento com Pulsação e Halteres Goblet",
+        "name": " Agachamento com Pulsação e Halteres Goblet",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -8550,7 +8550,7 @@
     },
     {
         "id": "163",
-        "name": "Exercício: Aguente Agachamento com Placa",
+        "name": " Aguente Agachamento com Placa",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8607,7 +8607,7 @@
     },
     {
         "id": "164",
-        "name": "Exercício: Extensão de Perna com Haltere",
+        "name": " Extensão de Perna com Haltere",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -8660,7 +8660,7 @@
     },
     {
         "id": "165",
-        "name": "Exercício: Agachamento com Halteres acima da Cabeça",
+        "name": " Agachamento com Halteres acima da Cabeça",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -8719,7 +8719,7 @@
     },
     {
         "id": "166",
-        "name": "Exercício: Postura da Lua Crescente",
+        "name": " Postura da Lua Crescente",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8773,7 +8773,7 @@
     },
     {
         "id": "167",
-        "name": "Exercício: Agachamento com um Braço Erguido",
+        "name": " Agachamento com um Braço Erguido",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8830,7 +8830,7 @@
     },
     {
         "id": "168",
-        "name": "Exercício: Burpee",
+        "name": " Burpee",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8890,7 +8890,7 @@
     },
     {
         "id": "169",
-        "name": "Exercício: Postura da meia-lua com alongamento de quadríceps usando bloco",
+        "name": " Postura da meia-lua com alongamento de quadríceps usando bloco",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8939,7 +8939,7 @@
     },
     {
         "id": "170",
-        "name": "Exercício: Postura da Lua Crescente Alongamento de Quadríceps",
+        "name": " Postura da Lua Crescente Alongamento de Quadríceps",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -8990,7 +8990,7 @@
     },
     {
         "id": "171",
-        "name": "Exercício: Senhor da Dança",
+        "name": " Senhor da Dança",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -9042,7 +9042,7 @@
     },
     {
         "id": "172",
-        "name": "Exercício: Postura do Macaco",
+        "name": " Postura do Macaco",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -9094,7 +9094,7 @@
     },
     {
         "id": "173",
-        "name": "Exercício: Agachamento com a Bola Medicinal na Posição de Mata-Leão",
+        "name": " Agachamento com a Bola Medicinal na Posição de Mata-Leão",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -9151,7 +9151,7 @@
     },
     {
         "id": "174",
-        "name": "Exercício: Afundo de Corredor",
+        "name": " Afundo de Corredor",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -9208,7 +9208,7 @@
     },
     {
         "id": "175",
-        "name": "Exercício: Postura da Cadeira",
+        "name": " Postura da Cadeira",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -9264,7 +9264,7 @@
     },
     {
         "id": "176",
-        "name": "Exercício: Avanço Alternado e Torção com a Landmine",
+        "name": " Avanço Alternado e Torção com a Landmine",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -9323,7 +9323,7 @@
     },
     {
         "id": "177",
-        "name": "Exercício: Agachamento Sissy com Barra de Minas Terrestres",
+        "name": " Agachamento Sissy com Barra de Minas Terrestres",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -9377,7 +9377,7 @@
     },
     {
         "id": "178",
-        "name": "Exercício: Avanço Alternado com Prensa no Peito no Landmine",
+        "name": " Avanço Alternado com Prensa no Peito no Landmine",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -9436,7 +9436,7 @@
     },
     {
         "id": "179",
-        "name": "Exercício: Agachamento Lateral com Haltere no Landmine",
+        "name": " Agachamento Lateral com Haltere no Landmine",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -9493,7 +9493,7 @@
     },
     {
         "id": "180",
-        "name": "Exercício: Avanço de Cortesia com Cálice no Articulado Terrestre",
+        "name": " Avanço de Cortesia com Cálice no Articulado Terrestre",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -9550,7 +9550,7 @@
     },
     {
         "id": "181",
-        "name": "Exercício: Avanço com Landmine e Desenvolvimento Acima da Cabeça",
+        "name": " Avanço com Landmine e Desenvolvimento Acima da Cabeça",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -9605,7 +9605,7 @@
     },
     {
         "id": "182",
-        "name": "Exercício: Agachamento Hack com Barra Terrestre",
+        "name": " Agachamento Hack com Barra Terrestre",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -9656,7 +9656,7 @@
     },
     {
         "id": "183",
-        "name": "Exercício: Levantamento Rotacional com Pressão no Landmine",
+        "name": " Levantamento Rotacional com Pressão no Landmine",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -9710,7 +9710,7 @@
     },
     {
         "id": "184",
-        "name": "Exercício: Agachamento com Cinto Vitruviano",
+        "name": " Agachamento com Cinto Vitruviano",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -9767,7 +9767,7 @@
     },
     {
         "id": "185",
-        "name": "Exercício: Salto em Profundidade",
+        "name": " Salto em Profundidade",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -9820,7 +9820,7 @@
     },
     {
         "id": "186",
-        "name": "Exercício: Salto na Caixa com Uma Perna",
+        "name": " Salto na Caixa com Uma Perna",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -9874,7 +9874,7 @@
     },
     {
         "id": "187",
-        "name": "Exercício: Agachamento Deslocado com Bola de Medicina",
+        "name": " Agachamento Deslocado com Bola de Medicina",
         "level": "Novato",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -9931,7 +9931,7 @@
     },
     {
         "id": "188",
-        "name": "Exercício: Salto na Caixa Sentado",
+        "name": " Salto na Caixa Sentado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -9980,7 +9980,7 @@
     },
     {
         "id": "189",
-        "name": "Exercício: Agachamento com Bola Medicinal Acima da Cabeça",
+        "name": " Agachamento com Bola Medicinal Acima da Cabeça",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -10032,7 +10032,7 @@
     },
     {
         "id": "190",
-        "name": "Exercício: Arremesso Lateral com Bola Medicinal",
+        "name": " Arremesso Lateral com Bola Medicinal",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -10087,7 +10087,7 @@
     },
     {
         "id": "191",
-        "name": "Exercício: Agachamento Reverso com Bola Medicinal",
+        "name": " Agachamento Reverso com Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -10139,7 +10139,7 @@
     },
     {
         "id": "192",
-        "name": "Exercício: Agachamento Reverso com Bola Medicinal Acima da Cabeça",
+        "name": " Agachamento Reverso com Bola Medicinal Acima da Cabeça",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -10197,7 +10197,7 @@
     },
     {
         "id": "193",
-        "name": "Exercício: Rotação de Avanço Reverso com Bola Medicinal",
+        "name": " Rotação de Avanço Reverso com Bola Medicinal",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -10246,7 +10246,7 @@
     },
     {
         "id": "194",
-        "name": "Exercício: Salto em Caixa",
+        "name": " Salto em Caixa",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -10299,7 +10299,7 @@
     },
     {
         "id": "195",
-        "name": "Exercício: Thruster de Landmine",
+        "name": " Thruster de Landmine",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -10354,7 +10354,7 @@
     },
     {
         "id": "196",
-        "name": "Exercício: Agachamento com Alcance da Bola Medicinal",
+        "name": " Agachamento com Alcance da Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -10406,7 +10406,7 @@
     },
     {
         "id": "197",
-        "name": "Exercício: Bola Medicinal Wall Ball",
+        "name": " Bola Medicinal Wall Ball",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -10462,7 +10462,7 @@
     },
     {
         "id": "198",
-        "name": "Exercício: Arremesso de Bola Medicinal para Si Mesmo",
+        "name": " Arremesso de Bola Medicinal para Si Mesmo",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -10516,7 +10516,7 @@
     },
     {
         "id": "199",
-        "name": "Exercício: Agachamento e Arremesso com Bola Medicinal",
+        "name": " Agachamento e Arremesso com Bola Medicinal",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -10572,7 +10572,7 @@
     },
     {
         "id": "200",
-        "name": "Exercício: Burpee com Bola Bosu",
+        "name": " Burpee com Bola Bosu",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -10625,7 +10625,7 @@
     },
     {
         "id": "201",
-        "name": "Exercício: Avanço Lateral com Bola Bosu",
+        "name": " Avanço Lateral com Bola Bosu",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -10673,7 +10673,7 @@
     },
     {
         "id": "202",
-        "name": "Exercício: Meio Burpee com Bola Bosu",
+        "name": " Meio Burpee com Bola Bosu",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -10729,7 +10729,7 @@
     },
     {
         "id": "203",
-        "name": "Exercício: Agachamento Reverso com Bola Medicinal",
+        "name": " Agachamento Reverso com Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -10781,7 +10781,7 @@
     },
     {
         "id": "204",
-        "name": "Exercício: Agachamento Dividido",
+        "name": " Agachamento Dividido",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -10833,7 +10833,7 @@
     },
     {
         "id": "205",
-        "name": "Exercício: Agachamento com Bola Bosu",
+        "name": " Agachamento com Bola Bosu",
         "level": "Novato",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -10885,7 +10885,7 @@
     },
     {
         "id": "206",
-        "name": "Exercício: Agachamento Frontal Vitruviano",
+        "name": " Agachamento Frontal Vitruviano",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -10936,7 +10936,7 @@
     },
     {
         "id": "207",
-        "name": "Exercício: Agachamento com Afundo e Crossover com Kettlebell à Frente (Duplo)",
+        "name": " Agachamento com Afundo e Crossover com Kettlebell à Frente (Duplo)",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -10991,7 +10991,7 @@
     },
     {
         "id": "208",
-        "name": "Exercício: Avanço com Déficit Vitruviano",
+        "name": " Avanço com Déficit Vitruviano",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -11043,7 +11043,7 @@
     },
     {
         "id": "209",
-        "name": "Exercício: Agachamento Lateral com Kettlebell",
+        "name": " Agachamento Lateral com Kettlebell",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -11098,7 +11098,7 @@
     },
     {
         "id": "210",
-        "name": "Exercício: Agachamento Lateral com Halteres com um Braço na Frente",
+        "name": " Agachamento Lateral com Halteres com um Braço na Frente",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -11154,7 +11154,7 @@
     },
     {
         "id": "211",
-        "name": "Exercício: Avanço Lateral com Kettlebell na Frente (Duplo)",
+        "name": " Avanço Lateral com Kettlebell na Frente (Duplo)",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -11207,7 +11207,7 @@
     },
     {
         "id": "212",
-        "name": "Exercício: Step Up com Haltere em Rack Frontal com Um Braço",
+        "name": " Step Up com Haltere em Rack Frontal com Um Braço",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -11265,7 +11265,7 @@
     },
     {
         "id": "213",
-        "name": "Exercício: Levantamento com Halter em um Braço Só",
+        "name": " Levantamento com Halter em um Braço Só",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -11315,7 +11315,7 @@
     },
     {
         "id": "214",
-        "name": "Exercício: Levantamento Lateral com Halter em Formato de Cálice",
+        "name": " Levantamento Lateral com Halter em Formato de Cálice",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -11363,7 +11363,7 @@
     },
     {
         "id": "215",
-        "name": "Exercício: Bicicleta de Ataque Cardio",
+        "name": " Bicicleta de Ataque Cardio",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -11414,7 +11414,7 @@
     },
     {
         "id": "216",
-        "name": "Exercício: Agachamento Alternado com Peso Corporal",
+        "name": " Agachamento Alternado com Peso Corporal",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -11465,7 +11465,7 @@
     },
     {
         "id": "217",
-        "name": "Exercício: Avanços Alternados com Peso Corporal",
+        "name": " Avanços Alternados com Peso Corporal",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -11521,7 +11521,7 @@
     },
     {
         "id": "218",
-        "name": "Exercício: Agachamento Lateral Alternado com Peso Corporal",
+        "name": " Agachamento Lateral Alternado com Peso Corporal",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -11571,7 +11571,7 @@
     },
     {
         "id": "219",
-        "name": "Exercício: Avanço com Salto Alternado Usando o Peso do Corpo",
+        "name": " Avanço com Salto Alternado Usando o Peso do Corpo",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -11628,7 +11628,7 @@
     },
     {
         "id": "220",
-        "name": "Exercício: Agachamento com Barra Acima da Cabeça",
+        "name": " Agachamento com Barra Acima da Cabeça",
         "level": "Iniciante",
         "execution_type": "Barra",
         "videos": [
@@ -11682,7 +11682,7 @@
     },
     {
         "id": "221",
-        "name": "Exercício: Avanço com Balanço do Peso Corporal",
+        "name": " Avanço com Balanço do Peso Corporal",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -11735,7 +11735,7 @@
     },
     {
         "id": "222",
-        "name": "Exercício: Avanço com Balanço do Peso Corporal",
+        "name": " Avanço com Balanço do Peso Corporal",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -11794,7 +11794,7 @@
     },
     {
         "id": "223",
-        "name": "Exercício: Salto com Afundo Lateral usando o peso do Corpo",
+        "name": " Salto com Afundo Lateral usando o peso do Corpo",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -11851,7 +11851,7 @@
     },
     {
         "id": "224",
-        "name": "Exercício: Levantamento Terra Sumô com Landmine",
+        "name": " Levantamento Terra Sumô com Landmine",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -11908,7 +11908,7 @@
     },
     {
         "id": "225",
-        "name": "Exercício: Avanço com Kettlebell na Frente",
+        "name": " Avanço com Kettlebell na Frente",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -11963,7 +11963,7 @@
     },
     {
         "id": "226",
-        "name": "Exercício: Avanço com Kettlebell de Braço Único na Frente",
+        "name": " Avanço com Kettlebell de Braço Único na Frente",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -12014,7 +12014,7 @@
     },
     {
         "id": "227",
-        "name": "Exercício: Agachamento com Salto para Dentro e para Fora",
+        "name": " Agachamento com Salto para Dentro e para Fora",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12069,7 +12069,7 @@
     },
     {
         "id": "228",
-        "name": "Exercício: Sprint Cardio em Figura Oito",
+        "name": " Sprint Cardio em Figura Oito",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12123,7 +12123,7 @@
     },
     {
         "id": "229",
-        "name": "Exercício: Sprint na Esteira",
+        "name": " Sprint na Esteira",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12176,7 +12176,7 @@
     },
     {
         "id": "230",
-        "name": "Exercício: Caminhada na Esteira",
+        "name": " Caminhada na Esteira",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12227,7 +12227,7 @@
     },
     {
         "id": "231",
-        "name": "Exercício: Corrida na Esteira",
+        "name": " Corrida na Esteira",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12281,7 +12281,7 @@
     },
     {
         "id": "232",
-        "name": "Exercício: Toques no Relógio",
+        "name": " Toques no Relógio",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12330,7 +12330,7 @@
     },
     {
         "id": "233",
-        "name": "Exercício: Texto: Sustentação da Flexão do Quadril Sentado",
+        "name": "  Sustentação da Flexão do Quadril Sentado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12379,7 +12379,7 @@
     },
     {
         "id": "234",
-        "name": "Exercício: Cardio para Frente e para Trás",
+        "name": " Cardio para Frente e para Trás",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12430,7 +12430,7 @@
     },
     {
         "id": "235",
-        "name": "Exercício: Tesoura Cardio para Frente",
+        "name": " Tesoura Cardio para Frente",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12474,7 +12474,7 @@
     },
     {
         "id": "236",
-        "name": "Exercício: Alongamento do Flexor do Quadril em Posição de Afundo ajoelhado 3",
+        "name": " Alongamento do Flexor do Quadril em Posição de Afundo ajoelhado 3",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12527,7 +12527,7 @@
     },
     {
         "id": "237",
-        "name": "Exercício: Alongamento do Flexor do Quadril em Posição de Afundo Ajoelhado 1",
+        "name": " Alongamento do Flexor do Quadril em Posição de Afundo Ajoelhado 1",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12579,7 +12579,7 @@
     },
     {
         "id": "238",
-        "name": "Exercício: Flexão de Quadril em Pé com Mini-Band",
+        "name": " Flexão de Quadril em Pé com Mini-Band",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12637,7 +12637,7 @@
     },
     {
         "id": "239",
-        "name": "Exercício: Alongamento do Flexor do Quadril com Afundo Ajoelhado 2",
+        "name": " Alongamento do Flexor do Quadril com Afundo Ajoelhado 2",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12682,7 +12682,7 @@
     },
     {
         "id": "240",
-        "name": "Exercício: Texto: Salto com Aterrissagem em uma Perna Só da Caixa",
+        "name": "  Salto com Aterrissagem em uma Perna Só da Caixa",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12733,7 +12733,7 @@
     },
     {
         "id": "241",
-        "name": "Exercício: Texto: Salte Para a Aterrissagem Com Uma Única Perna",
+        "name": "  Salte Para a Aterrissagem Com Uma Única Perna",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12786,7 +12786,7 @@
     },
     {
         "id": "242",
-        "name": "Exercício: Pule na Caixa e Saia Dela",
+        "name": " Pule na Caixa e Saia Dela",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12842,7 +12842,7 @@
     },
     {
         "id": "243",
-        "name": "Exercício: Texto: Extensão de Joelho com Banda",
+        "name": "  Extensão de Joelho com Banda",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12890,7 +12890,7 @@
     },
     {
         "id": "244",
-        "name": "Exercício: Mobilização de Quadríceps com Rolo de Espuma",
+        "name": " Mobilização de Quadríceps com Rolo de Espuma",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12940,7 +12940,7 @@
     },
     {
         "id": "245",
-        "name": "Exercício: Texto: Extensão Parcial de Joelho Sentado",
+        "name": "  Extensão Parcial de Joelho Sentado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -12989,7 +12989,7 @@
     },
     {
         "id": "246",
-        "name": "Exercício: Extensão de Joelho com Toalha",
+        "name": " Extensão de Joelho com Toalha",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13041,7 +13041,7 @@
     },
     {
         "id": "247",
-        "name": "Exercício: Mantenha a Extensão do Joelho com Toalha",
+        "name": " Mantenha a Extensão do Joelho com Toalha",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13093,7 +13093,7 @@
     },
     {
         "id": "248",
-        "name": "Exercício: Caminhada na Esteira de Costas",
+        "name": " Caminhada na Esteira de Costas",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13145,7 +13145,7 @@
     },
     {
         "id": "249",
-        "name": "Exercício: Alongamento de Quadríceps Ajoelhado",
+        "name": " Alongamento de Quadríceps Ajoelhado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13194,7 +13194,7 @@
     },
     {
         "id": "250",
-        "name": "Exercício: Alongamento sentado dos quadríceps",
+        "name": " Alongamento sentado dos quadríceps",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13246,7 +13246,7 @@
     },
     {
         "id": "251",
-        "name": "Exercício: Texto: Alongamento de Quadríceps no Chão com Faixa",
+        "name": "  Alongamento de Quadríceps no Chão com Faixa",
         "level": "Iniciante",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -13286,7 +13286,7 @@
     },
     {
         "id": "252",
-        "name": "Exercício: Toques de Joelho no Cardio",
+        "name": " Toques de Joelho no Cardio",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13335,7 +13335,7 @@
     },
     {
         "id": "253",
-        "name": "Exercício: Cardio Lateral com Pés Rápidos",
+        "name": " Cardio Lateral com Pés Rápidos",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13388,7 +13388,7 @@
     },
     {
         "id": "254",
-        "name": "Exercício: Cardio com Três Passos Heismans",
+        "name": " Cardio com Três Passos Heismans",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13438,7 +13438,7 @@
     },
     {
         "id": "255",
-        "name": "Exercício: Karaokê Cardio",
+        "name": " Karaokê Cardio",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13492,7 +13492,7 @@
     },
     {
         "id": "256",
-        "name": "Exercício: Cardio com Deslocamento Lateral",
+        "name": " Cardio com Deslocamento Lateral",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13548,7 +13548,7 @@
     },
     {
         "id": "257",
-        "name": "Exercício: Cardio Salto Longo com Recuo Rápido",
+        "name": " Cardio Salto Longo com Recuo Rápido",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13606,7 +13606,7 @@
     },
     {
         "id": "258",
-        "name": "Exercício: Salto Longo Cardio",
+        "name": " Salto Longo Cardio",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13657,7 +13657,7 @@
     },
     {
         "id": "259",
-        "name": "Exercício: Rudimentar de Remo Cardio Row Erg",
+        "name": " Rudimentar de Remo Cardio Row Erg",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13710,7 +13710,7 @@
     },
     {
         "id": "260",
-        "name": "Exercício: Cardio Remo Ergométrico Apenas Pernas",
+        "name": " Cardio Remo Ergométrico Apenas Pernas",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13764,7 +13764,7 @@
     },
     {
         "id": "261",
-        "name": "Exercício: Início de Sprint com Quatro Remadas no Remador Ergométrico de Cardio",
+        "name": " Início de Sprint com Quatro Remadas no Remador Ergométrico de Cardio",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13820,7 +13820,7 @@
     },
     {
         "id": "262",
-        "name": "Exercício: Corrida de Sprint com Variação de Ritmo",
+        "name": " Corrida de Sprint com Variação de Ritmo",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13881,7 +13881,7 @@
     },
     {
         "id": "263",
-        "name": "Exercício: Cardio Corrida Estática",
+        "name": " Cardio Corrida Estática",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13938,7 +13938,7 @@
     },
     {
         "id": "264",
-        "name": "Exercício: Passo Lateral Em Cima e Fora da Caixa",
+        "name": " Passo Lateral Em Cima e Fora da Caixa",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -13993,7 +13993,7 @@
     },
     {
         "id": "265",
-        "name": "Exercício: Agachamento de Patinador",
+        "name": " Agachamento de Patinador",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -14050,7 +14050,7 @@
     },
     {
         "id": "266",
-        "name": "Exercício: Agachamento Concêntrico com uma Perna Só",
+        "name": " Agachamento Concêntrico com uma Perna Só",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -14101,7 +14101,7 @@
     },
     {
         "id": "267",
-        "name": "Exercício: Agachamento Excêntrico em Uma Só Perna na Caixa",
+        "name": " Agachamento Excêntrico em Uma Só Perna na Caixa",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -14155,7 +14155,7 @@
     },
     {
         "id": "268",
-        "name": "Exercício: Mobilização do Nervo Femoral",
+        "name": " Mobilização do Nervo Femoral",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -14203,7 +14203,7 @@
     },
     {
         "id": "269",
-        "name": "Exercício: Agachamento Individual com Bola Bosu",
+        "name": " Agachamento Individual com Bola Bosu",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -14257,7 +14257,7 @@
     },
     {
         "id": "270",
-        "name": "Exercício: Texto: Leg Press Horizontal Máquina Sissy",
+        "name": "  Leg Press Horizontal Máquina Sissy",
         "level": "Intermediário",
         "execution_type": "Máquina",
         "videos": [
@@ -14302,7 +14302,7 @@
     },
     {
         "id": "271",
-        "name": "Exercício: Agachamento com Peso Corporal em Caixa",
+        "name": " Agachamento com Peso Corporal em Caixa",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -14352,7 +14352,7 @@
     },
     {
         "id": "272",
-        "name": "Exercício: Afundo com Balanço de Haltere",
+        "name": " Afundo com Balanço de Haltere",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -14406,7 +14406,7 @@
     },
     {
         "id": "273",
-        "name": "Exercício: Afundo Reverso Alternado com Kettlebell",
+        "name": " Afundo Reverso Alternado com Kettlebell",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -14463,7 +14463,7 @@
     },
     {
         "id": "274",
-        "name": "Exercício: Agachamento com uma perna só usando o peso do corpo",
+        "name": " Agachamento com uma perna só usando o peso do corpo",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -14514,7 +14514,7 @@
     },
     {
         "id": "275",
-        "name": "Exercício: Agachamento com Kettlebell na Caixa",
+        "name": " Agachamento com Kettlebell na Caixa",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -14567,7 +14567,7 @@
     },
     {
         "id": "276",
-        "name": "Exercício: Agachamento estático de parede",
+        "name": " Agachamento estático de parede",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -14616,7 +14616,7 @@
     },
     {
         "id": "277",
-        "name": "Exercício: Agachamento na Parede com Peso",
+        "name": " Agachamento na Parede com Peso",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -14669,7 +14669,7 @@
     },
     {
         "id": "278",
-        "name": "Exercício: Agachamento com Elástico em Isometria e Remada",
+        "name": " Agachamento com Elástico em Isometria e Remada",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -14724,7 +14724,7 @@
     },
     {
         "id": "279",
-        "name": "Exercício: Agachamento com Elástico e Remada com Um Braço",
+        "name": " Agachamento com Elástico e Remada com Um Braço",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -14775,7 +14775,7 @@
     },
     {
         "id": "280",
-        "name": "Exercício: Avanço com Deficit e Barra Zercher",
+        "name": " Avanço com Deficit e Barra Zercher",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -14834,7 +14834,7 @@
     },
     {
         "id": "281",
-        "name": "Exercício: Prensa de Agachamento na Máquina",
+        "name": " Prensa de Agachamento na Máquina",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -14891,7 +14891,7 @@
     },
     {
         "id": "282",
-        "name": "Exercício: Máquina de Extensão de Pernas com Placas",
+        "name": " Máquina de Extensão de Pernas com Placas",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -14944,7 +14944,7 @@
     },
     {
         "id": "283",
-        "name": "Exercício: Agachamento com Kettlebell",
+        "name": " Agachamento com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -14999,7 +14999,7 @@
     },
     {
         "id": "284",
-        "name": "Exercício: Avanço Reverso com Deficit e Halteres na Frente",
+        "name": " Avanço Reverso com Deficit e Halteres na Frente",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -15054,7 +15054,7 @@
     },
     {
         "id": "285",
-        "name": "Exercício: Avanço Reverso com Deficit e Kettlebell na Posição Frontal",
+        "name": " Avanço Reverso com Deficit e Kettlebell na Posição Frontal",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -15103,7 +15103,7 @@
     },
     {
         "id": "286",
-        "name": "Exercício: Avanço Reverso com Deficit em Taça",
+        "name": " Avanço Reverso com Deficit em Taça",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [

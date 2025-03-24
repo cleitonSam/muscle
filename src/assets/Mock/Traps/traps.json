@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Exercício: Encolhimento de Trapézio com Barra",
+        "name": " Encolhimento de Trapézio com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -53,7 +53,7 @@
     },
     {
         "id": "2",
-        "name": "Exercício: Encolhimento a 30 Graus com Cabo",
+        "name": " Encolhimento a 30 Graus com Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -110,7 +110,7 @@
     },
     {
         "id": "3",
-        "name": "Exercício: Remada Alta com Barra",
+        "name": " Remada Alta com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -157,7 +157,7 @@
     },
     {
         "id": "4",
-        "name": "Exercício: Encolhimento com Halteres",
+        "name": " Encolhimento com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -209,7 +209,7 @@
     },
     {
         "id": "5",
-        "name": "Exercício: Variação Um do Alongamento dos Trapézios",
+        "name": " Variação Um do Alongamento dos Trapézios",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -256,7 +256,7 @@
     },
     {
         "id": "6",
-        "name": "Exercício: Elevação de Pressão Pike",
+        "name": " Elevação de Pressão Pike",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -308,7 +308,7 @@
     },
     {
         "id": "7",
-        "name": "Exercício: Elevação Inclinada com Kettlebell",
+        "name": " Elevação Inclinada com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -360,7 +360,7 @@
     },
     {
         "id": "8",
-        "name": "Exercício: Encolhimentos em Pé na Máquina Smith",
+        "name": " Encolhimentos em Pé na Máquina Smith",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -411,7 +411,7 @@
     },
     {
         "id": "9",
-        "name": "Exercício: Variação Três do Alongamento dos Trapézios",
+        "name": " Variação Três do Alongamento dos Trapézios",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -462,7 +462,7 @@
     },
     {
         "id": "10",
-        "name": "Exercício: Encolhimento Silverback com Cabo",
+        "name": " Encolhimento Silverback com Cabo",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -512,7 +512,7 @@
     },
     {
         "id": "11",
-        "name": "Exercício: Variação Dois do Alongamento dos Trapézios",
+        "name": " Variação Dois do Alongamento dos Trapézios",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -562,7 +562,7 @@
     },
     {
         "id": "12",
-        "name": "Exercício: Encolhimento Sentado com Halteres",
+        "name": " Encolhimento Sentado com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -619,7 +619,7 @@
     },
     {
         "id": "13",
-        "name": "Exercício: Remada Vertical com Kettlebell",
+        "name": " Remada Vertical com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -673,7 +673,7 @@
     },
     {
         "id": "14",
-        "name": "Exercício: Encolhimento com Kettlebell (Simples)",
+        "name": " Encolhimento com Kettlebell (Simples)",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -725,7 +725,7 @@
     },
     {
         "id": "15",
-        "name": "Exercício: Encolhimento Silverback com Kettlebell (Único)",
+        "name": " Encolhimento Silverback com Kettlebell (Único)",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -780,7 +780,7 @@
     },
     {
         "id": "16",
-        "name": "Exercício: Encolhimento com Elástico",
+        "name": " Encolhimento com Elástico",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -830,7 +830,7 @@
     },
     {
         "id": "17",
-        "name": "Exercício: Elevação de Ombros na Posição de Remador",
+        "name": " Elevação de Ombros na Posição de Remador",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -879,7 +879,7 @@
     },
     {
         "id": "18",
-        "name": "Exercício: Levantamento de Braço Único com Faixa Elástica Acima da Cabeça",
+        "name": " Levantamento de Braço Único com Faixa Elástica Acima da Cabeça",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -926,7 +926,7 @@
     },
     {
         "id": "19",
-        "name": "Exercício: Encolhimento Horizontal com Faixa Elástica",
+        "name": " Encolhimento Horizontal com Faixa Elástica",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -975,7 +975,7 @@
     },
     {
         "id": "20",
-        "name": "Exercício: Remada Vertical com Cabo",
+        "name": " Remada Vertical com Cabo",
         "level": "Avançado",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1025,7 +1025,7 @@
     },
     {
         "id": "21",
-        "name": "Exercício: Levantamento de Prato Acima da Cabeça",
+        "name": " Levantamento de Prato Acima da Cabeça",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1074,7 +1074,7 @@
     },
     {
         "id": "22",
-        "name": "Exercício: Elevação de Halteres Deitado a 30 Graus",
+        "name": " Elevação de Halteres Deitado a 30 Graus",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -1124,7 +1124,7 @@
     },
     {
         "id": "23",
-        "name": "Exercício: Encolhimento de Ombros com Placa Acima da Cabeça",
+        "name": " Encolhimento de Ombros com Placa Acima da Cabeça",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1173,7 +1173,7 @@
     },
     {
         "id": "24",
-        "name": "Exercício: Encolhimento com Barra",
+        "name": " Encolhimento com Barra",
         "level": "Iniciante",
         "execution_type": "Barra",
         "videos": [
@@ -1225,7 +1225,7 @@
     },
     {
         "id": "25",
-        "name": "Exercício: Elevação de Ombros de Prata com Halteres Deitado",
+        "name": " Elevação de Ombros de Prata com Halteres Deitado",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -1272,7 +1272,7 @@
     },
     {
         "id": "26",
-        "name": "Exercício: Encolhimento de Ombros com Halteres Silverback",
+        "name": " Encolhimento de Ombros com Halteres Silverback",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -1318,7 +1318,7 @@
     },
     {
         "id": "27",
-        "name": "Exercício: Elevação em Y no TRX",
+        "name": " Elevação em Y no TRX",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1364,7 +1364,7 @@
     },
     {
         "id": "28",
-        "name": "Exercício: Remada Vertical na Smith Machine",
+        "name": " Remada Vertical na Smith Machine",
         "level": "Intermediário",
         "execution_type": "Máquina (Smith)",
         "videos": [
@@ -1414,7 +1414,7 @@
     },
     {
         "id": "29",
-        "name": "Exercício: Remada Alta com Corda de Cabo",
+        "name": " Remada Alta com Corda de Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1462,7 +1462,7 @@
     },
     {
         "id": "30",
-        "name": "Exercício: Remada Vertical com Kettlebell Individual",
+        "name": " Remada Vertical com Kettlebell Individual",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1511,7 +1511,7 @@
     },
     {
         "id": "31",
-        "name": "Exercício: Encolhimento com Kettlebell",
+        "name": " Encolhimento com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1566,7 +1566,7 @@
     },
     {
         "id": "32",
-        "name": "Exercício: Remada Vertical com Kettlebell",
+        "name": " Remada Vertical com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1614,7 +1614,7 @@
     },
     {
         "id": "33",
-        "name": "Exercício: Levantamento Alto com Pegada Larga de Barra",
+        "name": " Levantamento Alto com Pegada Larga de Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -1672,7 +1672,7 @@
     },
     {
         "id": "34",
-        "name": "Exercício: Elevação de Ombros Sentado na Máquina",
+        "name": " Elevação de Ombros Sentado na Máquina",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -1725,7 +1725,7 @@
     },
     {
         "id": "35",
-        "name": "Exercício: Barbell Z Press",
+        "name": " Barbell Z Press",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1780,7 +1780,7 @@
     },
     {
         "id": "36",
-        "name": "Exercício: Levantamento Alto com Barra",
+        "name": " Levantamento Alto com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -1833,7 +1833,7 @@
     },
     {
         "id": "37",
-        "name": "Exercício: Posição do Laço de Gravata Cruzado",
+        "name": " Posição do Laço de Gravata Cruzado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1874,7 +1874,7 @@
     },
     {
         "id": "38",
-        "name": "Exercício: Meio Rolamento de Pescoço",
+        "name": " Meio Rolamento de Pescoço",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1931,7 +1931,7 @@
     },
     {
         "id": "39",
-        "name": "Exercício: Braços de Águia, Queixo no Peito",
+        "name": " Braços de Águia, Queixo no Peito",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1980,7 +1980,7 @@
     },
     {
         "id": "40",
-        "name": "Exercício: Alongamento Fácil do Pescoço na Postura Fácil",
+        "name": " Alongamento Fácil do Pescoço na Postura Fácil",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2030,7 +2030,7 @@
     },
     {
         "id": "41",
-        "name": "Exercício: Balanceio até a Remada Vertical",
+        "name": " Balanceio até a Remada Vertical",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2078,7 +2078,7 @@
     },
     {
         "id": "42",
-        "name": "Exercício: Encolhimento Vitruviano",
+        "name": " Encolhimento Vitruviano",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2132,7 +2132,7 @@
     },
     {
         "id": "43",
-        "name": "Exercício: Encolhimento de Pique com Bola Bosu",
+        "name": " Encolhimento de Pique com Bola Bosu",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -2186,7 +2186,7 @@
     },
     {
         "id": "44",
-        "name": "Exercício: Passe a Linha do Quadril Sobre os Joelhos",
+        "name": " Passe a Linha do Quadril Sobre os Joelhos",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2240,7 +2240,7 @@
     },
     {
         "id": "45",
-        "name": "Exercício: Desenvolvimento Suspenso com Peso Corporal",
+        "name": " Desenvolvimento Suspenso com Peso Corporal",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2293,7 +2293,7 @@
     },
     {
         "id": "46",
-        "name": "Exercício: Remada Vertical com Haltere em um Braço Só",
+        "name": " Remada Vertical com Haltere em um Braço Só",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -2347,7 +2347,7 @@
     },
     {
         "id": "47",
-        "name": "Exercício: Encolhimento com Cabo de Um Braço a 30 Graus",
+        "name": " Encolhimento com Cabo de Um Braço a 30 Graus",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -2402,7 +2402,7 @@
     },
     {
         "id": "48",
-        "name": "Exercício: Encolhimento de Ombros com Peso Corporal",
+        "name": " Encolhimento de Ombros com Peso Corporal",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2452,7 +2452,7 @@
     },
     {
         "id": "49",
-        "name": "Exercício: Flexão dos Ombros e Extensões Torácicas",
+        "name": " Flexão dos Ombros e Extensões Torácicas",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2511,7 +2511,7 @@
     },
     {
         "id": "50",
-        "name": "Exercício: Extensões Torácicas com Rolo de Espuma",
+        "name": " Extensões Torácicas com Rolo de Espuma",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2566,7 +2566,7 @@
     },
     {
         "id": "51",
-        "name": "Exercício: Alongamento Sentado do Trapézio Superior e Supraespinhal",
+        "name": " Alongamento Sentado do Trapézio Superior e Supraespinhal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2618,7 +2618,7 @@
     },
     {
         "id": "52",
-        "name": "Exercício: Flexão e Extensão Torácica",
+        "name": " Flexão e Extensão Torácica",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2668,7 +2668,7 @@
     },
     {
         "id": "53",
-        "name": "Exercício: Remada Vertical com Elástico",
+        "name": " Remada Vertical com Elástico",
         "level": "Avançado",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -2721,7 +2721,7 @@
     },
     {
         "id": "54",
-        "name": "Exercício: Elevação de Ombros em Máquina",
+        "name": " Elevação de Ombros em Máquina",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [

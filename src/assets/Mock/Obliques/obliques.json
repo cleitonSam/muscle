@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Exercício: Prancha Lateral de Cotovelo",
+        "name": " Prancha Lateral de Cotovelo",
         "level": "Novato",
         "execution_type": "Cotovelo",
         "videos": [
@@ -51,7 +51,7 @@
     },
     {
         "id": "2",
-        "name": "Exercício: Torção Russa com Halteres",
+        "name": " Torção Russa com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -104,7 +104,7 @@
     },
     {
         "id": "3",
-        "name": "Exercício: Moinho de Kettlebell",
+        "name": " Moinho de Kettlebell",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -161,7 +161,7 @@
     },
     {
         "id": "4",
-        "name": "Exercício: Prancha Lateral com Apoio na Mão",
+        "name": " Prancha Lateral com Apoio na Mão",
         "level": "Iniciante",
         "execution_type": "Mão",
         "videos": [
@@ -208,7 +208,7 @@
     },
     {
         "id": "5",
-        "name": "Exercício: Kettlebell Cortador de Madeira",
+        "name": " Kettlebell Cortador de Madeira",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -261,7 +261,7 @@
     },
     {
         "id": "6",
-        "name": "Exercício: Press Cabo Pallof",
+        "name": " Press Cabo Pallof",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -315,7 +315,7 @@
     },
     {
         "id": "7",
-        "name": "Exercício: Rotatório com Cabo de Resistência",
+        "name": " Rotatório com Cabo de Resistência",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -368,7 +368,7 @@
     },
     {
         "id": "8",
-        "name": "Exercício: Press Pallof com Faixa Elástica",
+        "name": " Press Pallof com Faixa Elástica",
         "level": "Iniciante",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -423,7 +423,7 @@
     },
     {
         "id": "9",
-        "name": "Exercício: Variação Três do Alongamento Abdominal",
+        "name": " Variação Três do Alongamento Abdominal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -475,7 +475,7 @@
     },
     {
         "id": "10",
-        "name": "Exercício: Variação Dois do Alongamento Abdominal",
+        "name": " Variação Dois do Alongamento Abdominal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -517,7 +517,7 @@
     },
     {
         "id": "11",
-        "name": "Exercício: Levantamento de Halteres em Movimento de Lenhador",
+        "name": " Levantamento de Halteres em Movimento de Lenhador",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -569,7 +569,7 @@
     },
     {
         "id": "12",
-        "name": "Exercício: Flexão Lateral com Barra Olímpica no Landmine",
+        "name": " Flexão Lateral com Barra Olímpica no Landmine",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -627,7 +627,7 @@
     },
     {
         "id": "13",
-        "name": "Exercício: Levantamento Terra com Barra em Estilo Mala",
+        "name": " Levantamento Terra com Barra em Estilo Mala",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -687,7 +687,7 @@
     },
     {
         "id": "14",
-        "name": "Exercício: Torção Russa com Peso Corporal",
+        "name": " Torção Russa com Peso Corporal",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -743,7 +743,7 @@
     },
     {
         "id": "15",
-        "name": "Exercício: Torção Russa com Kettlebell",
+        "name": " Torção Russa com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -797,7 +797,7 @@
     },
     {
         "id": "16",
-        "name": "Exercício: Rotação com Haltere em Meio-Ajoelhado",
+        "name": " Rotação com Haltere em Meio-Ajoelhado",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -847,7 +847,7 @@
     },
     {
         "id": "17",
-        "name": "Exercício: Levantamento de Halteres ajoelhado estilo Lenhador",
+        "name": " Levantamento de Halteres ajoelhado estilo Lenhador",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -901,7 +901,7 @@
     },
     {
         "id": "18",
-        "name": "Exercício: Prancha Lateral com Haltere na Mão",
+        "name": " Prancha Lateral com Haltere na Mão",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -956,7 +956,7 @@
     },
     {
         "id": "19",
-        "name": "Exercício: Torção Russa com Haltere de Longa Alavanca",
+        "name": " Torção Russa com Haltere de Longa Alavanca",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -1005,7 +1005,7 @@
     },
     {
         "id": "20",
-        "name": "Exercício: Cortador de Madeira com Prato",
+        "name": " Cortador de Madeira com Prato",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1061,7 +1061,7 @@
     },
     {
         "id": "21",
-        "name": "Exercício: Torção Russa com Prato",
+        "name": " Torção Russa com Prato",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1114,7 +1114,7 @@
     },
     {
         "id": "22",
-        "name": "Exercício: Torção em Pé com Prato",
+        "name": " Torção em Pé com Prato",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1168,7 +1168,7 @@
     },
     {
         "id": "23",
-        "name": "Exercício: TRX Abdominal Oblíquo",
+        "name": " TRX Abdominal Oblíquo",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1217,7 +1217,7 @@
     },
     {
         "id": "24",
-        "name": "Exercício: Avanço Reverso com Torção e Prato",
+        "name": " Avanço Reverso com Torção e Prato",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1273,7 +1273,7 @@
     },
     {
         "id": "25",
-        "name": "Exercício: Flexão Lateral com Haltere",
+        "name": " Flexão Lateral com Haltere",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -1322,7 +1322,7 @@
     },
     {
         "id": "26",
-        "name": "Exercício: Prancha Lateral de Antebraço TRX",
+        "name": " Prancha Lateral de Antebraço TRX",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1379,7 +1379,7 @@
     },
     {
         "id": "27",
-        "name": "Exercício: Torção Oblíqua com Landmine",
+        "name": " Torção Oblíqua com Landmine",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1432,7 +1432,7 @@
     },
     {
         "id": "28",
-        "name": "Exercício: Torção Russa com Barra Fixa",
+        "name": " Torção Russa com Barra Fixa",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -1478,7 +1478,7 @@
     },
     {
         "id": "29",
-        "name": "Exercício: Torção Ajoelhada com a Landmine",
+        "name": " Torção Ajoelhada com a Landmine",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1533,7 +1533,7 @@
     },
     {
         "id": "30",
-        "name": "Exercício: Flexão Lateral com Pegada em Prato",
+        "name": " Flexão Lateral com Pegada em Prato",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1587,7 +1587,7 @@
     },
     {
         "id": "31",
-        "name": "Exercício: Cabo Meio Ajoelhado de Alto a Baixo Cortador de Madeira",
+        "name": " Cabo Meio Ajoelhado de Alto a Baixo Cortador de Madeira",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1639,7 +1639,7 @@
     },
     {
         "id": "32",
-        "name": "Exercício: Pushdown Oblíquo com Cabo",
+        "name": " Pushdown Oblíquo com Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1690,7 +1690,7 @@
     },
     {
         "id": "33",
-        "name": "Exercício: Cabo Meio Ajoelhado de Baixo Para Cima Lenhador",
+        "name": " Cabo Meio Ajoelhado de Baixo Para Cima Lenhador",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1744,7 +1744,7 @@
     },
     {
         "id": "34",
-        "name": "Exercício: Wood Chopper Meio Ajoelhado com Cabo",
+        "name": " Wood Chopper Meio Ajoelhado com Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1799,7 +1799,7 @@
     },
     {
         "id": "35",
-        "name": "Exercício: Flexão Lateral com Cabo",
+        "name": " Flexão Lateral com Cabo",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1847,7 +1847,7 @@
     },
     {
         "id": "36",
-        "name": "Exercício: Abdominal Oblíquo na Máquina Smith",
+        "name": " Abdominal Oblíquo na Máquina Smith",
         "level": "Avançado",
         "execution_type": "Máquina",
         "videos": [
@@ -1902,7 +1902,7 @@
     },
     {
         "id": "37",
-        "name": "Exercício: Flexão Lateral na Máquina Smith",
+        "name": " Flexão Lateral na Máquina Smith",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -1954,7 +1954,7 @@
     },
     {
         "id": "38",
-        "name": "Exercício: Mão Inferior do Moinho com Kettlebell",
+        "name": " Mão Inferior do Moinho com Kettlebell",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2009,7 +2009,7 @@
     },
     {
         "id": "39",
-        "name": "Exercício: Crunch oblíquo",
+        "name": " Crunch oblíquo",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2058,7 +2058,7 @@
     },
     {
         "id": "40",
-        "name": "Exercício: Jackknife oblíquo",
+        "name": " Jackknife oblíquo",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2109,7 +2109,7 @@
     },
     {
         "id": "41",
-        "name": "Exercício: Caminhada do Fazendeiro com Kettlebell de Um Braço Só",
+        "name": " Caminhada do Fazendeiro com Kettlebell de Um Braço Só",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2164,7 +2164,7 @@
     },
     {
         "id": "42",
-        "name": "Exercício: Prancha Lateral com Máquina Smith para Cima e para Baixo",
+        "name": " Prancha Lateral com Máquina Smith para Cima e para Baixo",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -2215,7 +2215,7 @@
     },
     {
         "id": "43",
-        "name": "Exercício: Alcance e Capture",
+        "name": " Alcance e Capture",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2264,7 +2264,7 @@
     },
     {
         "id": "44",
-        "name": "Exercício: Limpador de para-brisa",
+        "name": " Limpador de para-brisa",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2316,7 +2316,7 @@
     },
     {
         "id": "45",
-        "name": "Exercício: Prancha Lateral para Cima e para Baixo",
+        "name": " Prancha Lateral para Cima e para Baixo",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2369,7 +2369,7 @@
     },
     {
         "id": "46",
-        "name": "Exercício: Prancha Lateral com Alcance",
+        "name": " Prancha Lateral com Alcance",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2423,7 +2423,7 @@
     },
     {
         "id": "47",
-        "name": "Exercício: Agachamento Offset com Halteres",
+        "name": " Agachamento Offset com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -2479,7 +2479,7 @@
     },
     {
         "id": "48",
-        "name": "Exercício: Flexão Lateral com Halteres Acima da Cabeça",
+        "name": " Flexão Lateral com Halteres Acima da Cabeça",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -2528,7 +2528,7 @@
     },
     {
         "id": "49",
-        "name": "Exercício: Prancha Lateral com Alteres para Cima e para Baixo",
+        "name": " Prancha Lateral com Alteres para Cima e para Baixo",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2577,7 +2577,7 @@
     },
     {
         "id": "50",
-        "name": "Exercício: Variação da Postura do Portal com Braço Estendido para o Lado",
+        "name": " Variação da Postura do Portal com Braço Estendido para o Lado",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2630,7 +2630,7 @@
     },
     {
         "id": "51",
-        "name": "Exercício: Cabeça Girada Para o Joelho",
+        "name": " Cabeça Girada Para o Joelho",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2680,7 +2680,7 @@
     },
     {
         "id": "52",
-        "name": "Exercício: Torção Supina Deitada",
+        "name": " Torção Supina Deitada",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2731,7 +2731,7 @@
     },
     {
         "id": "53",
-        "name": "Exercício: Postura da Coisa Selvagem",
+        "name": " Postura da Coisa Selvagem",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2786,7 +2786,7 @@
     },
     {
         "id": "54",
-        "name": "Exercício: Postura do Alongamento Lateral Sentado",
+        "name": " Postura do Alongamento Lateral Sentado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2834,7 +2834,7 @@
     },
     {
         "id": "55",
-        "name": "Exercício: Prancha Lateral de Antebraço com Bola Bosu",
+        "name": " Prancha Lateral de Antebraço com Bola Bosu",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -2884,7 +2884,7 @@
     },
     {
         "id": "56",
-        "name": "Exercício: Avanço Alternado e Torção com a Landmine",
+        "name": " Avanço Alternado e Torção com a Landmine",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2934,7 +2934,7 @@
     },
     {
         "id": "57",
-        "name": "Exercício: Abdução de Quadril na Prancha Lateral com Bola Bosu",
+        "name": " Abdução de Quadril na Prancha Lateral com Bola Bosu",
         "level": "Avançado",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -2986,7 +2986,7 @@
     },
     {
         "id": "58",
-        "name": "Exercício: Prancha Lateral com Mão na Bola Bosu",
+        "name": " Prancha Lateral com Mão na Bola Bosu",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -3037,7 +3037,7 @@
     },
     {
         "id": "59",
-        "name": "Exercício: Rotativo de Madeira a Meio Joelho com Bola Medicinal",
+        "name": " Rotativo de Madeira a Meio Joelho com Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -3092,7 +3092,7 @@
     },
     {
         "id": "60",
-        "name": "Exercício: Lançamento Lateral com Bola Medicinal para Parceiro",
+        "name": " Lançamento Lateral com Bola Medicinal para Parceiro",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -3147,7 +3147,7 @@
     },
     {
         "id": "61",
-        "name": "Exercício: Rotação de Madeira Ajoelhado com Bola Medicinal",
+        "name": " Rotação de Madeira Ajoelhado com Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -3200,7 +3200,7 @@
     },
     {
         "id": "62",
-        "name": "Exercício: Arco-Íris de Slam com Bola Medicinal",
+        "name": " Arco-Íris de Slam com Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -3250,7 +3250,7 @@
     },
     {
         "id": "63",
-        "name": "Exercício: Rotação de Avanço Reverso com Bola Medicinal",
+        "name": " Rotação de Avanço Reverso com Bola Medicinal",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -3305,7 +3305,7 @@
     },
     {
         "id": "64",
-        "name": "Exercício: Lançamento do Medicine Ball em Estilo Lenhador",
+        "name": " Lançamento do Medicine Ball em Estilo Lenhador",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3359,7 +3359,7 @@
     },
     {
         "id": "65",
-        "name": "Exercício: Madeira de Bola Medicinal para Cortar",
+        "name": " Madeira de Bola Medicinal para Cortar",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -3409,7 +3409,7 @@
     },
     {
         "id": "66",
-        "name": "Exercício: Torção Russa com Bola Medicinal",
+        "name": " Torção Russa com Bola Medicinal",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -3462,7 +3462,7 @@
     },
     {
         "id": "67",
-        "name": "Exercício: Madeira de Bola Medicinal para Cortar",
+        "name": " Madeira de Bola Medicinal para Cortar",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -3512,7 +3512,7 @@
     },
     {
         "id": "68",
-        "name": "Exercício: Inclinação Lateral Vitruviana",
+        "name": " Inclinação Lateral Vitruviana",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3564,7 +3564,7 @@
     },
     {
         "id": "69",
-        "name": "Exercício: Torção Estacionária na Landmine",
+        "name": " Torção Estacionária na Landmine",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3617,7 +3617,7 @@
     },
     {
         "id": "70",
-        "name": "Exercício: Vitruviano Ajoelhado Cortando Madeira",
+        "name": " Vitruviano Ajoelhado Cortando Madeira",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3665,7 +3665,7 @@
     },
     {
         "id": "71",
-        "name": "Exercício: Rotação do Press Cabo Pallof",
+        "name": " Rotação do Press Cabo Pallof",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -3721,7 +3721,7 @@
     },
     {
         "id": "72",
-        "name": "Exercício: Prancha Lateral com Alcance de Mão",
+        "name": " Prancha Lateral com Alcance de Mão",
         "level": "Avançado",
         "execution_type": "Mão",
         "videos": [
@@ -3767,7 +3767,7 @@
     },
     {
         "id": "73",
-        "name": "Exercício: Moinho de Vento Vitruviano",
+        "name": " Moinho de Vento Vitruviano",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3825,7 +3825,7 @@
     },
     {
         "id": "74",
-        "name": "Exercício: Remada Gorila com Kettlebell",
+        "name": " Remada Gorila com Kettlebell",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -3875,7 +3875,7 @@
     },
     {
         "id": "75",
-        "name": "Exercício: Levantamento Rotacional com Pressão no Landmine",
+        "name": " Levantamento Rotacional com Pressão no Landmine",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3927,7 +3927,7 @@
     },
     {
         "id": "76",
-        "name": "Exercício: Texto: Estabilidade do Core 4 Levantamento Cruzado de Membros em Posição de Flexão",
+        "name": "  Estabilidade do Core 4 Levantamento Cruzado de Membros em Posição de Flexão",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3969,7 +3969,7 @@
     },
     {
         "id": "77",
-        "name": "Exercício: Texto: Estabilidade do Core 1 Elevação Cruzada de Membros em Posição de 4 Pontos",
+        "name": "  Estabilidade do Core 1 Elevação Cruzada de Membros em Posição de 4 Pontos",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4020,7 +4020,7 @@
     },
     {
         "id": "78",
-        "name": "Exercício: Texto: Estabilidade do Core 2 Toque Oposto no Ombro na Posição de 4 Pontos",
+        "name": "  Estabilidade do Core 2 Toque Oposto no Ombro na Posição de 4 Pontos",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4071,7 +4071,7 @@
     },
     {
         "id": "79",
-        "name": "Exercício: Texto: Estabilidade do Core Regressão Elevação Cruzada dos Membros Posição de Flexão",
+        "name": "  Estabilidade do Core Regressão Elevação Cruzada dos Membros Posição de Flexão",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4120,7 +4120,7 @@
     },
     {
         "id": "80",
-        "name": "Exercício: Texto: Estabilização Cruzada do Núcleo Unilateral Carga de Kettlebell",
+        "name": "  Estabilização Cruzada do Núcleo Unilateral Carga de Kettlebell",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -4166,7 +4166,7 @@
     },
     {
         "id": "81",
-        "name": "Exercício: Texto: Estabilidade do Core 5 Elevação Cruzada de Membros em Tuck de Cotovelo Joelho na Posição de Flexão",
+        "name": "  Estabilidade do Core 5 Elevação Cruzada de Membros em Tuck de Cotovelo Joelho na Posição de Flexão",
         "level": "Avançado",
         "execution_type": "Cotovelo",
         "videos": [
@@ -4217,7 +4217,7 @@
     },
     {
         "id": "82",
-        "name": "Exercício: Texto: Dead Bugs Cruzado Lateral",
+        "name": "  Dead Bugs Cruzado Lateral",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4257,7 +4257,7 @@
     },
     {
         "id": "83",
-        "name": "Exercício: Alongamento Lateral Sentado",
+        "name": " Alongamento Lateral Sentado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4308,7 +4308,7 @@
     },
     {
         "id": "84",
-        "name": "Exercício: Alongamento da Linha Lateral e Latíssimo do Dorso",
+        "name": " Alongamento da Linha Lateral e Latíssimo do Dorso",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4366,7 +4366,7 @@
     },
     {
         "id": "85",
-        "name": "Exercício: Levantamento Terra com Kettlebell em Estilo Mala",
+        "name": " Levantamento Terra com Kettlebell em Estilo Mala",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -4422,7 +4422,7 @@
     },
     {
         "id": "86",
-        "name": "Exercício: Texto: Dead Bugs do Mesmo Lado",
+        "name": "  Dead Bugs do Mesmo Lado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4471,7 +4471,7 @@
     },
     {
         "id": "87",
-        "name": "Exercício: Alongamento Lateral de Oração",
+        "name": " Alongamento Lateral de Oração",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4524,7 +4524,7 @@
     },
     {
         "id": "88",
-        "name": "Exercício: Carregamento de Mala com Barra",
+        "name": " Carregamento de Mala com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -4579,7 +4579,7 @@
     },
     {
         "id": "89",
-        "name": "Exercício: Rotação da Coluna Torácica com Peso Corporal",
+        "name": " Rotação da Coluna Torácica com Peso Corporal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4629,7 +4629,7 @@
     },
     {
         "id": "90",
-        "name": "Exercício: Toque Alternado no Calcanhar",
+        "name": " Toque Alternado no Calcanhar",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [

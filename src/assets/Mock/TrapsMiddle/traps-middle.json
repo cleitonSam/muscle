@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Exercício: Elevação de Pressão Pike",
+        "name": " Elevação de Pressão Pike",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -54,7 +54,7 @@
     },
     {
         "id": "2",
-        "name": "Exercício: Variação Um do Alongamento da Parte Média das Costas e Trapézio",
+        "name": " Variação Um do Alongamento da Parte Média das Costas e Trapézio",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -105,7 +105,7 @@
     },
     {
         "id": "3",
-        "name": "Exercício: Remada Invertida",
+        "name": " Remada Invertida",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -157,7 +157,7 @@
     },
     {
         "id": "4",
-        "name": "Exercício: Remada Sentada em Máquina com Cabo",
+        "name": " Remada Sentada em Máquina com Cabo",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -212,7 +212,7 @@
     },
     {
         "id": "5",
-        "name": "Exercício: Encolhimento Silverback com Cabo",
+        "name": " Encolhimento Silverback com Cabo",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -268,7 +268,7 @@
     },
     {
         "id": "6",
-        "name": "Exercício: Afastamento com Elástico",
+        "name": " Afastamento com Elástico",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -322,7 +322,7 @@
     },
     {
         "id": "7",
-        "name": "Exercício: Variação Dois do Alongamento da Parte Média das Costas e Trapézio",
+        "name": " Variação Dois do Alongamento da Parte Média das Costas e Trapézio",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -374,7 +374,7 @@
     },
     {
         "id": "8",
-        "name": "Exercício: Remada Bilateral com Halteres",
+        "name": " Remada Bilateral com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -422,7 +422,7 @@
     },
     {
         "id": "9",
-        "name": "Exercício: Encolhimento Silverback com Kettlebell (Único)",
+        "name": " Encolhimento Silverback com Kettlebell (Único)",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -471,7 +471,7 @@
     },
     {
         "id": "10",
-        "name": "Exercício: Remada com Kettlebell (Individual)",
+        "name": " Remada com Kettlebell (Individual)",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -518,7 +518,7 @@
     },
     {
         "id": "11",
-        "name": "Exercício: Encolhimento Horizontal com Faixa Elástica",
+        "name": " Encolhimento Horizontal com Faixa Elástica",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -570,7 +570,7 @@
     },
     {
         "id": "12",
-        "name": "Exercício: Levantamento Terra com Kettlebell (Individual)",
+        "name": " Levantamento Terra com Kettlebell (Individual)",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -625,7 +625,7 @@
     },
     {
         "id": "13",
-        "name": "Exercício: Remada com Barra Landmine",
+        "name": " Remada com Barra Landmine",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -674,7 +674,7 @@
     },
     {
         "id": "14",
-        "name": "Exercício: Remada Posterior com Halteres",
+        "name": " Remada Posterior com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -727,7 +727,7 @@
     },
     {
         "id": "15",
-        "name": "Exercício: Encolhimento de Ombros com Halteres Silverback",
+        "name": " Encolhimento de Ombros com Halteres Silverback",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -775,7 +775,7 @@
     },
     {
         "id": "16",
-        "name": "Exercício: Elevação de Ombros de Prata com Halteres Deitado",
+        "name": " Elevação de Ombros de Prata com Halteres Deitado",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -824,7 +824,7 @@
     },
     {
         "id": "17",
-        "name": "Exercício: Puxada Alta de Rosto com Faixa",
+        "name": " Puxada Alta de Rosto com Faixa",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -859,7 +859,7 @@
     },
     {
         "id": "18",
-        "name": "Exercício: Levantamento Posterior de Deltóide com Banda Elástica",
+        "name": " Levantamento Posterior de Deltóide com Banda Elástica",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -911,7 +911,7 @@
     },
     {
         "id": "19",
-        "name": "Exercício: Levantamento Posterior de Deltoides com Anilha",
+        "name": " Levantamento Posterior de Deltoides com Anilha",
         "level": "Iniciante",
         "execution_type": "Anilhas",
         "videos": [
@@ -960,7 +960,7 @@
     },
     {
         "id": "20",
-        "name": "Exercício: Levantamento Posterior de Deltoide com Rotação Interna e Prato",
+        "name": " Levantamento Posterior de Deltoide com Rotação Interna e Prato",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1013,7 +1013,7 @@
     },
     {
         "id": "21",
-        "name": "Exercício: TRX Elevação em W",
+        "name": " TRX Elevação em W",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1064,7 +1064,7 @@
     },
     {
         "id": "22",
-        "name": "Exercício: TRX Remada para Deltóide Posterior",
+        "name": " TRX Remada para Deltóide Posterior",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1115,7 +1115,7 @@
     },
     {
         "id": "23",
-        "name": "Exercício: TRX Voo Posterior Deltoide",
+        "name": " TRX Voo Posterior Deltoide",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1137,7 +1137,7 @@
     },
     {
         "id": "24",
-        "name": "Exercício: Puxada Estreita",
+        "name": " Puxada Estreita",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1192,7 +1192,7 @@
     },
     {
         "id": "25",
-        "name": "Exercício: Puxada Neutra",
+        "name": " Puxada Neutra",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1245,7 +1245,7 @@
     },
     {
         "id": "26",
-        "name": "Exercício: Remada Posterior com Kettlebell (Dupla)",
+        "name": " Remada Posterior com Kettlebell (Dupla)",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1298,7 +1298,7 @@
     },
     {
         "id": "27",
-        "name": "Exercício: Remada em Pé com Barra de Cabo",
+        "name": " Remada em Pé com Barra de Cabo",
         "level": "Novato",
         "execution_type": "Barra",
         "videos": [
@@ -1356,7 +1356,7 @@
     },
     {
         "id": "28",
-        "name": "Exercício: Encolhimento de Ombros com Kettlebell Silverback",
+        "name": " Encolhimento de Ombros com Kettlebell Silverback",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1407,7 +1407,7 @@
     },
     {
         "id": "29",
-        "name": "Exercício: Remada Unilateral com Pegada Neutra no Cabo",
+        "name": " Remada Unilateral com Pegada Neutra no Cabo",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1429,7 +1429,7 @@
     },
     {
         "id": "30",
-        "name": "Exercício: Remada com Punho Invertido em Cabo com Um Braço",
+        "name": " Remada com Punho Invertido em Cabo com Um Braço",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1487,7 +1487,7 @@
     },
     {
         "id": "31",
-        "name": "Exercício: Barra Fixa Assistida na Máquina Smith",
+        "name": " Barra Fixa Assistida na Máquina Smith",
         "level": "Novato",
         "execution_type": "Barra",
         "videos": [
@@ -1540,7 +1540,7 @@
     },
     {
         "id": "32",
-        "name": "Exercício: Remada Traseira com Halteres Sentado",
+        "name": " Remada Traseira com Halteres Sentado",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -1593,7 +1593,7 @@
     },
     {
         "id": "33",
-        "name": "Exercício: Remada Invertida na Máquina Smith",
+        "name": " Remada Invertida na Máquina Smith",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -1644,7 +1644,7 @@
     },
     {
         "id": "34",
-        "name": "Exercício: Remada Invertida com Pegada Pronada Corporal",
+        "name": " Remada Invertida com Pegada Pronada Corporal",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1693,7 +1693,7 @@
     },
     {
         "id": "35",
-        "name": "Exercício: Remada Invertida em Pé com Peso Corporal",
+        "name": " Remada Invertida em Pé com Peso Corporal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1744,7 +1744,7 @@
     },
     {
         "id": "36",
-        "name": "Exercício: Remada Invertida com Peso em Disco",
+        "name": " Remada Invertida com Peso em Disco",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1799,7 +1799,7 @@
     },
     {
         "id": "37",
-        "name": "Exercício: Levantamento Alto com Barra",
+        "name": " Levantamento Alto com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -1852,7 +1852,7 @@
     },
     {
         "id": "38",
-        "name": "Exercício: Levantamento Alto com Pegada Larga de Barra",
+        "name": " Levantamento Alto com Pegada Larga de Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -1908,7 +1908,7 @@
     },
     {
         "id": "39",
-        "name": "Exercício: Barra com peso",
+        "name": " Barra com peso",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -1961,7 +1961,7 @@
     },
     {
         "id": "40",
-        "name": "Exercício: Máquina de Remada Baixa com Carga por Placas",
+        "name": " Máquina de Remada Baixa com Carga por Placas",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -2017,7 +2017,7 @@
     },
     {
         "id": "41",
-        "name": "Exercício: Postura do Ângulo Lateral com as Mãos em Prece",
+        "name": " Postura do Ângulo Lateral com as Mãos em Prece",
         "level": "Intermediário",
         "execution_type": "Mão",
         "videos": [
@@ -2076,7 +2076,7 @@
     },
     {
         "id": "42",
-        "name": "Exercício: Postura do Gato",
+        "name": " Postura do Gato",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2127,7 +2127,7 @@
     },
     {
         "id": "43",
-        "name": "Exercício: Postura do Ângulo Lateral com as Mãos em Prece para Iniciantes",
+        "name": " Postura do Ângulo Lateral com as Mãos em Prece para Iniciantes",
         "level": "Iniciante",
         "execution_type": "Mão",
         "videos": [
@@ -2183,7 +2183,7 @@
     },
     {
         "id": "44",
-        "name": "Exercício: Posição Fácil de Torção Sentada",
+        "name": " Posição Fácil de Torção Sentada",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2244,7 +2244,7 @@
     },
     {
         "id": "45",
-        "name": "Exercício: Remada Posterior de Ombro com Cabo e Um Braço",
+        "name": " Remada Posterior de Ombro com Cabo e Um Braço",
         "level": "Avançado",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -2298,7 +2298,7 @@
     },
     {
         "id": "46",
-        "name": "Exercício: Remada com Bola Bosu",
+        "name": " Remada com Bola Bosu",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -2350,7 +2350,7 @@
     },
     {
         "id": "47",
-        "name": "Exercício: Remada com um Braço Só Vitruviana",
+        "name": " Remada com um Braço Só Vitruviana",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2408,7 +2408,7 @@
     },
     {
         "id": "48",
-        "name": "Exercício: Torção Sentada",
+        "name": " Torção Sentada",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2463,7 +2463,7 @@
     },
     {
         "id": "49",
-        "name": "Exercício: Retração Escapular",
+        "name": " Retração Escapular",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2508,7 +2508,7 @@
     },
     {
         "id": "50",
-        "name": "Exercício: Barra Fixa com Sobrecarga de Halteres",
+        "name": " Barra Fixa com Sobrecarga de Halteres",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -2560,7 +2560,7 @@
     },
     {
         "id": "51",
-        "name": "Exercício: Desenvolvimento Suspenso com Peso Corporal",
+        "name": " Desenvolvimento Suspenso com Peso Corporal",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2613,7 +2613,7 @@
     },
     {
         "id": "52",
-        "name": "Exercício: Letra T Deitada",
+        "name": " Letra T Deitada",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [

@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Exercício: Levantamento Terra com Barra em Estilo Mala",
+        "name": " Levantamento Terra com Barra em Estilo Mala",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -61,7 +61,7 @@
     },
     {
         "id": "2",
-        "name": "Exercício: Levantamento de Kettlebell para Fazendeiros",
+        "name": " Levantamento de Kettlebell para Fazendeiros",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -117,7 +117,7 @@
     },
     {
         "id": "3",
-        "name": "Exercício: Levantamento Terra com Pegada de Preensão de Placa",
+        "name": " Levantamento Terra com Pegada de Preensão de Placa",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -166,7 +166,7 @@
     },
     {
         "id": "4",
-        "name": "Exercício: Transporte do Fazendeiro com Pegada de Pinça de Placa",
+        "name": " Transporte do Fazendeiro com Pegada de Pinça de Placa",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -223,7 +223,7 @@
     },
     {
         "id": "5",
-        "name": "Exercício: Caminhada com Levantamento de Kettlebell",
+        "name": " Caminhada com Levantamento de Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -274,7 +274,7 @@
     },
     {
         "id": "6",
-        "name": "Exercício: Marcha do Agricultor com Kettlebell",
+        "name": " Marcha do Agricultor com Kettlebell",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -325,7 +325,7 @@
     },
     {
         "id": "7",
-        "name": "Exercício: Marcha do Fazendeiro com Kettlebell em um Único Braço",
+        "name": " Marcha do Fazendeiro com Kettlebell em um Único Braço",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -382,7 +382,7 @@
     },
     {
         "id": "8",
-        "name": "Exercício: Levantamento Terra com Kettlebell em Estilo Mala",
+        "name": " Levantamento Terra com Kettlebell em Estilo Mala",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -437,7 +437,7 @@
     },
     {
         "id": "9",
-        "name": "Exercício: Carregamento de Mala com Barra",
+        "name": " Carregamento de Mala com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [

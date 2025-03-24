@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Exercício: Flexão de Braço",
+        "name": " Flexão de Braço",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -52,7 +52,7 @@
     },
     {
         "id": "2",
-        "name": "Exercício: Supino Inclinado com Halteres",
+        "name": " Supino Inclinado com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -102,7 +102,7 @@
     },
     {
         "id": "3",
-        "name": "Exercício: Supino com Barra",
+        "name": " Supino com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -152,7 +152,7 @@
     },
     {
         "id": "4",
-        "name": "Exercício: Peitoral na Máquina",
+        "name": " Peitoral na Máquina",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -206,7 +206,7 @@
     },
     {
         "id": "5",
-        "name": "Exercício: Supino Inclinado com Barra",
+        "name": " Supino Inclinado com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -260,7 +260,7 @@
     },
     {
         "id": "6",
-        "name": "Exercício: Peitoral na Polia",
+        "name": " Peitoral na Polia",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -312,7 +312,7 @@
     },
     {
         "id": "7",
-        "name": "Exercício: Aberturas Inclinadas com Halteres para Peito",
+        "name": " Aberturas Inclinadas com Halteres para Peito",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -364,7 +364,7 @@
     },
     {
         "id": "8",
-        "name": "Exercício: Peitoral na Polia",
+        "name": " Peitoral na Polia",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -415,7 +415,7 @@
     },
     {
         "id": "9",
-        "name": "Exercício: Variação Um do Alongamento do Peito",
+        "name": " Variação Um do Alongamento do Peito",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -465,7 +465,7 @@
     },
     {
         "id": "10",
-        "name": "Exercício: Variação Quatro do Alongamento do Peito",
+        "name": " Variação Quatro do Alongamento do Peito",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -517,7 +517,7 @@
     },
     {
         "id": "11",
-        "name": "Exercício: Variação Três do Alongamento de Peito",
+        "name": " Variação Três do Alongamento de Peito",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -561,7 +561,7 @@
     },
     {
         "id": "12",
-        "name": "Exercício: Variação Dois de Alongamento do Peito",
+        "name": " Variação Dois de Alongamento do Peito",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -613,7 +613,7 @@
     },
     {
         "id": "13",
-        "name": "Exercício: Mergulhos na Caixa",
+        "name": " Mergulhos na Caixa",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -665,7 +665,7 @@
     },
     {
         "id": "14",
-        "name": "Exercício: Supino com Halteres",
+        "name": " Supino com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -711,7 +711,7 @@
     },
     {
         "id": "15",
-        "name": "Exercício: Mergulhos em Barras Paralelas",
+        "name": " Mergulhos em Barras Paralelas",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -758,7 +758,7 @@
     },
     {
         "id": "16",
-        "name": "Exercício: Mergulhos Assistidos por Máquina em Barras Paralelas",
+        "name": " Mergulhos Assistidos por Máquina em Barras Paralelas",
         "level": "Novato",
         "execution_type": "Barra",
         "videos": [
@@ -808,7 +808,7 @@
     },
     {
         "id": "17",
-        "name": "Exercício: Flexão com Faixa Elástica",
+        "name": " Flexão com Faixa Elástica",
         "level": "Intermediário",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -860,7 +860,7 @@
     },
     {
         "id": "18",
-        "name": "Exercício: Pressão de Peito na Máquina",
+        "name": " Pressão de Peito na Máquina",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -909,7 +909,7 @@
     },
     {
         "id": "19",
-        "name": "Exercício: Pressão de Peito com Faixa com um Braço",
+        "name": " Pressão de Peito com Faixa com um Braço",
         "level": "Iniciante",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -956,7 +956,7 @@
     },
     {
         "id": "20",
-        "name": "Exercício: Supino com Kettlebell (Individual)",
+        "name": " Supino com Kettlebell (Individual)",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1004,7 +1004,7 @@
     },
     {
         "id": "21",
-        "name": "Exercício: Flexão de Braço com Passagem de Kettlebell",
+        "name": " Flexão de Braço com Passagem de Kettlebell",
         "level": "Avançado",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1055,7 +1055,7 @@
     },
     {
         "id": "22",
-        "name": "Exercício: Levantamento de Kettlebell com um só braço",
+        "name": " Levantamento de Kettlebell com um só braço",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1104,7 +1104,7 @@
     },
     {
         "id": "23",
-        "name": "Exercício: Abertura de Peito com Elástico com um Braço",
+        "name": " Abertura de Peito com Elástico com um Braço",
         "level": "Iniciante",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -1155,7 +1155,7 @@
     },
     {
         "id": "24",
-        "name": "Exercício: Abertura de Peito com Kettlebell em um só Braço",
+        "name": " Abertura de Peito com Kettlebell em um só Braço",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1210,7 +1210,7 @@
     },
     {
         "id": "25",
-        "name": "Exercício: Flexão Inclinada",
+        "name": " Flexão Inclinada",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1268,7 +1268,7 @@
     },
     {
         "id": "26",
-        "name": "Exercício: Supino com Barra no Chão",
+        "name": " Supino com Barra no Chão",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -1317,7 +1317,7 @@
     },
     {
         "id": "27",
-        "name": "Exercício: Flexão em Declive",
+        "name": " Flexão em Declive",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1368,7 +1368,7 @@
     },
     {
         "id": "28",
-        "name": "Exercício: Supino Reto com Barra em Decúbito Dorsal",
+        "name": " Supino Reto com Barra em Decúbito Dorsal",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -1421,7 +1421,7 @@
     },
     {
         "id": "29",
-        "name": "Exercício: Peitoral Declinado com Halteres",
+        "name": " Peitoral Declinado com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -1471,7 +1471,7 @@
     },
     {
         "id": "30",
-        "name": "Exercício: Peitoral com Halteres",
+        "name": " Peitoral com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -1522,7 +1522,7 @@
     },
     {
         "id": "31",
-        "name": "Exercício: Supino em Declínio com Halteres",
+        "name": " Supino em Declínio com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -1570,7 +1570,7 @@
     },
     {
         "id": "32",
-        "name": "Exercício: Supino Spoto com Barra",
+        "name": " Supino Spoto com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -1616,7 +1616,7 @@
     },
     {
         "id": "33",
-        "name": "Exercício: Supino com Halteres na Guilhotina",
+        "name": " Supino com Halteres na Guilhotina",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -1666,7 +1666,7 @@
     },
     {
         "id": "34",
-        "name": "Exercício: Peitoral com Halteres em Inclinação",
+        "name": " Peitoral com Halteres em Inclinação",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -1718,7 +1718,7 @@
     },
     {
         "id": "35",
-        "name": "Exercício: Supino Inclinado com Halteres Estilo Guilhotina",
+        "name": " Supino Inclinado com Halteres Estilo Guilhotina",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -1770,7 +1770,7 @@
     },
     {
         "id": "36",
-        "name": "Exercício: Supino Inclinado com Halteres Estilo Guilhotina",
+        "name": " Supino Inclinado com Halteres Estilo Guilhotina",
         "level": "Avançado",
         "execution_type": "Halteres",
         "videos": [
@@ -1821,7 +1821,7 @@
     },
     {
         "id": "37",
-        "name": "Exercício: Peitoral Inclinado com Rotação Interna e Halteres",
+        "name": " Peitoral Inclinado com Rotação Interna e Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -1878,7 +1878,7 @@
     },
     {
         "id": "38",
-        "name": "Exercício: Supino Inclinado com Halteres em Posição Neutra",
+        "name": " Supino Inclinado com Halteres em Posição Neutra",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -1929,7 +1929,7 @@
     },
     {
         "id": "39",
-        "name": "Exercício: Supino com Halteres em Posição Neutra",
+        "name": " Supino com Halteres em Posição Neutra",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -1980,7 +1980,7 @@
     },
     {
         "id": "40",
-        "name": "Exercício: Peitoral com Rotação Interna com Halteres",
+        "name": " Peitoral com Rotação Interna com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -2030,7 +2030,7 @@
     },
     {
         "id": "41",
-        "name": "Exercício: Peitoral Voador com Rotação Interna de Faixa",
+        "name": " Peitoral Voador com Rotação Interna de Faixa",
         "level": "Intermediário",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -2081,7 +2081,7 @@
     },
     {
         "id": "42",
-        "name": "Exercício: Supino com Elástico",
+        "name": " Supino com Elástico",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -2130,7 +2130,7 @@
     },
     {
         "id": "43",
-        "name": "Exercício: Flexão com Deficit em Plataforma",
+        "name": " Flexão com Deficit em Plataforma",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2183,7 +2183,7 @@
     },
     {
         "id": "44",
-        "name": "Exercício: Peitoral com Faixa Elástica",
+        "name": " Peitoral com Faixa Elástica",
         "level": "Iniciante",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -2237,7 +2237,7 @@
     },
     {
         "id": "45",
-        "name": "Exercício: Levantamento de Quadril com Prancha para Supino",
+        "name": " Levantamento de Quadril com Prancha para Supino",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2280,7 +2280,7 @@
     },
     {
         "id": "46",
-        "name": "Exercício: Flexão TRX",
+        "name": " Flexão TRX",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2333,7 +2333,7 @@
     },
     {
         "id": "47",
-        "name": "Exercício: TRX Peitoral Fly",
+        "name": " TRX Peitoral Fly",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2383,7 +2383,7 @@
     },
     {
         "id": "48",
-        "name": "Exercício: Flexão Elevada com Halteres",
+        "name": " Flexão Elevada com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -2435,7 +2435,7 @@
     },
     {
         "id": "49",
-        "name": "Exercício: Supino com Kettlebell Guilhotina",
+        "name": " Supino com Kettlebell Guilhotina",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2485,7 +2485,7 @@
     },
     {
         "id": "50",
-        "name": "Exercício: Supino com Kettlebell",
+        "name": " Supino com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2541,7 +2541,7 @@
     },
     {
         "id": "51",
-        "name": "Exercício: Supino Reto Neutro",
+        "name": " Supino Reto Neutro",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2591,7 +2591,7 @@
     },
     {
         "id": "52",
-        "name": "Exercício: Voo de Peito com Kettlebell",
+        "name": " Voo de Peito com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2640,7 +2640,7 @@
     },
     {
         "id": "53",
-        "name": "Exercício: Supino no Cabo",
+        "name": " Supino no Cabo",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -2688,7 +2688,7 @@
     },
     {
         "id": "54",
-        "name": "Exercício: Peitoral na Polia Alta Inclinada",
+        "name": " Peitoral na Polia Alta Inclinada",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2736,7 +2736,7 @@
     },
     {
         "id": "55",
-        "name": "Exercício: Peitoral na Polia em Banco",
+        "name": " Peitoral na Polia em Banco",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2785,7 +2785,7 @@
     },
     {
         "id": "56",
-        "name": "Exercício: Puxada de Cabo Declinada no Banco para Peito",
+        "name": " Puxada de Cabo Declinada no Banco para Peito",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -2835,7 +2835,7 @@
     },
     {
         "id": "57",
-        "name": "Exercício: Supino com Halteres no Chão",
+        "name": " Supino com Halteres no Chão",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -2888,7 +2888,7 @@
     },
     {
         "id": "58",
-        "name": "Exercício: Supino Inclinado com Halteres em Altura Elevada",
+        "name": " Supino Inclinado com Halteres em Altura Elevada",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -2940,7 +2940,7 @@
     },
     {
         "id": "59",
-        "name": "Exercício: Supino Inclinado com Barra em Ângulo Elevado",
+        "name": " Supino Inclinado com Barra em Ângulo Elevado",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -2988,7 +2988,7 @@
     },
     {
         "id": "60",
-        "name": "Exercício: Supino Inclinado com Cabo",
+        "name": " Supino Inclinado com Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -3040,7 +3040,7 @@
     },
     {
         "id": "61",
-        "name": "Exercício: Flexão de Braço Elevada com Peso Corporal",
+        "name": " Flexão de Braço Elevada com Peso Corporal",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3091,7 +3091,7 @@
     },
     {
         "id": "62",
-        "name": "Exercício: Flexões de Joelho com o Peso do Corpo",
+        "name": " Flexões de Joelho com o Peso do Corpo",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3145,7 +3145,7 @@
     },
     {
         "id": "63",
-        "name": "Exercício: Flexões de Joelho com Corpo Diamante",
+        "name": " Flexões de Joelho com Corpo Diamante",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3194,7 +3194,7 @@
     },
     {
         "id": "64",
-        "name": "Exercício: Flexão Inclinada de Joelho com Peso Corporal",
+        "name": " Flexão Inclinada de Joelho com Peso Corporal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3247,7 +3247,7 @@
     },
     {
         "id": "65",
-        "name": "Exercício: Supino na Máquina Smith",
+        "name": " Supino na Máquina Smith",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -3296,7 +3296,7 @@
     },
     {
         "id": "66",
-        "name": "Exercício: Supino Inclinado com Kettlebell",
+        "name": " Supino Inclinado com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -3345,7 +3345,7 @@
     },
     {
         "id": "67",
-        "name": "Exercício: Supino com Kettlebell no Chão",
+        "name": " Supino com Kettlebell no Chão",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -3399,7 +3399,7 @@
     },
     {
         "id": "68",
-        "name": "Exercício: Supino Inclinado com Kettlebell",
+        "name": " Supino Inclinado com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -3447,7 +3447,7 @@
     },
     {
         "id": "69",
-        "name": "Exercício: Supino Inclinado na Máquina Smith",
+        "name": " Supino Inclinado na Máquina Smith",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -3499,7 +3499,7 @@
     },
     {
         "id": "70",
-        "name": "Exercício: Flexão na Máquina Smith",
+        "name": " Flexão na Máquina Smith",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -3553,7 +3553,7 @@
     },
     {
         "id": "71",
-        "name": "Exercício: Supino Guilhotina na Máquina Smith",
+        "name": " Supino Guilhotina na Máquina Smith",
         "level": "Intermediário",
         "execution_type": "Máquina",
         "videos": [
@@ -3604,7 +3604,7 @@
     },
     {
         "id": "72",
-        "name": "Exercício: Tríceps na Caixa Assistido com Peso Corporal",
+        "name": " Tríceps na Caixa Assistido com Peso Corporal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3656,7 +3656,7 @@
     },
     {
         "id": "73",
-        "name": "Exercício: Flexão Arqueiro em Pé com Anel",
+        "name": " Flexão Arqueiro em Pé com Anel",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3704,7 +3704,7 @@
     },
     {
         "id": "74",
-        "name": "Exercício: Voador em Pé com Anel",
+        "name": " Voador em Pé com Anel",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3759,7 +3759,7 @@
     },
     {
         "id": "75",
-        "name": "Exercício: Supino Inclinado com Cabo",
+        "name": " Supino Inclinado com Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -3807,7 +3807,7 @@
     },
     {
         "id": "76",
-        "name": "Exercício: Flexão em Pé com Anel",
+        "name": " Flexão em Pé com Anel",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3859,7 +3859,7 @@
     },
     {
         "id": "77",
-        "name": "Exercício: Supino Inclinado com Kettlebell na Guilhotina",
+        "name": " Supino Inclinado com Kettlebell na Guilhotina",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -3910,7 +3910,7 @@
     },
     {
         "id": "78",
-        "name": "Exercício: Flexões com Peso",
+        "name": " Flexões com Peso",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3958,7 +3958,7 @@
     },
     {
         "id": "79",
-        "name": "Exercício: Supino com Pegada Inversa com Halteres",
+        "name": " Supino com Pegada Inversa com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -4008,7 +4008,7 @@
     },
     {
         "id": "80",
-        "name": "Exercício: Flexões com as Mãos Levantadas",
+        "name": " Flexões com as Mãos Levantadas",
         "level": "Iniciante",
         "execution_type": "Mão",
         "videos": [
@@ -4058,7 +4058,7 @@
     },
     {
         "id": "81",
-        "name": "Exercício: Mergulhos na Máquina",
+        "name": " Mergulhos na Máquina",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -4111,7 +4111,7 @@
     },
     {
         "id": "82",
-        "name": "Exercício: Mergulho com Halteres",
+        "name": " Mergulho com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -4161,7 +4161,7 @@
     },
     {
         "id": "83",
-        "name": "Exercício: Máquina de Press de Peito em Declínio com Placas",
+        "name": " Máquina de Press de Peito em Declínio com Placas",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -4211,7 +4211,7 @@
     },
     {
         "id": "84",
-        "name": "Exercício: Máquina de Peitoral com Braços Flexionados",
+        "name": " Máquina de Peitoral com Braços Flexionados",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -4262,7 +4262,7 @@
     },
     {
         "id": "85",
-        "name": "Exercício: Máquina de Supino Inclinado Baixo com Placas",
+        "name": " Máquina de Supino Inclinado Baixo com Placas",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -4315,7 +4315,7 @@
     },
     {
         "id": "86",
-        "name": "Exercício: Supino Declinado Neutro com Halteres",
+        "name": " Supino Declinado Neutro com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -4368,7 +4368,7 @@
     },
     {
         "id": "87",
-        "name": "Exercício: Supino com Barra estilo Larsen",
+        "name": " Supino com Barra estilo Larsen",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -4423,7 +4423,7 @@
     },
     {
         "id": "88",
-        "name": "Exercício: Supino Alternado com Halteres em Declive com um Braço",
+        "name": " Supino Alternado com Halteres em Declive com um Braço",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -4475,7 +4475,7 @@
     },
     {
         "id": "89",
-        "name": "Exercício: Supino Inclinado com Haltere de um Braço Só",
+        "name": " Supino Inclinado com Haltere de um Braço Só",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -4530,7 +4530,7 @@
     },
     {
         "id": "90",
-        "name": "Exercício: Supino Inclinado com Halteres e Aperto",
+        "name": " Supino Inclinado com Halteres e Aperto",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -4577,7 +4577,7 @@
     },
     {
         "id": "91",
-        "name": "Exercício: Supino com Aperto de Halteres",
+        "name": " Supino com Aperto de Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -4632,7 +4632,7 @@
     },
     {
         "id": "92",
-        "name": "Exercício: Supino com Halter em um Braço Só",
+        "name": " Supino com Halter em um Braço Só",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4685,7 +4685,7 @@
     },
     {
         "id": "93",
-        "name": "Exercício: Postura do Arco",
+        "name": " Postura do Arco",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4738,7 +4738,7 @@
     },
     {
         "id": "94",
-        "name": "Exercício: Supino Unilateral Alternado com Halteres",
+        "name": " Supino Unilateral Alternado com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -4787,7 +4787,7 @@
     },
     {
         "id": "95",
-        "name": "Exercício: Burpee",
+        "name": " Burpee",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4838,7 +4838,7 @@
     },
     {
         "id": "96",
-        "name": "Exercício: Flexão com Remada Renegada",
+        "name": " Flexão com Remada Renegada",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4895,7 +4895,7 @@
     },
     {
         "id": "97",
-        "name": "Exercício: Guerrero Um",
+        "name": " Guerrero Um",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4943,7 +4943,7 @@
     },
     {
         "id": "98",
-        "name": "Exercício: Postura da Árvore",
+        "name": " Postura da Árvore",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4990,7 +4990,7 @@
     },
     {
         "id": "99",
-        "name": "Exercício: Relógio de Braço Yogi",
+        "name": " Relógio de Braço Yogi",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5041,7 +5041,7 @@
     },
     {
         "id": "100",
-        "name": "Exercício: Montanha",
+        "name": " Montanha",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5093,7 +5093,7 @@
     },
     {
         "id": "101",
-        "name": "Exercício: Guerreiro Dois",
+        "name": " Guerreiro Dois",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5149,7 +5149,7 @@
     },
     {
         "id": "102",
-        "name": "Exercício: Avanço Alternado com Prensa no Peito no Landmine",
+        "name": " Avanço Alternado com Prensa no Peito no Landmine",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5202,7 +5202,7 @@
     },
     {
         "id": "103",
-        "name": "Exercício: Supino com Uma Mão no Landmine",
+        "name": " Supino com Uma Mão no Landmine",
         "level": "Intermediário",
         "execution_type": "Mão",
         "videos": [
@@ -5256,7 +5256,7 @@
     },
     {
         "id": "104",
-        "name": "Exercício: Posição Matsyasana Suportada",
+        "name": " Posição Matsyasana Suportada",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5313,7 +5313,7 @@
     },
     {
         "id": "105",
-        "name": "Exercício: Flexão com Bola Medicinal",
+        "name": " Flexão com Bola Medicinal",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5362,7 +5362,7 @@
     },
     {
         "id": "106",
-        "name": "Exercício: Lançamento do Peitoral com Bola Medicinal",
+        "name": " Lançamento do Peitoral com Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5410,7 +5410,7 @@
     },
     {
         "id": "107",
-        "name": "Exercício: Arremesso de Bola Medicinal ao Parceiro no Peitoral",
+        "name": " Arremesso de Bola Medicinal ao Parceiro no Peitoral",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5459,7 +5459,7 @@
     },
     {
         "id": "108",
-        "name": "Exercício: Lançamento de Supino com Bola Medicinal",
+        "name": " Lançamento de Supino com Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5508,7 +5508,7 @@
     },
     {
         "id": "109",
-        "name": "Exercício: Flexão Deslocada com Bola Bosu",
+        "name": " Flexão Deslocada com Bola Bosu",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5559,7 +5559,7 @@
     },
     {
         "id": "110",
-        "name": "Exercício: Flexão com Passeio Sobre a Bola Medicinal",
+        "name": " Flexão com Passeio Sobre a Bola Medicinal",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5616,7 +5616,7 @@
     },
     {
         "id": "111",
-        "name": "Exercício: Burpee com Bola Bosu",
+        "name": " Burpee com Bola Bosu",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5667,7 +5667,7 @@
     },
     {
         "id": "112",
-        "name": "Exercício: Meio Burpee com Bola Bosu",
+        "name": " Meio Burpee com Bola Bosu",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5718,7 +5718,7 @@
     },
     {
         "id": "113",
-        "name": "Exercício: Peitoral na Máquina Vitruviano",
+        "name": " Peitoral na Máquina Vitruviano",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -5774,7 +5774,7 @@
     },
     {
         "id": "114",
-        "name": "Exercício: Supino Vitruviano",
+        "name": " Supino Vitruviano",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -5826,7 +5826,7 @@
     },
     {
         "id": "115",
-        "name": "Exercício: Flexão de Passada na Bola Bosu",
+        "name": " Flexão de Passada na Bola Bosu",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5881,7 +5881,7 @@
     },
     {
         "id": "116",
-        "name": "Exercício: Flexão com Bola Bosu",
+        "name": " Flexão com Bola Bosu",
         "level": "Intermediário",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -5935,7 +5935,7 @@
     },
     {
         "id": "117",
-        "name": "Exercício: Supino Inclinado com Cabo e um Braço",
+        "name": " Supino Inclinado com Cabo e um Braço",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -5986,7 +5986,7 @@
     },
     {
         "id": "118",
-        "name": "Exercício: Peitoral na Polia com Braço Único em Banco Inclinado para Baixo",
+        "name": " Peitoral na Polia com Braço Único em Banco Inclinado para Baixo",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6032,7 +6032,7 @@
     },
     {
         "id": "119",
-        "name": "Exercício: Voo no Banco com Cabo e Braço Único para Peito",
+        "name": " Voo no Banco com Cabo e Braço Único para Peito",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -6085,7 +6085,7 @@
     },
     {
         "id": "120",
-        "name": "Exercício: Flexão Vitruviana",
+        "name": " Flexão Vitruviana",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6135,7 +6135,7 @@
     },
     {
         "id": "121",
-        "name": "Exercício: Bicicleta de Ataque Cardio",
+        "name": " Bicicleta de Ataque Cardio",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6191,7 +6191,7 @@
     },
     {
         "id": "122",
-        "name": "Exercício: Bicicleta de Cardio para Braços Somente",
+        "name": " Bicicleta de Cardio para Braços Somente",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6244,7 +6244,7 @@
     },
     {
         "id": "123",
-        "name": "Exercício: Supino Unilateral com Cabo",
+        "name": " Supino Unilateral com Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -6293,7 +6293,7 @@
     },
     {
         "id": "124",
-        "name": "Exercício: Cabo de Peito Inclinado com Um Braço",
+        "name": " Cabo de Peito Inclinado com Um Braço",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -6346,7 +6346,7 @@
     },
     {
         "id": "125",
-        "name": "Exercício: Supino Inclinado com Cabo e com um Braço Só",
+        "name": " Supino Inclinado com Cabo e com um Braço Só",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -6368,7 +6368,7 @@
     },
     {
         "id": "126",
-        "name": "Exercício: Flexão de Braço com Palmas usando o Peso do Corpo",
+        "name": " Flexão de Braço com Palmas usando o Peso do Corpo",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6419,7 +6419,7 @@
     },
     {
         "id": "127",
-        "name": "Exercício: Flexão Explosiva com Peso Corporal",
+        "name": " Flexão Explosiva com Peso Corporal",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6467,7 +6467,7 @@
     },
     {
         "id": "128",
-        "name": "Exercício: Kettlebell Press com um braço no chão",
+        "name": " Kettlebell Press com um braço no chão",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -6511,7 +6511,7 @@
     },
     {
         "id": "129",
-        "name": "Exercício: Abertura de Quadril",
+        "name": " Abertura de Quadril",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6562,7 +6562,7 @@
     },
     {
         "id": "130",
-        "name": "Exercício: Cardio Skater para Burpee em uma Perna Só",
+        "name": " Cardio Skater para Burpee em uma Perna Só",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6616,7 +6616,7 @@
     },
     {
         "id": "131",
-        "name": "Exercício: Puxada de Joelho e Rotação Lombar",
+        "name": " Puxada de Joelho e Rotação Lombar",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6664,7 +6664,7 @@
     },
     {
         "id": "132",
-        "name": "Exercício: Polichinelos com Elástico de Resistência para Cardio",
+        "name": " Polichinelos com Elástico de Resistência para Cardio",
         "level": "Iniciante",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -6721,7 +6721,7 @@
     },
     {
         "id": "133",
-        "name": "Exercício: Prancha de Ativação do Serrátil com Bosu",
+        "name": " Prancha de Ativação do Serrátil com Bosu",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6778,7 +6778,7 @@
     },
     {
         "id": "134",
-        "name": "Exercício: Ativação do Serrátil com Prancha Ativa no Bosu",
+        "name": " Ativação do Serrátil com Prancha Ativa no Bosu",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6834,7 +6834,7 @@
     },
     {
         "id": "135",
-        "name": "Exercício: Prancha de Ativação do Serrátil",
+        "name": " Prancha de Ativação do Serrátil",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6884,7 +6884,7 @@
     },
     {
         "id": "136",
-        "name": "Exercício: Ativação do Serrátil com Prancha Ativa",
+        "name": " Ativação do Serrátil com Prancha Ativa",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6934,7 +6934,7 @@
     },
     {
         "id": "137",
-        "name": "Exercício: Flexão com Elevação de Perna",
+        "name": " Flexão com Elevação de Perna",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -6988,7 +6988,7 @@
     },
     {
         "id": "138",
-        "name": "Exercício: Ativação do Serrátil com Soco Cruzado",
+        "name": " Ativação do Serrátil com Soco Cruzado",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7037,7 +7037,7 @@
     },
     {
         "id": "139",
-        "name": "Exercício: Flexões de Joelho com Peso",
+        "name": " Flexões de Joelho com Peso",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7091,7 +7091,7 @@
     },
     {
         "id": "140",
-        "name": "Exercício: Supino com Pegada Reversa na Barra",
+        "name": " Supino com Pegada Reversa na Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -7139,7 +7139,7 @@
     },
     {
         "id": "141",
-        "name": "Exercício: Exercício de Pressão de Peito em Pé com Elástico",
+        "name": " Exercício de Pressão de Peito em Pé com Elástico",
         "level": "Iniciante",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -7189,7 +7189,7 @@
     },
     {
         "id": "142",
-        "name": "Exercício: Mergulho com Peso",
+        "name": " Mergulho com Peso",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -7241,7 +7241,7 @@
     },
     {
         "id": "143",
-        "name": "Exercício: Máquina de Supino Inclinado com Placas",
+        "name": " Máquina de Supino Inclinado com Placas",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [

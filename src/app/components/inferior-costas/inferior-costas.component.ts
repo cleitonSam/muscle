@@ -30,7 +30,7 @@ exercises: any[] = [];
     });
   }
 
-  // Função para normalizar texto: remove acentos e caracteres especiais
+  // Função para normalizar  remove acentos e caracteres especiais
   normalizeText(text: string): string {
     return text
       .normalize('NFD')

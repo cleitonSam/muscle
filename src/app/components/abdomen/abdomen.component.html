@@ -1,7 +1,4 @@
-<!-- Loader -->
-<div *ngIf="isLoading" class="loader-container">
-    <div class="spinner"></div>
-  </div>
+<app-loading [isLoading]="isLoading"></app-loading>
   
   <!-- Header com Botão Voltar, Filtro por Nível e Campo de Busca -->
   <div class="header">
@@ -34,17 +31,20 @@
   </div>
   
   <!-- Lista de Músculos Filtrados -->
-  <ul class="card-list" *ngIf="!isLoading">
-    <li class="card" *ngFor="let exercise of getPaginatedExercises(); let i = index">
-      <a class="card-image" [routerLink]="['/Abdômen', exercise.id]">
-        <img src="../../../assets/abdominal.jpg" alt="{{ exercise.name }}" />
-      </a>
-      <a class="card-description" target="_blank">
-        <h3>{{ exercise.name.replace('Exercício:', '').replace('Texto:', '').trim() }}</h3>
-        <p>Responsável pela estabilização do tronco.</p>
-      </a>
+  <ul class="card-list">
+    <li class="card" 
+        *ngFor="let exercise of getPaginatedExercises(); let i = index"
+        [class.inactive-card]="exercise.status === 'inactive'">
+        <a class="card-image" [routerLink]="['/Abdômen', exercise.id]">
+            <img src="../../../assets/abdominal.jpg" alt="{{ exercise.name }}" />
+        </a>
+        <a class="card-description" target="_blank">
+            <h3>{{ exercise.name.replace('Exercício:', '').replace('Texto:', '').trim() }}</h3>
+            <p>Responsável pela estabilização do tronco.</p>
+            <span class="inactive-label" *ngIf="exercise.status === 'inactive'">(Inativo)</span>
+        </a>
     </li>
-  </ul>
+</ul>
   
   <!-- Controles de Paginação -->
   <div class="pagination-controls" *ngIf="!isLoading">

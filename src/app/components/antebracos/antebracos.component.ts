@@ -4,11 +4,12 @@ import { Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router';
 import { AntebracosService } from './service/antebracos.service';
+import { LoadingComponent } from '../../loading/loading.component';
 
 @Component({
   selector: 'app-antebracos',
   standalone: true,
-  imports: [CommonModule, HttpClientModule, FormsModule, RouterModule],
+  imports: [CommonModule, HttpClientModule, FormsModule, RouterModule, LoadingComponent],
   templateUrl: './antebracos.component.html',
   styleUrl: './antebracos.component.css',
   providers: [AntebracosService],
@@ -39,7 +40,7 @@ export class AntebracosComponent {
     );
   }
 
-  // Função para normalizar texto: remove acentos e caracteres especiais
+  // Função para normalizar  remove acentos e caracteres especiais
   normalizeText(text: string): string {
     return text
       .normalize('NFD')

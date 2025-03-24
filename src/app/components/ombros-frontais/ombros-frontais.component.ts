@@ -4,11 +4,12 @@ import { Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router';
 import { OmbrosFrontaisService } from './service/ombros-frontais.service';
+import { LoadingComponent } from '../../loading/loading.component';
 
 @Component({
   selector: 'app-ombros-frontais',
   standalone: true,
-    imports: [CommonModule, HttpClientModule, FormsModule, RouterModule],
+    imports: [CommonModule, HttpClientModule, FormsModule, RouterModule, LoadingComponent],
   templateUrl: './ombros-frontais.component.html',
   styleUrl: './ombros-frontais.component.css',
   providers: [OmbrosFrontaisService]
@@ -40,7 +41,7 @@ exercises: any[] = [];
     );
   }
 
-  // Função para normalizar texto: remove acentos e caracteres especiais
+  // Função para normalizar  remove acentos e caracteres especiais
   normalizeText(text: string): string {
     return text
       .normalize('NFD')

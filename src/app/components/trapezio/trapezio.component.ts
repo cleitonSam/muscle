@@ -4,11 +4,12 @@ import { Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router';
 import { TrapezioService } from './service/trapezio.service';
+import { LoadingComponent } from '../../loading/loading.component';
 
 @Component({
   selector: 'app-trapezio',
   standalone: true,
-  imports: [CommonModule, HttpClientModule, FormsModule, RouterModule],
+  imports: [CommonModule, HttpClientModule, FormsModule, RouterModule, LoadingComponent],
   templateUrl: './trapezio.component.html',
   styleUrl: './trapezio.component.css',
   providers: [TrapezioService]
@@ -39,7 +40,7 @@ exercises: any[] = [];
     );
   }
 
-  // Função para normalizar texto: remove acentos e caracteres especiais
+  // Função para normalizar  remove acentos e caracteres especiais
   normalizeText(text: string): string {
     return text
       .normalize('NFD')

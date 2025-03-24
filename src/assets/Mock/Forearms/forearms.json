@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Exercício: Remada Unilateral com Haltere",
+        "name": " Remada Unilateral com Haltere",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -56,7 +56,7 @@
     },
     {
         "id": "2",
-        "name": "Exercício: Rosca Reversa com Barra",
+        "name": " Rosca Reversa com Barra",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -112,7 +112,7 @@
     },
     {
         "id": "3",
-        "name": "Exercício: Rosca Inversa com Halteres",
+        "name": " Rosca Inversa com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -168,7 +168,7 @@
     },
     {
         "id": "4",
-        "name": "Exercício: Flexões de Braço de Queixo",
+        "name": " Flexões de Braço de Queixo",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -215,7 +215,7 @@
     },
     {
         "id": "5",
-        "name": "Exercício: Levantamento de Kettlebell para Fazendeiros",
+        "name": " Levantamento de Kettlebell para Fazendeiros",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -269,7 +269,7 @@
     },
     {
         "id": "6",
-        "name": "Exercício: Remada Invertida",
+        "name": " Remada Invertida",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -317,7 +317,7 @@
     },
     {
         "id": "7",
-        "name": "Exercício: Remada Curvada com Barra",
+        "name": " Remada Curvada com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -375,7 +375,7 @@
     },
     {
         "id": "8",
-        "name": "Exercício: Variação Um do Alongamento de Antebraços",
+        "name": " Variação Um do Alongamento de Antebraços",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -422,7 +422,7 @@
     },
     {
         "id": "9",
-        "name": "Exercício: Rosca de Pulso com Haltere",
+        "name": " Rosca de Pulso com Haltere",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -470,7 +470,7 @@
     },
     {
         "id": "10",
-        "name": "Exercício: Variação Três do Alongamento dos Antebraços",
+        "name": " Variação Três do Alongamento dos Antebraços",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -516,7 +516,7 @@
     },
     {
         "id": "11",
-        "name": "Exercício: Variação Dois do Alongamento dos Antebraços",
+        "name": " Variação Dois do Alongamento dos Antebraços",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -564,7 +564,7 @@
     },
     {
         "id": "12",
-        "name": "Exercício: Variação Quatro do Alongamento de Antebraços",
+        "name": " Variação Quatro do Alongamento de Antebraços",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -609,7 +609,7 @@
     },
     {
         "id": "13",
-        "name": "Exercício: Rosca de Punho com Barra",
+        "name": " Rosca de Punho com Barra",
         "level": "Novato",
         "execution_type": "Barra",
         "videos": [
@@ -662,7 +662,7 @@
     },
     {
         "id": "14",
-        "name": "Exercício: Rosca de Pulso com Barra Atrás das Costas",
+        "name": " Rosca de Pulso com Barra Atrás das Costas",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -712,7 +712,7 @@
     },
     {
         "id": "15",
-        "name": "Exercício: Extensão de Pulso com Haltere",
+        "name": " Extensão de Pulso com Haltere",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -765,7 +765,7 @@
     },
     {
         "id": "16",
-        "name": "Exercício: Flexão de Pulso com Kettlebell",
+        "name": " Flexão de Pulso com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -811,7 +811,7 @@
     },
     {
         "id": "17",
-        "name": "Exercício: Extensão de Punho com Cabo",
+        "name": " Extensão de Punho com Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -860,7 +860,7 @@
     },
     {
         "id": "18",
-        "name": "Exercício: Caminhada do Fazendeiro com Halteres",
+        "name": " Caminhada do Fazendeiro com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -914,7 +914,7 @@
     },
     {
         "id": "19",
-        "name": "Exercício: Rosca de Punho com Cabo",
+        "name": " Rosca de Punho com Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -960,7 +960,7 @@
     },
     {
         "id": "20",
-        "name": "Exercício: Extensão de Pulso com Kettlebell",
+        "name": " Extensão de Pulso com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1007,7 +1007,7 @@
     },
     {
         "id": "21",
-        "name": "Exercício: Remada com Kettlebell (Individual)",
+        "name": " Remada com Kettlebell (Individual)",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1054,7 +1054,7 @@
     },
     {
         "id": "22",
-        "name": "Exercício: Remada com Kettlebell de Um Braço",
+        "name": " Remada com Kettlebell de Um Braço",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1102,7 +1102,7 @@
     },
     {
         "id": "23",
-        "name": "Exercício: Rosca Invertida com Cabo com um Braço",
+        "name": " Rosca Invertida com Cabo com um Braço",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1150,7 +1150,7 @@
     },
     {
         "id": "24",
-        "name": "Exercício: Rosca Mista de Martelo com Elástico da Band Bayesian",
+        "name": " Rosca Mista de Martelo com Elástico da Band Bayesian",
         "level": "Intermediário",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -1200,7 +1200,7 @@
     },
     {
         "id": "25",
-        "name": "Exercício: Levantamento Terra com Pegada de Preensão de Placa",
+        "name": " Levantamento Terra com Pegada de Preensão de Placa",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1256,7 +1256,7 @@
     },
     {
         "id": "26",
-        "name": "Exercício: Rosca Reversa Bayesiana com Faixa",
+        "name": " Rosca Reversa Bayesiana com Faixa",
         "level": "Iniciante",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -1307,7 +1307,7 @@
     },
     {
         "id": "27",
-        "name": "Exercício: Flexão Lateral com Pegada em Prato",
+        "name": " Flexão Lateral com Pegada em Prato",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1358,7 +1358,7 @@
     },
     {
         "id": "28",
-        "name": "Exercício: Transporte do Fazendeiro com Pegada de Pinça de Placa",
+        "name": " Transporte do Fazendeiro com Pegada de Pinça de Placa",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1409,7 +1409,7 @@
     },
     {
         "id": "29",
-        "name": "Exercício: Remada com Agarre de Pinça de Placa",
+        "name": " Remada com Agarre de Pinça de Placa",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1462,7 +1462,7 @@
     },
     {
         "id": "30",
-        "name": "Exercício: Remada Meadows com Barra",
+        "name": " Remada Meadows com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -1522,7 +1522,7 @@
     },
     {
         "id": "31",
-        "name": "Exercício: Remada Pronada com Barra",
+        "name": " Remada Pronada com Barra",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -1576,7 +1576,7 @@
     },
     {
         "id": "32",
-        "name": "Exercício: Remada com Barra Landmine",
+        "name": " Remada com Barra Landmine",
         "level": "Intermediário",
         "execution_type": "Barra",
         "videos": [
@@ -1627,7 +1627,7 @@
     },
     {
         "id": "33",
-        "name": "Exercício: Rosca Reversa com Faixa Elástica",
+        "name": " Rosca Reversa com Faixa Elástica",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -1675,7 +1675,7 @@
     },
     {
         "id": "34",
-        "name": "Exercício: Rosca Invertida em Inclinação com Halteres",
+        "name": " Rosca Invertida em Inclinação com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -1728,7 +1728,7 @@
     },
     {
         "id": "35",
-        "name": "Exercício: Elevação de Perna Única com Pegada de Pinça na Placa",
+        "name": " Elevação de Perna Única com Pegada de Pinça na Placa",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1776,7 +1776,7 @@
     },
     {
         "id": "36",
-        "name": "Exercício: Rosca Zottman Inclinada com Halteres",
+        "name": " Rosca Zottman Inclinada com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -1827,7 +1827,7 @@
     },
     {
         "id": "37",
-        "name": "Exercício: Rosca Reversa com Kettlebell",
+        "name": " Rosca Reversa com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1875,7 +1875,7 @@
     },
     {
         "id": "38",
-        "name": "Exercício: Rosca Invertida com Banda",
+        "name": " Rosca Invertida com Banda",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1928,7 +1928,7 @@
     },
     {
         "id": "39",
-        "name": "Exercício: TRX Rosca Reversa",
+        "name": " TRX Rosca Reversa",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1981,7 +1981,7 @@
     },
     {
         "id": "40",
-        "name": "Exercício: Levantamento Terra com Pegada em Pinça e Peso Deslocado",
+        "name": " Levantamento Terra com Pegada em Pinça e Peso Deslocado",
         "level": "Avançado",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2034,7 +2034,7 @@
     },
     {
         "id": "41",
-        "name": "Exercício: Rosca Reversa Bayesiana com Cabo",
+        "name": " Rosca Reversa Bayesiana com Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -2087,7 +2087,7 @@
     },
     {
         "id": "42",
-        "name": "Exercício: Rosca Reversa Sentada com Cabo no Estilo Bayesiano",
+        "name": " Rosca Reversa Sentada com Cabo no Estilo Bayesiano",
         "level": "Intermediário",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -2134,7 +2134,7 @@
     },
     {
         "id": "43",
-        "name": "Exercício: Rosca com Pegada Inversa na Barra do Cabo",
+        "name": " Rosca com Pegada Inversa na Barra do Cabo",
         "level": "Novato",
         "execution_type": "Barra",
         "videos": [
@@ -2185,7 +2185,7 @@
     },
     {
         "id": "44",
-        "name": "Exercício: Rosca de Pulso com Haltere no Banco",
+        "name": " Rosca de Pulso com Haltere no Banco",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -2232,7 +2232,7 @@
     },
     {
         "id": "45",
-        "name": "Exercício: Marcha do Agricultor com Kettlebell",
+        "name": " Marcha do Agricultor com Kettlebell",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2284,7 +2284,7 @@
     },
     {
         "id": "46",
-        "name": "Exercício: Rosca de Pulso no Banco com Kettlebell",
+        "name": " Rosca de Pulso no Banco com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2335,7 +2335,7 @@
     },
     {
         "id": "47",
-        "name": "Exercício: Caminhada com Levantamento de Kettlebell",
+        "name": " Caminhada com Levantamento de Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2388,7 +2388,7 @@
     },
     {
         "id": "48",
-        "name": "Exercício: Marcha do Fazendeiro com Kettlebell em um Único Braço",
+        "name": " Marcha do Fazendeiro com Kettlebell em um Único Braço",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2437,7 +2437,7 @@
     },
     {
         "id": "49",
-        "name": "Exercício: Remada com Kettlebell de Braço Único no Banco",
+        "name": " Remada com Kettlebell de Braço Único no Banco",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2489,7 +2489,7 @@
     },
     {
         "id": "50",
-        "name": "Exercício: Remada Invertida na Máquina Smith",
+        "name": " Remada Invertida na Máquina Smith",
         "level": "Iniciante",
         "execution_type": "Máquina",
         "videos": [
@@ -2540,7 +2540,7 @@
     },
     {
         "id": "51",
-        "name": "Exercício: Remada com Kettlebell",
+        "name": " Remada com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2591,7 +2591,7 @@
     },
     {
         "id": "52",
-        "name": "Exercício: Caminhada do Fazendeiro com Kettlebell de Um Braço Só",
+        "name": " Caminhada do Fazendeiro com Kettlebell de Um Braço Só",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -2646,7 +2646,7 @@
     },
     {
         "id": "53",
-        "name": "Exercício: Remada Invertida em Pé com Peso Corporal",
+        "name": " Remada Invertida em Pé com Peso Corporal",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2698,7 +2698,7 @@
     },
     {
         "id": "54",
-        "name": "Exercício: Remada Invertida com Pegada Pronada Corporal",
+        "name": " Remada Invertida com Pegada Pronada Corporal",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2752,7 +2752,7 @@
     },
     {
         "id": "55",
-        "name": "Exercício: Remada Invertida com Pegada Supinada Usando o Peso do Corpo",
+        "name": " Remada Invertida com Pegada Supinada Usando o Peso do Corpo",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2805,7 +2805,7 @@
     },
     {
         "id": "56",
-        "name": "Exercício: Remada Invertida com Peso em Disco",
+        "name": " Remada Invertida com Peso em Disco",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2861,7 +2861,7 @@
     },
     {
         "id": "57",
-        "name": "Exercício: Barra com peso",
+        "name": " Barra com peso",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -2907,7 +2907,7 @@
     },
     {
         "id": "58",
-        "name": "Exercício: Rosca Inclinada Reversa com Apoio no Banco e Halteres",
+        "name": " Rosca Inclinada Reversa com Apoio no Banco e Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -2957,7 +2957,7 @@
     },
     {
         "id": "59",
-        "name": "Exercício: Pendurado Inerte",
+        "name": " Pendurado Inerte",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3003,7 +3003,7 @@
     },
     {
         "id": "60",
-        "name": "Exercício: Rosca Inclinada Reversa com Apoio no Banco e Halteres com Um Braço",
+        "name": " Rosca Inclinada Reversa com Apoio no Banco e Halteres com Um Braço",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -3053,7 +3053,7 @@
     },
     {
         "id": "61",
-        "name": "Exercício: Remada Longa com Barra na Landmine",
+        "name": " Remada Longa com Barra na Landmine",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -3113,7 +3113,7 @@
     },
     {
         "id": "62",
-        "name": "Exercício: Variação 3 da Postura da Mesa Superior",
+        "name": " Variação 3 da Postura da Mesa Superior",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3171,7 +3171,7 @@
     },
     {
         "id": "63",
-        "name": "Exercício: Variação 2 da Postura da Mesa",
+        "name": " Variação 2 da Postura da Mesa",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3224,7 +3224,7 @@
     },
     {
         "id": "64",
-        "name": "Exercício: Variação 1 da Posição de Mesa",
+        "name": " Variação 1 da Posição de Mesa",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3280,7 +3280,7 @@
     },
     {
         "id": "65",
-        "name": "Exercício: Levantamento Terra Romeno Vitruviano",
+        "name": " Levantamento Terra Romeno Vitruviano",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3333,7 +3333,7 @@
     },
     {
         "id": "66",
-        "name": "Exercício: Remada com Bola Bosu",
+        "name": " Remada com Bola Bosu",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -3381,7 +3381,7 @@
     },
     {
         "id": "67",
-        "name": "Exercício: Variação 1 do Vajrasana",
+        "name": " Variação 1 do Vajrasana",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3435,7 +3435,7 @@
     },
     {
         "id": "68",
-        "name": "Exercício: Rosca Martelo Vitruviana",
+        "name": " Rosca Martelo Vitruviana",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3483,7 +3483,7 @@
     },
     {
         "id": "69",
-        "name": "Exercício: Texto: Estabilização Cruzada do Núcleo Unilateral Carga de Kettlebell",
+        "name": "  Estabilização Cruzada do Núcleo Unilateral Carga de Kettlebell",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -3534,7 +3534,7 @@
     },
     {
         "id": "70",
-        "name": "Exercício: Rosca Reversa com Kettlebell de Um Braço Só",
+        "name": " Rosca Reversa com Kettlebell de Um Braço Só",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -3590,7 +3590,7 @@
     },
     {
         "id": "71",
-        "name": "Exercício: Remada Alternada com Kettlebell",
+        "name": " Remada Alternada com Kettlebell",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -3642,7 +3642,7 @@
     },
     {
         "id": "72",
-        "name": "Exercício: Rosca de Pulso com Haltere em Banco com Um Braço",
+        "name": " Rosca de Pulso com Haltere em Banco com Um Braço",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -3690,7 +3690,7 @@
     },
     {
         "id": "73",
-        "name": "Exercício: Alongamento Sentado do Extensor do Pulso",
+        "name": " Alongamento Sentado do Extensor do Pulso",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3740,7 +3740,7 @@
     },
     {
         "id": "74",
-        "name": "Exercício: Mobilização do Extensor do Punho",
+        "name": " Mobilização do Extensor do Punho",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3792,7 +3792,7 @@
     },
     {
         "id": "75",
-        "name": "Exercício: Texto: Segurando o Extensor do Pulso ajoelhado",
+        "name": "  Segurando o Extensor do Pulso ajoelhado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3838,7 +3838,7 @@
     },
     {
         "id": "76",
-        "name": "Exercício: Desvios Ulnares",
+        "name": " Desvios Ulnares",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -3885,7 +3885,7 @@
     },
     {
         "id": "77",
-        "name": "Exercício: Texto: Rosca Direta no Scott com Barra EZ Invertida",
+        "name": "  Rosca Direta no Scott com Barra EZ Invertida",
         "level": "Novato",
         "execution_type": "Barra",
         "videos": [
@@ -3929,7 +3929,7 @@
     },
     {
         "id": "78",
-        "name": "Exercício: Supinações e Pronações de Pulso com Haltere",
+        "name": " Supinações e Pronações de Pulso com Haltere",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -3978,7 +3978,7 @@
     },
     {
         "id": "79",
-        "name": "Exercício: Alongamento do Flexor do Pulso Sentado",
+        "name": " Alongamento do Flexor do Pulso Sentado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4028,7 +4028,7 @@
     },
     {
         "id": "80",
-        "name": "Exercício: Suspensão com Peso",
+        "name": " Suspensão com Peso",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4083,7 +4083,7 @@
     },
     {
         "id": "81",
-        "name": "Exercício: Elevação em L Sentado",
+        "name": " Elevação em L Sentado",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -4138,7 +4138,7 @@
     },
     {
         "id": "82",
-        "name": "Exercício: Flexões na barra com peso de halteres",
+        "name": " Flexões na barra com peso de halteres",
         "level": "Avançado",
         "execution_type": "Barra",
         "videos": [
@@ -4192,7 +4192,7 @@
     },
     {
         "id": "83",
-        "name": "Exercício: Elevação de queixo em posição L",
+        "name": " Elevação de queixo em posição L",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [

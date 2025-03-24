@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Exercício: Puxada Facial com Corda de Cabo",
+        "name": " Puxada Facial com Corda de Cabo",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -49,7 +49,7 @@
     },
     {
         "id": "2",
-        "name": "Exercício: Afastamento com Elástico",
+        "name": " Afastamento com Elástico",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -100,7 +100,7 @@
     },
     {
         "id": "3",
-        "name": "Exercício: Elevação Posterior de Deltoides Sentado com Halteres",
+        "name": " Elevação Posterior de Deltoides Sentado com Halteres",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -151,7 +151,7 @@
     },
     {
         "id": "4",
-        "name": "Exercício: Texto: Máquina de Voo Reverso",
+        "name": "  Máquina de Voo Reverso",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -192,7 +192,7 @@
     },
     {
         "id": "5",
-        "name": "Exercício: Levantamento Posterior de Ombro com Halteres",
+        "name": " Levantamento Posterior de Ombro com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -243,7 +243,7 @@
     },
     {
         "id": "6",
-        "name": "Exercício: Voo Traseiro de Deltóide com Cabo e Braço Único em Altura Elevada",
+        "name": " Voo Traseiro de Deltóide com Cabo e Braço Único em Altura Elevada",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -295,7 +295,7 @@
     },
     {
         "id": "7",
-        "name": "Exercício: Puxada de Faixa para o Rosto",
+        "name": " Puxada de Faixa para o Rosto",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -343,7 +343,7 @@
     },
     {
         "id": "8",
-        "name": "Exercício: Remada Posterior com Halteres",
+        "name": " Remada Posterior com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -399,7 +399,7 @@
     },
     {
         "id": "9",
-        "name": "Exercício: Voo Posterior do Deltoide com Kettlebell em um Braço Só",
+        "name": " Voo Posterior do Deltoide com Kettlebell em um Braço Só",
         "level": "Intermediário",
         "execution_type": "Kettlebell",
         "videos": [
@@ -447,7 +447,7 @@
     },
     {
         "id": "10",
-        "name": "Exercício: Remada Traseira de Deltoide com Kettlebell",
+        "name": " Remada Traseira de Deltoide com Kettlebell",
         "level": "Novato",
         "execution_type": "Kettlebell",
         "videos": [
@@ -494,7 +494,7 @@
     },
     {
         "id": "11",
-        "name": "Exercício: Variação Dois do Alongamento de Ombros",
+        "name": " Variação Dois do Alongamento de Ombros",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -548,7 +548,7 @@
     },
     {
         "id": "12",
-        "name": "Exercício: Variação Quatro do Alongamento dos Ombros",
+        "name": " Variação Quatro do Alongamento dos Ombros",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -596,7 +596,7 @@
     },
     {
         "id": "13",
-        "name": "Exercício: Puxada Alta de Rosto com Faixa",
+        "name": " Puxada Alta de Rosto com Faixa",
         "level": "Novato",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -647,7 +647,7 @@
     },
     {
         "id": "14",
-        "name": "Exercício: Levantamento Posterior de Deltóide com Banda Elástica",
+        "name": " Levantamento Posterior de Deltóide com Banda Elástica",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -694,7 +694,7 @@
     },
     {
         "id": "15",
-        "name": "Exercício: Crucifixo Invertido deitado com rotação interna com Halteres",
+        "name": " Crucifixo Invertido deitado com rotação interna com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -742,7 +742,7 @@
     },
     {
         "id": "16",
-        "name": "Exercício: Abertura Invertida de Halteres Deitado",
+        "name": " Abertura Invertida de Halteres Deitado",
         "level": "Novato",
         "execution_type": "Halteres",
         "videos": [
@@ -793,7 +793,7 @@
     },
     {
         "id": "17",
-        "name": "Exercício: TRX Voo Posterior Deltoide",
+        "name": " TRX Voo Posterior Deltoide",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -840,7 +840,7 @@
     },
     {
         "id": "18",
-        "name": "Exercício: Levantamento Posterior de Deltoides com Anilha",
+        "name": " Levantamento Posterior de Deltoides com Anilha",
         "level": "Iniciante",
         "execution_type": "Anilhas",
         "videos": [
@@ -893,7 +893,7 @@
     },
     {
         "id": "19",
-        "name": "Exercício: TRX Remada para Deltóide Posterior",
+        "name": " TRX Remada para Deltóide Posterior",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -943,7 +943,7 @@
     },
     {
         "id": "20",
-        "name": "Exercício: Levantamento Posterior de Deltoide com Rotação Interna e Prato",
+        "name": " Levantamento Posterior de Deltoide com Rotação Interna e Prato",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -997,7 +997,7 @@
     },
     {
         "id": "21",
-        "name": "Exercício: TRX Elevação em W",
+        "name": " TRX Elevação em W",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1053,7 +1053,7 @@
     },
     {
         "id": "22",
-        "name": "Exercício: Remada Supinada com Cabo",
+        "name": " Remada Supinada com Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1102,7 +1102,7 @@
     },
     {
         "id": "23",
-        "name": "Exercício: Voo Posterior Deltoide Sentado com Rotação Interna",
+        "name": " Voo Posterior Deltoide Sentado com Rotação Interna",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1159,7 +1159,7 @@
     },
     {
         "id": "24",
-        "name": "Exercício: Remada Posterior com Kettlebell (Dupla)",
+        "name": " Remada Posterior com Kettlebell (Dupla)",
         "level": "Iniciante",
         "execution_type": "Kettlebell",
         "videos": [
@@ -1214,7 +1214,7 @@
     },
     {
         "id": "25",
-        "name": "Exercício: Puxada de Rosto ajoelhado com Corda de Cabo",
+        "name": " Puxada de Rosto ajoelhado com Corda de Cabo",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1265,7 +1265,7 @@
     },
     {
         "id": "26",
-        "name": "Exercício: Crucifixo Invertido com Rotação Interna em Cabo Alto",
+        "name": " Crucifixo Invertido com Rotação Interna em Cabo Alto",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1314,7 +1314,7 @@
     },
     {
         "id": "27",
-        "name": "Exercício: Cabo de Voo Reverso Alto",
+        "name": " Cabo de Voo Reverso Alto",
         "level": "Novato",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1368,7 +1368,7 @@
     },
     {
         "id": "28",
-        "name": "Exercício: Remada Traseira com Halteres Sentado",
+        "name": " Remada Traseira com Halteres Sentado",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -1421,7 +1421,7 @@
     },
     {
         "id": "29",
-        "name": "Exercício: Remada para Deltoides Posterior na Máquina",
+        "name": " Remada para Deltoides Posterior na Máquina",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -1475,7 +1475,7 @@
     },
     {
         "id": "30",
-        "name": "Exercício: Voador Invertido com Anel",
+        "name": " Voador Invertido com Anel",
         "level": "Intermediário",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1524,7 +1524,7 @@
     },
     {
         "id": "31",
-        "name": "Exercício: Máquina de Remada Baixa com Carga por Placas",
+        "name": " Máquina de Remada Baixa com Carga por Placas",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -1577,7 +1577,7 @@
     },
     {
         "id": "32",
-        "name": "Exercício: Levantamento Posterior de Deltóide com Rotação Interna do Haltere",
+        "name": " Levantamento Posterior de Deltóide com Rotação Interna do Haltere",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -1629,7 +1629,7 @@
     },
     {
         "id": "33",
-        "name": "Exercício: Remada com Máquina em Pegada Supinada",
+        "name": " Remada com Máquina em Pegada Supinada",
         "level": "Novato",
         "execution_type": "Máquina",
         "videos": [
@@ -1681,7 +1681,7 @@
     },
     {
         "id": "34",
-        "name": "Exercício: Ys",
+        "name": " Ys",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1730,7 +1730,7 @@
     },
     {
         "id": "35",
-        "name": "Exercício: Polichinelos com Movimentos Laterais de Cardio",
+        "name": " Polichinelos com Movimentos Laterais de Cardio",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1785,7 +1785,7 @@
     },
     {
         "id": "36",
-        "name": "Exercício: Posição do Filhote",
+        "name": " Posição do Filhote",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1833,7 +1833,7 @@
     },
     {
         "id": "37",
-        "name": "Exercício: Halo com Bola Medicinal",
+        "name": " Halo com Bola Medicinal",
         "level": "Iniciante",
         "execution_type": "Bola Suíça",
         "videos": [
@@ -1881,7 +1881,7 @@
     },
     {
         "id": "38",
-        "name": "Exercício: Vitruvian Elevação Posterior dos Ombros",
+        "name": " Vitruvian Elevação Posterior dos Ombros",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -1932,7 +1932,7 @@
     },
     {
         "id": "39",
-        "name": "Exercício: Remada de Arco com Cabo",
+        "name": " Remada de Arco com Cabo",
         "level": "Intermediário",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -1983,7 +1983,7 @@
     },
     {
         "id": "40",
-        "name": "Exercício: Remada Posterior de Ombro com Cabo e Um Braço",
+        "name": " Remada Posterior de Ombro com Cabo e Um Braço",
         "level": "Avançado",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -2031,7 +2031,7 @@
     },
     {
         "id": "41",
-        "name": "Exercício: Círculo para Trás com o Braço",
+        "name": " Círculo para Trás com o Braço",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2079,7 +2079,7 @@
     },
     {
         "id": "42",
-        "name": "Exercício: Rotação Externa do Ombro com Halteres",
+        "name": " Rotação Externa do Ombro com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -2124,7 +2124,7 @@
     },
     {
         "id": "43",
-        "name": "Exercício: Círculo para Frente com o Braço",
+        "name": " Círculo para Frente com o Braço",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2170,7 +2170,7 @@
     },
     {
         "id": "44",
-        "name": "Exercício: Rosca Alta Reversa com Rotação Interna de Braço Único no Cabo",
+        "name": " Rosca Alta Reversa com Rotação Interna de Braço Único no Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
@@ -2192,7 +2192,7 @@
     },
     {
         "id": "45",
-        "name": "Exercício: Rotação Alternada de Poste",
+        "name": " Rotação Alternada de Poste",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2250,7 +2250,7 @@
     },
     {
         "id": "46",
-        "name": "Exercício: Texto: Alongamento de Rotação Externa do Ombro e Latíssimo do Dorso 2 Ajoelhado com Bastão",
+        "name": "  Alongamento de Rotação Externa do Ombro e Latíssimo do Dorso 2 Ajoelhado com Bastão",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2298,7 +2298,7 @@
     },
     {
         "id": "47",
-        "name": "Exercício: Faixa de Cardio com Movimentos Reversos de Voo e Polichinelos",
+        "name": " Faixa de Cardio com Movimentos Reversos de Voo e Polichinelos",
         "level": "Iniciante",
         "execution_type": "Faixa Elástica",
         "videos": [
@@ -2349,7 +2349,7 @@
     },
     {
         "id": "48",
-        "name": "Exercício: Rotação na Barra",
+        "name": " Rotação na Barra",
         "level": "Iniciante",
         "execution_type": "Barra",
         "videos": [
@@ -2401,7 +2401,7 @@
     },
     {
         "id": "49",
-        "name": "Exercício: Abertura de Quadril",
+        "name": " Abertura de Quadril",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2449,7 +2449,7 @@
     },
     {
         "id": "50",
-        "name": "Exercício: Texto: Alongamento de Rotação Externa dos Ombros e Latíssimos do Dorso 3 com Bastão ajoelhado",
+        "name": "  Alongamento de Rotação Externa dos Ombros e Latíssimos do Dorso 3 com Bastão ajoelhado",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2501,7 +2501,7 @@
     },
     {
         "id": "51",
-        "name": "Exercício: Texto: Alongamento de Rotação Externa de Ombros e Costas 1 Ajoelhado com Bastão",
+        "name": "  Alongamento de Rotação Externa de Ombros e Costas 1 Ajoelhado com Bastão",
         "level": "Iniciante",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2541,7 +2541,7 @@
     },
     {
         "id": "52",
-        "name": "Exercício: Letra T Deitada",
+        "name": " Letra T Deitada",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2597,7 +2597,7 @@
     },
     {
         "id": "53",
-        "name": "Exercício: Elevação Alternada de Deltoides Posterior com Halteres",
+        "name": " Elevação Alternada de Deltoides Posterior com Halteres",
         "level": "Intermediário",
         "execution_type": "Halteres",
         "videos": [
@@ -2647,7 +2647,7 @@
     },
     {
         "id": "54",
-        "name": "Exercício: Elevação Posterior de Deltoides na Banco com Halteres",
+        "name": " Elevação Posterior de Deltoides na Banco com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -2697,7 +2697,7 @@
     },
     {
         "id": "55",
-        "name": "Exercício: Anjos de Parede",
+        "name": " Anjos de Parede",
         "level": "Novato",
         "execution_type": "Peso Corporal",
         "videos": [
@@ -2748,7 +2748,7 @@
     },
     {
         "id": "56",
-        "name": "Exercício: Rotação Externa com Halteres",
+        "name": " Rotação Externa com Halteres",
         "level": "Iniciante",
         "execution_type": "Halteres",
         "videos": [
@@ -2796,7 +2796,7 @@
     },
     {
         "id": "57",
-        "name": "Exercício: Rotação Externa com Cabo",
+        "name": " Rotação Externa com Cabo",
         "level": "Iniciante",
         "execution_type": "Máquina (Cabo)",
         "videos": [
