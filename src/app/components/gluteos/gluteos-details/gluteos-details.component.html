@@ -1,101 +1,265 @@
+<app-loading [isLoading]="isLoading"></app-loading>
 
+
+<!-- Botão Voltar -->
 <button class="back-button" routerLink="/Glúteos">Voltar</button>
-<div *ngIf="exercise; else notFound" class="exercise-card">
-   
-    <!-- Nome do Exercício -->
-    <h1>{{ cleanExerciseName(exercise.name) }}</h1>
-  
-    <!-- Nível e Tipo de Execução -->
-    <div class="exercise-info">
-      <p><strong>Nível:</strong> {{ exercise.level }}</p>
-      <p><strong>Tipo de Execução:</strong> {{ exercise.execution_type }}</p>
+
+<div *ngIf="exercise" class="exercise-container">
+  <!-- Cabeçalho com título e ações -->
+  <div class="header">
+    <h1>{{ exercise.name }}</h1>
+    <div class="header-actions">
+      <button class="edit-button" (click)="openEditModal()">Editar</button>
+      <div class="toggle-container">
+        <span class="status-text">{{ isActivated ? 'Ativado' : 'Desativado' }}</span>
+        <label class="toggle-switch">
+          <input type="checkbox" [(ngModel)]="isActivated" (change)="onToggleChange()">
+          <span class="slider"></span>
+        </label>
+      </div>
     </div>
-  
+  </div>
+
+  <!-- Menu de abas -->
+  <div class="tab-menu">
+    <button 
+      class="tab-button" 
+      [class.active]="activeTab === 'exercise'" 
+      (click)="switchTab('exercise')">
+      Exercício
+    </button>
+    <button 
+      class="tab-button" 
+      [class.active]="activeTab === 'history'" 
+      (click)="switchTab('history')">
+      Histórico
+    </button>
+  </div>
+
+  <!-- Conteúdo da aba Exercício -->
+  <div *ngIf="activeTab === 'exercise'" class="tab-content">
     <!-- Vídeos Demonstrativos -->
-    <div class="videos-section" *ngIf="exercise.videos.length > 0">
+    <div class="videos-section" *ngIf="exercise.videos && exercise.videos.length > 0">
       <h2>Vídeos Demonstrativos</h2>
       <div class="video-list">
         <video
-        *ngFor="let video of exercise.videos"
-        controls
-        autoplay
-        muted
-        playsinline
-        width="340"
-        height="260"
-      >
-        <source [src]="video" type="video/mp4">
-        Seu navegador não suporta o elemento de vídeo.
-      </video>
+          *ngFor="let video of getVideoUrls(exercise.videos)"
+          controls
+          autoplay
+          muted
+          playsinline
+          width="340"
+          height="260"
+        >
+          <source [src]="video" type="video/mp4" />
+          Seu navegador não suporta o elemento de vídeo.
+        </video>
       </div>
     </div>
-  
+
+    <!-- Nível e Tipo de Execução -->
+    <div class="exercise-info">
+      <p><strong>Nível:</strong> {{ exercise.level }}</p>
+      <p><strong>Tipo de Execução:</strong> {{ exercise.executionType }}</p>
+    </div>
+
     <!-- Dicas -->
-    <div class="tips-section" *ngIf="exercise.tips.length > 0">
+    <div class="tips-section" *ngIf="exercise.tips">
       <h2>Dicas</h2>
       <ul>
-        <li *ngFor="let tip of exercise.tips">{{ tip }}</li>
+        <li *ngFor="let tip of formatText(exercise.tips)">{{ tip }}</li>
       </ul>
     </div>
-  
+
     <!-- O Que É -->
-    <div class="what-is-section" *ngIf="exercise.what_is.length > 0">
+    <div class="what-is-section" *ngIf="exercise.whatIs">
       <h2>O Que É?</h2>
       <ul>
-        <li *ngFor="let item of exercise.what_is">{{ item }}</li>
+        <li *ngFor="let item of formatText(exercise.whatIs)">{{ item }}</li>
       </ul>
     </div>
-  
+
     <!-- Como Executar -->
-    <div class="execution-section" *ngIf="exercise.how_to_execute.length > 0">
+    <div class="execution-section" *ngIf="exercise.howToExecute">
       <h2>Como Executar</h2>
       <ol>
-        <li *ngFor="let step of exercise.how_to_execute">{{ step }}</li>
+        <li *ngFor="let step of formatText(exercise.howToExecute)">{{ step }}</li>
       </ol>
     </div>
-  
+
     <!-- Por Que Fazer -->
-    <div class="why-do-it-section" *ngIf="exercise.why_do_it.length > 0">
+    <div class="why-do-it-section" *ngIf="exercise.whyDoIt">
       <h2>Por Que Fazer?</h2>
       <ul>
-        <li *ngFor="let reason of exercise.why_do_it">{{ reason }}</li>
+        <li *ngFor="let reason of formatText(exercise.whyDoIt)">{{ reason }}</li>
       </ul>
     </div>
-  
+
     <!-- Precauções -->
-    <div class="precautions-section" *ngIf="exercise.precautions.length > 0">
+    <div class="precautions-section" *ngIf="exercise.precautions">
       <h2>Precauções</h2>
       <ul>
-        <li *ngFor="let precaution of exercise.precautions">{{ precaution }}</li>
+        <li *ngFor="let precaution of formatText(exercise.precautions)">{{ precaution }}</li>
       </ul>
     </div>
-  
+
     <!-- Restrições -->
-    <div class="restrictions-section" *ngIf="exercise.restrictions.length > 0">
+    <div class="restrictions-section" *ngIf="exercise.restrictions">
       <h2>Restrições</h2>
       <ul>
-        <li *ngFor="let restriction of exercise.restrictions">{{ restriction }}</li>
+        <li *ngFor="let restriction of formatText(exercise.restrictions)">{{ restriction }}</li>
       </ul>
     </div>
-  
+
     <!-- Substituições -->
-    <div class="substitutions-section" *ngIf="exercise.substitutions.length > 0">
+    <div class="substitutions-section" *ngIf="exercise.substitutions">
       <h2>Substituições</h2>
       <ul>
-        <li *ngFor="let substitution of exercise.substitutions">{{ substitution }}</li>
+        <li *ngFor="let substitution of formatText(exercise.substitutions)">{{ substitution }}</li>
       </ul>
     </div>
-  
+
     <!-- Músculos Relacionados -->
-    <div class="related-muscles-section" *ngIf="exercise.related_muscles.length > 0">
+    <div class="related-muscles-section" *ngIf="exercise.relatedMuscles">
       <h2>Músculos Relacionados</h2>
       <ul>
-        <li *ngFor="let muscle of exercise.related_muscles">{{ muscle }}</li>
+        <li *ngFor="let muscle of formatText(exercise.relatedMuscles)">{{ muscle }}</li>
       </ul>
     </div>
   </div>
-  
-  <!-- Mensagem de Erro -->
-  <ng-template #notFound>
-    <p class="not-found">Exercício não encontrado.</p>
-  </ng-template>
+
+  <!-- Conteúdo da aba Histórico -->
+  <div *ngIf="activeTab === 'history'" class="tab-content">
+    <div class="history-section" *ngIf="history && history.length > 0">
+      <h2>Histórico de Alterações</h2>
+      <div class="table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Nome</th>
+              <th>CPF</th>
+              <th>Data</th>
+              <th>Ação</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let log of history">
+              <td>{{ log.name }}</td>
+              <td>{{ log.user }}</td>
+              <td>{{ log.date }}</td>
+              <td>
+                <span [class.active-status]="log.status === 'active'" 
+                      [class.inactive-status]="log.status === 'inactive'"
+                      [class.edit-status]="log.status === 'edited'">
+                  {{ getStatusText(log.status) }}
+                </span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div *ngIf="history.length === 0" class="no-history">
+      <p>Nenhum registro de histórico encontrado para este exercício.</p>
+    </div>
+  </div>
+</div>
+
+<!-- Modal de Edição -->
+<div class="modal" *ngIf="showEditModal">
+  <div class="modal-content large-modal">
+    <h2>Editar Exercício</h2>
+    
+    <div class="form-group">
+      <label>Nome:</label>
+      <input type="text" [(ngModel)]="editData.name" />
+    </div>
+    
+    <div class="form-group">
+      <label>Nível:</label>
+      <select [(ngModel)]="editData.level">
+        <option value="Novato">Novato</option>
+        <option value="Iniciante">Iniciante</option>
+        <option value="Intermediário">Intermediário</option>
+        <option value="Avançado">Avançado</option>
+      </select>
+    </div>
+    
+    <div class="form-group">
+      <label>Tipo de Execução:</label>
+      <input type="text" [(ngModel)]="editData.executionType" />
+    </div>
+    
+    <div class="form-group">
+      <label>Vídeos (um por linha):</label>
+      <textarea [(ngModel)]="editData.videos" rows="4"></textarea>
+    </div>
+    
+    <div class="form-group">
+      <label>Dicas (uma por linha):</label>
+      <textarea [(ngModel)]="editData.tips" rows="4"></textarea>
+    </div>
+    
+    <div class="form-group">
+      <label>O Que É (um item por linha):</label>
+      <textarea [(ngModel)]="editData.whatIs" rows="4"></textarea>
+    </div>
+    
+    <div class="form-group">
+      <label>Como Executar (um passo por linha):</label>
+      <textarea [(ngModel)]="editData.howToExecute" rows="4"></textarea>
+    </div>
+    
+    <div class="form-group">
+      <label>Por Que Fazer (um item por linha):</label>
+      <textarea [(ngModel)]="editData.whyDoIt" rows="4"></textarea>
+    </div>
+    
+    <div class="form-group">
+      <label>Precauções (uma por linha):</label>
+      <textarea [(ngModel)]="editData.precautions" rows="4"></textarea>
+    </div>
+    
+    <div class="form-group">
+      <label>Restrições (uma por linha):</label>
+      <textarea [(ngModel)]="editData.restrictions" rows="4"></textarea>
+    </div>
+    
+    <div class="form-group">
+      <label>Substituições (uma por linha):</label>
+      <textarea [(ngModel)]="editData.substitutions" rows="4"></textarea>
+    </div>
+    
+    <div class="form-group">
+      <label>Músculos Relacionados (um por linha):</label>
+      <textarea [(ngModel)]="editData.relatedMuscles" rows="4"></textarea>
+    </div>
+    
+    <div class="modal-buttons">
+      <button class="confirm-button" (click)="saveChanges()">Salvar</button>
+      <button class="cancel-button" (click)="closeEditModal()">Cancelar</button>
+    </div>
+  </div>
+</div>
+
+<!-- Modal de CPF -->
+<div class="modal" *ngIf="showCpfModal">
+  <div class="modal-content">
+    <h2>Insira seus Dados</h2>
+    <input type="text" [(ngModel)]="name" placeholder="Digite seu Nome" />
+    <input type="text" [(ngModel)]="cpf" placeholder="Digite seu CPF" appCpfMask (cpfValido)="onCpfValido($event)" />
+    <div *ngIf="cpfInvalido" class="error-message">CPF inválido.</div>
+    <div class="modal-buttons">
+      <button class="confirm-button" (click)="logExerciseChange()">Confirmar</button>
+      <button class="cancel-button" (click)="closeCpfModal()">Cancelar</button>
+    </div>
+  </div>
+</div>
+
+<!-- Modal de Confirmação -->
+<div class="modal" *ngIf="showModal">
+  <div class="modal-content">
+    <p>{{ modalMessage }}</p>
+    <button class="close-button" (click)="closeModal()">Fechar</button>
+  </div>
+</div>
