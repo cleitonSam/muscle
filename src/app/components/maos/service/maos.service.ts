@@ -38,7 +38,7 @@ updateExercise(exerciseData: any): Observable<any> {
   const url = `${this.sheetyApiUrl}/${exerciseData.id}`;
   
   const payload = {
-    maos: exerciseData 
+    mao: exerciseData 
   };
 
   const headers = new HttpHeaders({
