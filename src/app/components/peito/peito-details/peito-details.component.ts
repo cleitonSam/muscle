@@ -183,7 +183,7 @@ exercise: any;
          this.showModal = true;
          setTimeout(() => {
            this.showModal = false;
-           this.router.navigate(['/Panturrilhas']);
+           this.router.navigate(['/Peito']);
          }, 2000);
        },
        error: (err) => {
@@ -229,7 +229,7 @@ exercise: any;
  
    closeModal(): void {
      this.showModal = false;
-     this.router.navigate(['/Panturrilhas']);
+     this.router.navigate(['/Peito']);
    }
  
    cleanExerciseName(name: string): string {
