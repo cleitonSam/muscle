@@ -229,7 +229,7 @@ exercise: any;
  
    closeModal(): void {
      this.showModal = false;
-     this.router.navigate(['/Posterior da coxa']);
+     this.router.navigate(['/Posterior da Coxa']);
    }
  
    cleanExerciseName(name: string): string {
