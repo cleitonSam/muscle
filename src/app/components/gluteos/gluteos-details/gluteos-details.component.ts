@@ -229,7 +229,7 @@ exercise: any;
  
    closeModal(): void {
      this.showModal = false;
-     this.router.navigate(['/Abdômen']);
+     this.router.navigate(['/Glúteos']);
    }
  
    cleanExerciseName(name: string): string {
