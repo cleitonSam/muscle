@@ -223,4 +223,37 @@ html, body {
     color: #515151;
 }
 
+/* Estilo para cards inativos */
+.inactive-card {
+    position: relative;
+    opacity: 0.7;
+    filter: grayscale(70%);
+    background-color: #f5f5f5;
+  }
+  
+  .inactive-card:hover {
+    transform: none !important;
+    box-shadow: 0 0 3rem -1rem rgba(0, 0, 0, 0.5) !important;
+  }
+  
+  .inactive-card .card-image img {
+    opacity: 0.6;
+  }
+  
+  .inactive-label {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 3px 8px;
+    background-color: #999;
+    color: white;
+    border-radius: 4px;
+    font-size: 0.8rem;
+  }
+  
+  /* Mantém o cursor de clique mesmo quando inativo */
+  .inactive-card a {
+    cursor: pointer;
+  }
+
+
 
