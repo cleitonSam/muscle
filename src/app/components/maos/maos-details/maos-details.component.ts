@@ -137,69 +137,76 @@ onCpfValido(isValid: boolean): void {
 }
 
   logExerciseChange(): void {
-    if (!this.cpfValid) {
-      alert('CPF inválido. Por favor, insira um CPF válido (11 dígitos numéricos).');
-      return;
-    }
-  
-    if (!this.name.trim()) {
-      alert('Por favor, insira seu nome completo.');
-      return;
-    }
-  
-    const logData = {
-      name: this.name,
-      user: this.cpf,
-      date: new Date().toISOString(),
-      exerciseId: this.exerciseIdToLog,
-      status: this.isEditing ? 'edited' : this.newStatusToLog,
-    };
-  
-    this.exerciseService.registerLog(logData).subscribe({
-      next: () => {
-        this.closeCpfModal();
-        if (this.isEditing) {
-          this.updateExerciseData();
-        } else {
-          this.updateExerciseStatus();
-        }
-      },
-      error: (err) => {
-        console.error('Erro ao registrar log:', err);
-        alert('Ocorreu um erro ao registrar. Por favor, tente novamente.');
-      },
-    });
+  if (!this.cpfValid) {
+    alert('CPF inválido. Por favor, insira um CPF válido (11 dígitos numéricos).');
+    return;
   }
 
-  updateExerciseStatus(): void {
-    if (!this.exerciseIdToLog || !this.newStatusToLog) return;
+  if (!this.name.trim()) {
+    alert('Por favor, insira seu nome completo.');
+    return;
+  }
 
-    this.isLoading = true;
-    this.exerciseService.updateExerciseStatus(this.exerciseIdToLog, this.newStatusToLog).subscribe({
-      next: (response) => {
-        // Atualiza localmente primeiro para resposta rápida
-        this.exercise.status = this.newStatusToLog;
-        this.isActivated = this.newStatusToLog === 'active';
-        
-        // Recarrega os dados completos do servidor
-        this.loadExerciseDetails();
-        
-        this.modalMessage = `Exercício ${this.newStatusToLog === 'active' ? 'ativado' : 'desativado'} com sucesso!`;
-        this.showModal = true;
-        setTimeout(() => {
-          this.showModal = false;
-        }, 2000);
-      },
-      error: (err) => {
-        console.error('Erro na atualização:', err);
+  // Atualiza o estado local imediatamente
+  if (!this.isEditing) {
+    this.exercise.status = this.newStatusToLog;
+    this.isActivated = this.newStatusToLog === 'active';
+  }
+
+  const logData = {
+    name: this.name,
+    user: this.cpf,
+    date: new Date().toISOString(),
+    exerciseId: this.exerciseIdToLog,
+    status: this.isEditing ? 'edited' : this.newStatusToLog,
+  };
+
+  this.exerciseService.registerLog(logData).subscribe({
+    next: () => {
+      this.closeCpfModal();
+      if (this.isEditing) {
+        this.updateExerciseData();
+      } else {
+        this.updateExerciseStatus();
+      }
+    },
+    error: (err) => {
+      console.error('Erro ao registrar log:', err);
+      // Reverte a mudança local em caso de erro
+      if (!this.isEditing) {
         this.isActivated = !this.isActivated;
         this.exercise.status = this.isActivated ? 'active' : 'inactive';
-        this.modalMessage = 'Erro ao atualizar status.';
-        this.showModal = true;
-        this.isLoading = false;
-      },
-    });
-  }
+      }
+      alert('Ocorreu um erro ao registrar. Por favor, tente novamente.');
+    },
+  });
+}
+
+  updateExerciseStatus(): void {
+  if (!this.exerciseIdToLog || !this.newStatusToLog) return;
+
+  this.isLoading = true;
+  this.exerciseService.updateExerciseStatus(this.exerciseIdToLog, this.newStatusToLog).subscribe({
+    next: (response) => {
+      // Já atualizamos o estado local antes, apenas confirmamos
+      this.modalMessage = `Exercício ${this.newStatusToLog === 'active' ? 'ativado' : 'desativado'} com sucesso!`;
+      this.showModal = true;
+      this.isLoading = false;
+      setTimeout(() => {
+        this.showModal = false;
+      }, 2000);
+    },
+    error: (err) => {
+      console.error('Erro na atualização:', err);
+      // Reverte a mudança local em caso de erro
+      this.isActivated = !this.isActivated;
+      this.exercise.status = this.isActivated ? 'active' : 'inactive';
+      this.modalMessage = 'Erro ao atualizar status.';
+      this.showModal = true;
+      this.isLoading = false;
+    },
+  });
+}
 
   updateExerciseData(): void {
     this.isLoading = true;

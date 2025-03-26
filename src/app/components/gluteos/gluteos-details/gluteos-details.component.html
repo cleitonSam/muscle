@@ -11,12 +11,14 @@
     <div class="header-actions">
       <button class="edit-button" (click)="openEditModal()">Editar</button>
       <div class="toggle-container">
-        <span class="status-text">{{ isActivated ? 'Ativado' : 'Desativado' }}</span>
-        <label class="toggle-switch">
-          <input type="checkbox" [(ngModel)]="isActivated" (change)="onToggleChange()">
-          <span class="slider"></span>
-        </label>
-      </div>
+  <span class="status-text" [class.active]="isActivated" [class.inactive]="!isActivated">
+    {{ isActivated ? 'Ativado' : 'Desativado' }}
+  </span>
+  <label class="toggle-switch">
+    <input type="checkbox" [(ngModel)]="isActivated" (change)="onToggleChange()">
+    <span class="slider"></span>
+  </label>
+</div>
     </div>
   </div>
 
