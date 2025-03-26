@@ -246,7 +246,8 @@
   <div class="modal-content">
     <h2>Insira seus Dados</h2>
     <input type="text" [(ngModel)]="name" placeholder="Digite seu Nome" />
-    <input type="text" [(ngModel)]="cpf" placeholder="Digite seu CPF" />
+    <input type="text" [(ngModel)]="cpf" placeholder="Digite seu CPF" appCpfMask  />
+    <div *ngIf="cpfInvalido" class="error-message">CPF inválido.</div>
     <div class="modal-buttons">
       <button class="confirm-button" (click)="logExerciseChange()">Confirmar</button>
       <button class="cancel-button" (click)="closeCpfModal()">Cancelar</button>

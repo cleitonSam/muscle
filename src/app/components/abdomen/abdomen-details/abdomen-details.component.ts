@@ -1,7 +1,7 @@
-import { Component, CUSTOM_ELEMENTS_SCHEMA, Input, OnInit } from '@angular/core';
+import { Component, CUSTOM_ELEMENTS_SCHEMA, OnInit } from '@angular/core';
 import { ActivatedRoute, Router, RouterModule } from '@angular/router';
 import { CommonModule } from '@angular/common';
-import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { HttpClientModule } from '@angular/common/http';
 import { AbdomenService } from '../service/abdomen.service';
 import { FormsModule } from '@angular/forms';
 import { LoadingComponent } from '../../../loading/loading.component';
@@ -17,7 +17,7 @@ import { LoadingComponent } from '../../../loading/loading.component';
 })
 export class AbdomenDetailsComponent implements OnInit {
   exercise: any;
-  isActivated: boolean = false; // Inicializado como false
+  isActivated: boolean = false;
   showCpfModal: boolean = false;
   cpf: string = '';
   name: string = '';
@@ -33,6 +33,7 @@ export class AbdomenDetailsComponent implements OnInit {
   editData: any = {};
   isEditing: boolean = false;
   isLoading: boolean = true;
+  cpfInvalido: boolean = false;
 
   constructor(
     private route: ActivatedRoute,
@@ -43,6 +44,10 @@ export class AbdomenDetailsComponent implements OnInit {
   ngOnInit(): void {
     this.loadAllExercises();
     this.loadExerciseDetails();
+  }
+
+  onCpfValido(valido: boolean): void {
+    this.cpfInvalido = !valido;
   }
 
   loadAllExercises(): void {
@@ -67,9 +72,9 @@ export class AbdomenDetailsComponent implements OnInit {
       const numericId = Number(id);
       this.exerciseService.getExercises().subscribe({
         next: (data) => {
-          this.exercise = data.find((e) => e.id === numericId);
-          if (this.exercise) {
-            // CORREÇÃO PRINCIPAL: Garantir que isActivated reflita o status correto
+          const updatedExercise = data.find((e) => e.id === numericId);
+          if (updatedExercise) {
+            this.exercise = updatedExercise;
             this.isActivated = this.exercise.status === 'active';
             this.loadExerciseHistory(numericId);
             this.setCurrentExerciseIndex();
@@ -102,15 +107,11 @@ export class AbdomenDetailsComponent implements OnInit {
   }
 
   onToggleChange(): void {
-    // Atualiza o status do exercício localmente imediatamente
     const newStatus = this.isActivated ? 'active' : 'inactive';
     this.exercise.status = newStatus;
-    
-    // Prepara os dados para o log
     this.exerciseIdToLog = this.exercise.id;
     this.newStatusToLog = newStatus;
     this.isEditing = false;
-    
     this.openCpfModal();
   }
 
@@ -136,19 +137,19 @@ export class AbdomenDetailsComponent implements OnInit {
 
   logExerciseChange(): void {
     if (!this.validateCPF(this.cpf)) {
-      alert('CPF inválido. Por favor, insira um CPF válido.');
+      alert('CPF inválido. Por favor, insira um CPF válido (11 dígitos numéricos).');
       return;
     }
   
     if (!this.name.trim()) {
-      alert('Nome inválido. Por favor, insira seu nome.');
+      alert('Por favor, insira seu nome completo.');
       return;
     }
   
     const logData = {
       name: this.name,
       user: this.cpf,
-      date: new Date().toLocaleString(),
+      date: new Date().toISOString(),
       exerciseId: this.exerciseIdToLog,
       status: this.isEditing ? 'edited' : this.newStatusToLog,
     };
@@ -156,7 +157,6 @@ export class AbdomenDetailsComponent implements OnInit {
     this.exerciseService.registerLog(logData).subscribe({
       next: () => {
         this.closeCpfModal();
-        
         if (this.isEditing) {
           this.updateExerciseData();
         } else {
@@ -165,7 +165,7 @@ export class AbdomenDetailsComponent implements OnInit {
       },
       error: (err) => {
         console.error('Erro ao registrar log:', err);
-        alert('Erro ao registrar o log. Por favor, tente novamente.');
+        alert('Ocorreu um erro ao registrar. Por favor, tente novamente.');
       },
     });
   }
@@ -173,33 +173,43 @@ export class AbdomenDetailsComponent implements OnInit {
   updateExerciseStatus(): void {
     if (!this.exerciseIdToLog || !this.newStatusToLog) return;
 
+    this.isLoading = true;
     this.exerciseService.updateExerciseStatus(this.exerciseIdToLog, this.newStatusToLog).subscribe({
       next: (response) => {
-        // Atualiza o status no objeto local
+        // Atualiza localmente primeiro para resposta rápida
         this.exercise.status = this.newStatusToLog;
-        this.modalMessage = this.isActivated ? 'Ativado com sucesso!' : 'Desativado com sucesso!';
+        this.isActivated = this.newStatusToLog === 'active';
+        
+        // Recarrega os dados completos do servidor
+        this.loadExerciseDetails();
+        
+        this.modalMessage = `Exercício ${this.newStatusToLog === 'active' ? 'ativado' : 'desativado'} com sucesso!`;
         this.showModal = true;
         setTimeout(() => {
           this.showModal = false;
-          this.router.navigate(['/Abdômen']);
         }, 2000);
       },
       error: (err) => {
-        console.error('Falha na atualização:', err);
-        // Reverte o toggle em caso de erro
+        console.error('Erro na atualização:', err);
         this.isActivated = !this.isActivated;
         this.exercise.status = this.isActivated ? 'active' : 'inactive';
+        this.modalMessage = 'Erro ao atualizar status.';
+        this.showModal = true;
+        this.isLoading = false;
       },
     });
   }
 
   updateExerciseData(): void {
+    this.isLoading = true;
     this.exerciseService.updateExercise(this.editData).subscribe({
-      next: (response) => {
-        // Atualiza o exercício local com os novos dados
-        this.exercise = { ...this.editData };
-        // Garante que o toggle está sincronizado
+      next: (updatedExercise) => {
+        // Atualiza localmente primeiro
+        this.exercise = { ...updatedExercise };
         this.isActivated = this.exercise.status === 'active';
+        
+        // Recarrega os dados completos
+        this.loadExerciseDetails();
         
         this.modalMessage = 'Alterações salvas com sucesso!';
         this.showModal = true;
@@ -208,9 +218,10 @@ export class AbdomenDetailsComponent implements OnInit {
         }, 2000);
       },
       error: (err) => {
-        console.error('Falha na atualização:', err);
-        this.modalMessage = 'Erro ao salvar as alterações.';
+        console.error('Erro na atualização:', err);
+        this.modalMessage = 'Erro ao salvar alterações.';
         this.showModal = true;
+        this.isLoading = false;
       }
     });
   }
@@ -227,27 +238,24 @@ export class AbdomenDetailsComponent implements OnInit {
 
   closeModal(): void {
     this.showModal = false;
-    this.router.navigate(['/Abdômen']);
   }
 
   cleanExerciseName(name: string): string {
-    return name.replace('', '').replace('', '').trim();
+    return name?.replace(/[^a-zA-Z0-9 ]/g, '').trim() || '';
   }
 
   formatText(value: string): string[] {
     return value
-      ? value
-          .split(/\d+\.|\n|;/)
-          .map((item) => item.trim())
-          .filter((item) => item.length > 0)
-      : [];
+      ?.split(/\d+\.|\n|;/)
+      .map(item => item.trim())
+      .filter(item => item.length > 0) || [];
   }
 
   getVideoUrls(videos: string): string[] {
     return videos
-      .split('\n')
-      .map((url) => url.trim())
-      .filter((url) => url.length > 0);
+      ?.split('\n')
+      .map(url => url.trim())
+      .filter(url => url.length > 0) || [];
   }
 
   switchTab(tab: 'exercise' | 'history'): void {
@@ -255,11 +263,11 @@ export class AbdomenDetailsComponent implements OnInit {
   }
 
   getStatusText(status: string): string {
-    switch(status) {
-      case 'active': return 'Ativado';
-      case 'inactive': return 'Desativado';
-      case 'edited': return 'Editado';
-      default: return status;
-    }
+    const statusMap: {[key: string]: string} = {
+      'active': 'Ativado',
+      'inactive': 'Desativado',
+      'edited': 'Editado'
+    };
+    return statusMap[status] || status;
   }
 }
