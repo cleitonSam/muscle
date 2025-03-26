@@ -30,9 +30,9 @@ this.validarCPF(value.replace(/\D/g, '')); // Valida o CPF sem máscara
 }
 
 private validarCPF(cpf: string): void {
-const valido = this.validarCPFAlgorithm(cpf);
-this.cpfValido.emit(valido); // Notifica o componente
-}
+    const valido = cpf.length === 11 && this.validarCPFAlgorithm(cpf);
+    this.cpfValido.emit(valido);
+  }
 
 private validarCPFAlgorithm(cpf: string): boolean {
 if (cpf.length !== 11 || /^(\d)\1{10}$/.test(cpf)) return false;

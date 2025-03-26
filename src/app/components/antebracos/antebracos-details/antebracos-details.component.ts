@@ -34,6 +34,7 @@ export class AntebracosDetailsComponent {
   isEditing: boolean = false;
   isLoading: boolean = true;
   cpfInvalido: boolean = false;
+cpfValid: boolean = false
  
    constructor(
      private route: ActivatedRoute,
@@ -45,11 +46,10 @@ export class AntebracosDetailsComponent {
     this.loadAllExercises();
     this.loadExerciseDetails();
   }
-
-  onCpfValido(valido: boolean): void {
-    this.cpfInvalido = !valido;
-  }
-
+onCpfValido(isValid: boolean): void {
+  this.cpfValid = isValid;
+  this.cpfInvalido = !isValid;
+}
   loadAllExercises(): void {
     this.isLoading = true;
     this.exerciseService.getExercises().subscribe({
@@ -131,12 +131,13 @@ export class AntebracosDetailsComponent {
     this.openCpfModal();
   }
 
-  validateCPF(cpf: string): boolean {
-    return cpf.length === 11 && !isNaN(Number(cpf));
-  }
+ validateCPF(cpf: string): boolean {
+  const cleanCpf = cpf.replace(/\D/g, '');
+  return this.cpfValid; // Usa o estado da validação da diretiva
+}
 
   logExerciseChange(): void {
-    if (!this.validateCPF(this.cpf)) {
+    if (!this.cpfValid) {
       alert('CPF inválido. Por favor, insira um CPF válido (11 dígitos numéricos).');
       return;
     }

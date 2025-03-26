@@ -35,6 +35,8 @@ export class BicepsDetailsComponent {
   isEditing: boolean = false;
   isLoading: boolean = true;
   cpfInvalido: boolean = false;
+cpfValid: boolean = false
+  
  
    constructor(
      private route: ActivatedRoute,
@@ -47,8 +49,9 @@ export class BicepsDetailsComponent {
     this.loadExerciseDetails();
   }
 
-  onCpfValido(valido: boolean): void {
-    this.cpfInvalido = !valido;
+  onCpfValido(isValid: boolean): void {
+    this.cpfValid = isValid;
+    this.cpfInvalido = !isValid;
   }
 
   loadAllExercises(): void {
@@ -133,11 +136,12 @@ export class BicepsDetailsComponent {
   }
 
   validateCPF(cpf: string): boolean {
-    return cpf.length === 11 && !isNaN(Number(cpf));
+    const cleanCpf = cpf.replace(/\D/g, '');
+    return this.cpfValid; // Usa o estado da validação da diretiva
   }
 
   logExerciseChange(): void {
-    if (!this.validateCPF(this.cpf)) {
+    if (!this.cpfValid) {
       alert('CPF inválido. Por favor, insira um CPF válido (11 dígitos numéricos).');
       return;
     }
