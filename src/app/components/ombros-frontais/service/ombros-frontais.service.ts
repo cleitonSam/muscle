@@ -6,61 +6,63 @@ import { map, Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class OmbrosFrontaisService {
-private sheetyApiUrl = 'https://api.sheety.co/129fd1f83f6798ca5c4ea7b7cf138bed/muscleOmbrosFrontais/ombrosFrontais';
-private historyApiUrl = 'https://api.sheety.co/129fd1f83f6798ca5c4ea7b7cf138bed/muscleOmbrosFrontais/usuario';
+private sheetyApiUrl = 'https://api.steinhq.com/v1/storages/6872ee9cc088333365b81601/ombrosFrontais';
+private historyApiUrl = 'https://api.steinhq.com/v1/storages/6872ee9cc088333365b81601/usuario';
 
-constructor(private http: HttpClient) {}
+ constructor(private http: HttpClient ) {}
 
-getExercises(): Observable<any[]> {
-  return this.http.get<{ ombrosFrontais: any[] }>(this.sheetyApiUrl).pipe(
-    map(response => response.ombrosFrontais)
-  );
-}
+  /**
+   * GET: Busca todos os exercícios.
+   */
+  getExercises(): Observable<any[]> {
+    return this.http.get<any[]>(this.sheetyApiUrl );
+  }
 
-updateExerciseStatus(id: number, status: string): Observable<any> {
-  const url = `${this.sheetyApiUrl}/${id}`;
-  
-  const payload = {
-    ombrosfrontai: {
-      id: id,
-      status: status
-    }
-  };
+  /**
+   * PUT: Atualiza um exercício existente.
+   * A condição (WHERE) e os dados (SET) são enviados no corpo da requisição.
+   */
+  updateExercise(exerciseData: any): Observable<any> {
+    const url = this.sheetyApiUrl; // A URL para PUT é a URL base da planilha.
+    
+    const payload = {
+      condition: { id: exerciseData.id }, // CONDIÇÃO: Onde a coluna 'id' é igual a exerciseData.id
+      set: exerciseData                  // DADOS: O que deve ser atualizado
+    };
 
-  const headers = new HttpHeaders({
-    'Content-Type': 'application/json'
-  });
+    return this.http.put(url, payload );
+  }
 
-  return this.http.put(url, payload, { headers });
-}
+  /**
+   * PUT: Atualiza apenas o status de um exercício.
+   */
+  updateExerciseStatus(id: number, status: string): Observable<any> {
+    const url = this.sheetyApiUrl;
+    
+    const payload = {
+      condition: { id: id },     // CONDIÇÃO: Onde a coluna 'id' é igual ao id fornecido
+      set: { status: status }    // DADOS: Altere apenas a coluna 'status'
+    };
 
-updateExercise(exerciseData: any): Observable<any> {
-  const url = `${this.sheetyApiUrl}/${exerciseData.id}`;
-  
-  const payload = {
-    ombrosfrontai: exerciseData 
-  };
+    return this.http.put(url, payload );
+  }
 
-  const headers = new HttpHeaders({
-    'Content-Type': 'application/json'
-  });
+  /**
+   * POST: Registra um novo log na planilha 'usuario'.
+   * O payload para POST deve ser um ARRAY de objetos.
+   */
+  registerLog(logData: any): Observable<any> {    
+    const payload = [logData]; 
+    return this.http.post(this.historyApiUrl, payload );
+  }
 
-  return this.http.put(url, payload, { headers });
-}
-
-registerLog(logData: any): Observable<any> {    
-  const payload = {
-    usuario: logData
-  };
-
-  return this.http.post(this.historyApiUrl, payload, {
-    headers: { 'Content-Type': 'application/json' },
-  });
-}
-
-getExerciseHistory(exerciseId: number): Observable<any[]> {
-  return this.http.get<{ usuario: any[] }>(this.historyApiUrl).pipe(
-    map(response => response.usuario.filter(log => log.exerciseId === exerciseId))
-  );
-}
-}
+  /**
+   * GET: Busca o histórico de alterações de um exercício específico.
+   */
+  getExerciseHistory(exerciseId: number): Observable<any[]> {
+    return this.http.get<any[]>(this.historyApiUrl ).pipe(
+      // Filtra os logs para retornar apenas os que correspondem ao ID do exercício.
+      map(logs => logs.filter(log => log.id_exercicio == exerciseId))
+    );
+  }
+} 

@@ -16,25 +16,30 @@ import { CpfMaskDirective } from '../../../directives/cpf-mask.directive';
   providers: [OmbrosFrontaisService]
 })
 export class OmbrosFrontaisDetailsComponent {
-exercise: any;
-  isActivated: boolean = false;
-  showCpfModal: boolean = false;
-  cpf: string = '';
-  name: string = '';
-  exerciseIdToLog: number | null = null;
-  newStatusToLog: string | null = null;
+  // --- Estado do Componente ---
+  exercise: any;
+  allExercises: any[] = [];
   history: any[] = [];
+  isLoading: boolean = true;
+  isActivated: boolean = false;
+  currentExerciseIndex: number = -1;
+
+  // --- Controle de Modais e Abas ---
+  activeTab: 'exercise' | 'history' = 'exercise';
+  showCpfModal: boolean = false;
+  showEditModal: boolean = false;
   showModal: boolean = false;
   modalMessage: string = '';
-  activeTab: 'exercise' | 'history' = 'exercise';
-  allExercises: any[] = [];
-  currentExerciseIndex: number = 0;
-  showEditModal: boolean = false;
-  editData: any = {};
-  isEditing: boolean = false;
-  isLoading: boolean = true;
+
+  // --- Dados de Formulários e Logs ---
+  cpf: string = '';
+  name: string = '';
+  cpfValid: boolean = false;
   cpfInvalido: boolean = false;
-cpfValid: boolean = false
+  isEditing: boolean = false;
+  editData: any = {};
+  exerciseIdToLog: number | null = null;
+  newStatusToLog: string | null = null;
  
    constructor(
      private route: ActivatedRoute,
@@ -43,75 +48,56 @@ cpfValid: boolean = false
    ) {}
  
    ngOnInit(): void {
-    this.loadAllExercises();
-    this.loadExerciseDetails();
+    this.loadInitialData();
   }
-onCpfValido(isValid: boolean): void {
-  this.cpfValid = isValid;
-  this.cpfInvalido = !isValid;
-}
-  loadAllExercises(): void {
+
+  loadInitialData(): void {
     this.isLoading = true;
+    const idParam = this.route.snapshot.paramMap.get('id');
+
+    if (!idParam) {
+      this.handleError('ID do exercício não encontrado na rota.');
+      this.router.navigate(['/']);
+      return;
+    }
+
+    const numericId = Number(idParam);
+
     this.exerciseService.getExercises().subscribe({
       next: (data) => {
         this.allExercises = data;
-        this.setCurrentExerciseIndex();
+        this.exercise = this.allExercises.find(e => e.id == numericId);
+
+        if (this.exercise) {
+          this.isActivated = this.exercise.status === 'active';
+          this.currentExerciseIndex = this.allExercises.findIndex(e => e.id == numericId);
+          this.loadExerciseHistory(this.exercise.id);
+        } else {
+          this.handleError(`Exercício com ID ${numericId} não foi encontrado.`);
+          this.router.navigate(['/']);
+        }
         this.isLoading = false;
       },
-      error: (error) => {
-        console.error('Erro ao buscar exercícios:', error);
-        this.isLoading = false;
-      }
+      error: (error) => this.handleError('Erro ao buscar dados dos exercícios.', error)
     });
-  }
-
-  loadExerciseDetails(): void {
-    this.isLoading = true;
-    const id = this.route.snapshot.paramMap.get('id');
-    if (id) {
-      const numericId = Number(id);
-      this.exerciseService.getExercises().subscribe({
-        next: (data) => {
-          const updatedExercise = data.find((e) => e.id === numericId);
-          if (updatedExercise) {
-            this.exercise = updatedExercise;
-            this.isActivated = this.exercise.status === 'active';
-            this.loadExerciseHistory(numericId);
-            this.setCurrentExerciseIndex();
-          }
-          this.isLoading = false;
-        },
-        error: (error) => {
-          console.error('Erro ao buscar exercícios:', error);
-          this.isLoading = false;
-        }
-      });
-    }
   }
 
   loadExerciseHistory(exerciseId: number): void {
     this.exerciseService.getExerciseHistory(exerciseId).subscribe({
-      next: (logs) => {
-        this.history = logs;
-      },
-      error: (err) => {
-        console.error('Erro ao carregar o histórico:', err);
-      }
+      next: (logs) => { this.history = logs; },
+      error: (err) => this.handleError('Erro ao carregar o histórico.', err)
     });
   }
 
-  setCurrentExerciseIndex(): void {
-    if (this.exercise && this.allExercises.length > 0) {
-      this.currentExerciseIndex = this.allExercises.findIndex(e => e.id === this.exercise.id);
-    }
+  onCpfValido(isValid: boolean): void {
+    this.cpfValid = isValid;
+    this.cpfInvalido = !isValid;
   }
 
   onToggleChange(): void {
-    const newStatus = this.isActivated ? 'active' : 'inactive';
-    this.exercise.status = newStatus;
-    this.exerciseIdToLog = this.exercise.id;
-    this.newStatusToLog = newStatus;
     this.isEditing = false;
+    this.newStatusToLog = this.isActivated ? 'active' : 'inactive';
+    this.exerciseIdToLog = this.exercise.id;
     this.openCpfModal();
   }
 
@@ -120,158 +106,109 @@ onCpfValido(isValid: boolean): void {
     this.showEditModal = true;
   }
 
-  closeEditModal(): void {
-    this.showEditModal = false;
-  }
-
   saveChanges(): void {
-    this.exerciseIdToLog = this.exercise.id;
-    this.showEditModal = false;
     this.isEditing = true;
+    this.exerciseIdToLog = this.editData.id;
+    this.closeEditModal();
     this.openCpfModal();
   }
 
- validateCPF(cpf: string): boolean {
-  const cleanCpf = cpf.replace(/\D/g, '');
-  return this.cpfValid; // Usa o estado da validação da diretiva
-}
-
   logExerciseChange(): void {
-  if (!this.cpfValid) {
-    alert('CPF inválido. Por favor, insira um CPF válido (11 dígitos numéricos).');
-    return;
-  }
+    if (!this.cpfValid) {
+      alert('CPF inválido. Por favor, verifique o número digitado.');
+      return;
+    }
+    if (!this.name.trim()) {
+      alert('Por favor, insira seu nome completo.');
+      return;
+    }
 
-  if (!this.name.trim()) {
-    alert('Por favor, insira seu nome completo.');
-    return;
-  }
+    const logData = {
+      nome: this.name,
+      cpf: this.cpf,
+      data: new Date().toISOString(),
+      id_exercicio: this.exerciseIdToLog,
+      status: this.isEditing ? 'edited' : this.newStatusToLog,
+    };
 
-  // Atualiza o estado local imediatamente
-  if (!this.isEditing) {
-    this.exercise.status = this.newStatusToLog;
-    this.isActivated = this.newStatusToLog === 'active';
-  }
-
-  const logData = {
-    name: this.name,
-    user: this.cpf,
-    date: new Date().toISOString(),
-    exerciseId: this.exerciseIdToLog,
-    status: this.isEditing ? 'edited' : this.newStatusToLog,
-  };
-
-  this.exerciseService.registerLog(logData).subscribe({
-    next: () => {
-      this.closeCpfModal();
-      if (this.isEditing) {
-        this.updateExerciseData();
-      } else {
-        this.updateExerciseStatus();
-      }
-    },
-    error: (err) => {
-      console.error('Erro ao registrar log:', err);
-      // Reverte a mudança local em caso de erro
-      if (!this.isEditing) {
-        this.isActivated = !this.isActivated;
-        this.exercise.status = this.isActivated ? 'active' : 'inactive';
-      }
-      alert('Ocorreu um erro ao registrar. Por favor, tente novamente.');
-    },
-  });
-}
-
-  updateExerciseStatus(): void {
-  if (!this.exerciseIdToLog || !this.newStatusToLog) return;
-
-  this.isLoading = true;
-  this.exerciseService.updateExerciseStatus(this.exerciseIdToLog, this.newStatusToLog).subscribe({
-    next: (response) => {
-      // Já atualizamos o estado local antes, apenas confirmamos
-      this.modalMessage = `Exercício ${this.newStatusToLog === 'active' ? 'ativado' : 'desativado'} com sucesso!`;
-      this.showModal = true;
-      this.isLoading = false;
-      setTimeout(() => {
-        this.showModal = false;
-      }, 2000);
-    },
-    error: (err) => {
-      console.error('Erro na atualização:', err);
-      // Reverte a mudança local em caso de erro
-      this.isActivated = !this.isActivated;
-      this.exercise.status = this.isActivated ? 'active' : 'inactive';
-      this.modalMessage = 'Erro ao atualizar status.';
-      this.showModal = true;
-      this.isLoading = false;
-    },
-  });
-}
-
-  updateExerciseData(): void {
     this.isLoading = true;
-    this.exerciseService.updateExercise(this.editData).subscribe({
-      next: (updatedExercise) => {
-        // Atualiza localmente primeiro
-        this.exercise = { ...updatedExercise };
-        this.isActivated = this.exercise.status === 'active';
-        
-        // Recarrega os dados completos
-        this.loadExerciseDetails();
-        
-        this.modalMessage = 'Alterações salvas com sucesso!';
-        this.showModal = true;
-        setTimeout(() => {
-          this.showModal = false;
-        }, 2000);
+    this.exerciseService.registerLog(logData).subscribe({
+      next: () => {
+        this.closeCpfModal();
+        if (this.isEditing) {
+          this.updateExerciseData();
+        } else {
+          this.updateExerciseStatus();
+        }
       },
-      error: (err) => {
-        console.error('Erro na atualização:', err);
-        this.modalMessage = 'Erro ao salvar alterações.';
-        this.showModal = true;
-        this.isLoading = false;
-      }
+      error: (err) => this.handleError('Erro ao registrar o log. Tente novamente.', err)
     });
   }
 
-  openCpfModal(): void {
-    this.showCpfModal = true;
+  updateExerciseStatus(): void {
+    if (this.exerciseIdToLog === null || this.newStatusToLog === null) return;
+
+    this.exerciseService.updateExerciseStatus(this.exerciseIdToLog, this.newStatusToLog).subscribe({
+      next: () => {
+        this.exercise.status = this.newStatusToLog;
+        this.isActivated = this.exercise.status === 'active';
+        this.showSuccessModal(`Exercício ${this.newStatusToLog === 'active' ? 'ativado' : 'desativado'}!`);
+      },
+      error: (err) => this.handleError('Erro ao atualizar o status.', err)
+    });
   }
 
+  updateExerciseData(): void {
+    this.exerciseService.updateExercise(this.editData).subscribe({
+      next: () => {
+        this.exercise = { ...this.editData };
+        this.isActivated = this.exercise.status === 'active';
+        this.showSuccessModal('Alterações salvas com sucesso!');
+      },
+      error: (err) => this.handleError('Erro ao salvar as alterações.', err)
+    });
+  }
+
+  // --- Métodos de UI e Helpers ---
+
+  handleError(message: string, error?: any): void {
+    console.error(message, error || '');
+    this.modalMessage = message;
+    this.showModal = true;
+    this.isLoading = false;
+  }
+
+  showSuccessModal(message: string): void {
+    this.modalMessage = message;
+    this.showModal = true;
+    this.isLoading = false;
+    setTimeout(() => this.closeModal(), 2000);
+  }
+
+  openCpfModal(): void { this.showCpfModal = true; }
   closeCpfModal(): void {
     this.showCpfModal = false;
     this.cpf = '';
     this.name = '';
   }
 
-  closeModal(): void {
-    this.showModal = false;
-  }
+  closeEditModal(): void { this.showEditModal = false; }
+  closeModal(): void { this.showModal = false; }
 
-  cleanExerciseName(name: string): string {
-    return name?.replace(/[^a-zA-Z0-9 ]/g, '').trim() || '';
-  }
+  switchTab(tab: 'exercise' | 'history'): void { this.activeTab = tab; }
 
   formatText(value: string): string[] {
-    return value
-      ?.split(/\d+\.|\n|;/)
-      .map(item => item.trim())
-      .filter(item => item.length > 0) || [];
+    if (!value) return [];
+    return value.split(/\d+\.|\n|;/).map(item => item.trim()).filter(item => item.length > 0);
   }
 
   getVideoUrls(videos: string): string[] {
-    return videos
-      ?.split('\n')
-      .map(url => url.trim())
-      .filter(url => url.length > 0) || [];
-  }
-
-  switchTab(tab: 'exercise' | 'history'): void {
-    this.activeTab = tab;
+    if (!videos) return [];
+    return videos.split('\n').map(url => url.trim()).filter(url => url.length > 0);
   }
 
   getStatusText(status: string): string {
-    const statusMap: {[key: string]: string} = {
+    const statusMap: { [key: string]: string } = {
       'active': 'Ativado',
       'inactive': 'Desativado',
       'edited': 'Editado'
